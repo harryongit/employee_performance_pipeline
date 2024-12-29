@@ -5,7 +5,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Code Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)
 
-A robust data pipeline for processing, analyzing, and visualizing employee performance metrics. This enterprise-grade solution provides automated ETL processes, statistical analysis, and comprehensive reporting capabilities.
+The Employee Performance Analytics Pipeline is an advanced, automated solution designed to streamline the process of collecting, transforming, analyzing, and visualizing employee performance data. It integrates ETL processes to extract data from various sources, cleanse and normalize it for consistency, and load it into a centralized system. The pipeline enables detailed statistical analysis, including performance scores, efficiency ratios, and training completion rates, while also offering predictive insights such as promotion readiness and employee risk factors. With dynamic, real-time dashboards and personalized performance reports, the pipeline provides actionable insights that empower HR teams and leadership to make data-driven decisions on employee development, retention, and departmental strategies. Scalable and customizable, it is ideal for organizations seeking to optimize workforce performance and align it with business objectives.
 
 ![demo](https://github.com/user-attachments/assets/7b07e490-a1bc-45b9-9cc4-777a8533f15d)
 
