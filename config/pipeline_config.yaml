@@ -1,0 +1,17 @@
+paths:
+  raw_data: "data/raw/employee_data.csv"
+  processed_data: "data/processed/"
+  reports: "reports/"
+
+database:
+  type: "sqlite"
+  name: "employee_performance.db"
+
+analysis:
+  metrics:
+    - "performance_score"
+    - "projects_completed"
+    - "attendance_rate"
+  grouping:
+    - "department"
+    - "position_level"
