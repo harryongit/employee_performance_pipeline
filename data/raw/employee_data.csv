@@ -1,0 +1,1001 @@
+employee_id,first_name,last_name,department,position_level,hire_date,manager_id,base_salary,performance_score,projects_completed,projects_assigned,attendance_rate,training_completed,goals_met,overtime_hours,leave_days_taken,email,location,team_size,certifications,last_promotion_date
+1001,Angel,Hill,Marketing,Junior,2020-12-08,2002,41639,93,13,14,0.88,1,15,44,7,jillrhodes@miller.com,San Francisco,8,PMP,
+1002,Carolyn,Hoffman,Sales,Senior,2021-12-20,2001,79453,70,11,16,0.95,8,11,24,19,shaneramirez@gmail.com,San Francisco,8,Digital Marketing L1,2024-02-13
+1003,Roberto,Ramirez,Marketing,Mid-level,2021-05-08,2010,62298,78,9,10,0.99,5,6,15,17,curtis61@abbott-munoz.com,Chicago,4,Digital Marketing L1,2024-04-26
+1004,Teresa,Gray,Sales,Senior,2023-11-25,2001,70108,87,8,11,0.86,4,15,49,16,barbara10@hotmail.com,San Francisco,8,AWS Solutions Architect,2024-02-29
+1005,Tracie,Wyatt,IT,Junior,2021-12-06,2002,55256,97,8,11,0.89,10,10,20,16,oramirez@martin-kelly.com,Seattle,6,AWS Solutions Architect,2023-02-28
+1006,Amanda,Sanchez,Marketing,Junior,2020-08-06,2001,75005,93,12,13,0.92,4,15,45,12,onelson@hotmail.com,San Francisco,9,Digital Marketing L1,2022-01-19
+1007,Jeffrey,Nguyen,Sales,Mid-level,2024-09-23,2003,66290,78,7,8,0.99,9,10,23,20,lydiatrujillo@adams-clark.org,San Francisco,7,PMP,
+1008,Diana,Foster,Marketing,Senior,2022-09-01,2003,75322,78,18,22,0.91,3,7,42,20,josephwright@hotmail.com,San Francisco,4,Sales Expert L2,2023-07-28
+1009,Julie,Patterson,Marketing,Mid-level,2024-07-29,2009,79086,72,17,20,0.94,7,13,26,5,jeffrey28@yahoo.com,Chicago,9,Sales Expert L2,2024-09-18
+1010,Brandon,Rodriguez,Marketing,Mid-level,2020-10-06,2009,47310,79,18,19,0.92,4,13,21,8,ycarlson@carlson-mcdonald.com,Seattle,10,Digital Marketing L1,2023-12-24
+1011,Michelle,Smith,Sales,Junior,2024-09-11,2006,64504,94,10,14,0.99,8,5,48,15,kayla51@graham-chavez.com,Chicago,7,Sales Expert L2,
+1012,William,Rodriguez,Sales,Junior,2024-04-01,2003,55785,98,7,7,0.96,1,13,18,9,ericfarmer@hotmail.com,Chicago,9,PMP,2024-06-09
+1013,Aaron,Nguyen,Marketing,Senior,2024-07-02,2004,67730,100,11,15,0.96,3,9,35,16,hickmannatasha@allen-allen.org,San Francisco,7,None,2024-12-27
+1014,Jessica,Cabrera,Sales,Mid-level,2020-08-29,2002,41378,88,12,16,0.88,1,15,13,12,donnaarroyo@baker.biz,Seattle,4,Sales Expert L2,2021-05-22
+1015,Karina,Vaughn,Sales,Mid-level,2021-10-17,2004,71812,76,9,14,0.99,9,14,40,12,pcarney@yahoo.com,New York,10,PMP,2024-02-01
+1016,Shannon,Wright,Sales,Senior,2023-09-20,2002,68249,81,18,21,0.92,0,15,16,6,andrew83@robinson.com,San Francisco,7,Digital Marketing L1,2024-10-26
+1017,Rebecca,Heath,Sales,Junior,2020-07-25,2009,75146,84,9,12,0.88,7,8,14,19,joshuawashington@anderson.info,New York,10,None,
+1018,Lindsey,Lee,Sales,Junior,2022-01-21,2008,50899,83,20,23,0.88,6,5,20,17,agomez@shields-brown.com,Chicago,4,PMP,2024-01-25
+1019,Richard,Morgan,IT,Senior,2020-07-04,2010,76422,91,20,21,0.88,3,5,47,6,jamesherrera@henderson.info,Boston,9,Digital Marketing L1,
+1020,Scott,Callahan,Marketing,Senior,2022-02-12,2010,50317,71,7,8,0.86,1,15,25,17,pearsonamber@novak.com,New York,4,None,2022-06-09
+1021,Timothy,Hancock,Marketing,Junior,2023-06-13,2002,67474,91,15,17,0.88,5,8,26,17,nicholasgalloway@house-glover.com,New York,5,Digital Marketing L1,2024-06-24
+1022,Dorothy,Tucker,IT,Senior,2023-08-04,2008,76896,73,7,11,0.88,4,7,32,7,jeff09@daniels.org,Seattle,5,Digital Marketing L1,2024-10-08
+1023,Wesley,Farrell,Marketing,Mid-level,2024-01-18,2005,74664,70,14,19,0.87,2,9,17,8,yuchristopher@jones.com,Seattle,9,None,
+1024,David,Zamora,Sales,Senior,2023-06-05,2006,62471,76,13,17,0.92,0,6,50,18,harveyrobert@cunningham.com,San Francisco,10,Digital Marketing L1,
+1025,Randy,Powers,Marketing,Mid-level,2022-01-08,2006,50589,93,19,23,0.96,8,5,17,7,wstewart@gmail.com,Seattle,9,AWS Solutions Architect,2023-02-24
+1026,Christine,Hart,Marketing,Junior,2020-01-26,2009,68166,74,6,8,0.9,0,10,23,12,medinawilliam@mahoney.com,Boston,9,Sales Expert L2,2023-12-19
+1027,Eric,Bass,Marketing,Senior,2023-02-19,2007,50128,99,12,13,1.0,2,11,11,10,contrerasangela@hotmail.com,San Francisco,9,Digital Marketing L1,2023-09-28
+1028,Natalie,Baker,IT,Junior,2020-11-14,2007,47084,82,6,9,0.88,7,10,29,12,josephjacobs@cooper.net,Chicago,5,Sales Expert L2,2024-11-11
+1029,Rebecca,Mathis,IT,Junior,2024-02-23,2005,58292,81,17,22,1.0,8,10,11,8,ccalderon@cook.com,New York,6,AWS Solutions Architect,2024-05-30
+1030,Scott,Thornton,Sales,Senior,2021-05-14,2001,68479,81,15,18,0.94,8,6,34,11,jonesnicole@gardner.org,Seattle,6,Sales Expert L2,2024-07-08
+1031,Russell,Williams,Marketing,Senior,2024-09-09,2007,52912,81,18,18,0.99,5,14,30,8,nolanjason@gmail.com,Chicago,9,Digital Marketing L1,2024-10-07
+1032,Kimberly,Henson,IT,Senior,2020-11-12,2005,59376,87,9,10,0.91,6,15,21,14,sarayoung@gmail.com,Chicago,7,None,2022-05-15
+1033,Angel,Doyle,Sales,Mid-level,2021-07-01,2005,78009,89,15,18,0.92,10,8,42,20,vpham@gmail.com,Seattle,10,AWS Solutions Architect,2023-04-02
+1034,Kristin,Rodriguez,Marketing,Senior,2022-04-05,2002,61966,72,12,17,0.9,3,7,11,6,dwalker@torres-pope.com,Boston,5,PMP,2022-12-08
+1035,Donna,Ross,IT,Senior,2021-11-20,2009,77727,76,17,20,0.91,2,15,10,8,rasmussenjoshua@hotmail.com,Boston,10,PMP,2021-12-26
+1036,Erin,Anthony,Sales,Senior,2024-04-28,2009,56331,99,8,11,0.87,7,15,43,15,wilsontara@gmail.com,Boston,10,PMP,2024-09-30
+1037,Tonya,Johnson,Marketing,Mid-level,2024-12-05,2002,50430,93,20,23,0.89,3,15,27,20,jessica56@hotmail.com,Chicago,9,AWS Solutions Architect,2024-12-28
+1038,Paul,Ray,Sales,Mid-level,2024-05-04,2008,62010,80,7,8,0.87,6,7,23,7,fletcheraaron@hotmail.com,Boston,7,PMP,2024-06-17
+1039,Ryan,Rush,Sales,Junior,2021-09-01,2009,67534,82,5,9,0.91,0,10,29,17,elizabeth14@hotmail.com,Seattle,10,PMP,2023-03-20
+1040,Mark,Terry,Sales,Mid-level,2022-08-15,2010,54380,78,18,21,0.85,5,15,35,10,robertbentley@adkins.biz,Seattle,10,PMP,2024-05-10
+1041,Kevin,Clark,Sales,Mid-level,2024-08-26,2008,78790,88,5,5,0.95,2,12,21,6,rramos@gmail.com,Chicago,6,PMP,2024-08-26
+1042,Laura,Moyer,IT,Mid-level,2024-05-04,2001,58235,94,18,20,0.98,7,5,44,6,campbellelizabeth@rogers.com,New York,6,AWS Solutions Architect,2024-11-03
+1043,Dylan,Williams,Sales,Junior,2021-11-25,2003,41335,89,9,10,0.87,10,6,46,11,gibsonolivia@hotmail.com,Seattle,7,Digital Marketing L1,2022-09-30
+1044,Jennifer,Cruz,Marketing,Senior,2021-08-24,2004,47506,94,10,12,0.87,0,9,46,17,dylanwatts@gmail.com,New York,7,AWS Solutions Architect,
+1045,Gregory,Rubio,Marketing,Mid-level,2023-08-10,2001,79348,95,8,12,0.97,5,13,37,16,grantsamantha@gmail.com,Boston,4,None,2024-01-26
+1046,Laurie,Contreras,IT,Junior,2023-11-16,2005,68411,100,16,21,0.98,7,7,37,10,usalazar@hotmail.com,Seattle,9,None,2024-02-27
+1047,Sean,Moore,Marketing,Mid-level,2023-08-15,2007,70465,83,13,15,0.98,1,9,38,12,pgreen@hotmail.com,Chicago,10,PMP,2024-10-13
+1048,Todd,Allen,Sales,Mid-level,2022-05-08,2004,61300,75,20,21,0.9,4,10,27,13,reevesjimmy@yahoo.com,New York,8,Sales Expert L2,2024-07-25
+1049,Devon,Hall,Sales,Senior,2022-09-17,2004,66635,85,12,17,0.92,7,12,11,7,calebrussell@owens.biz,Chicago,6,AWS Solutions Architect,2023-01-20
+1050,Melissa,Cannon,Marketing,Senior,2024-12-16,2002,64184,85,16,19,1.0,8,10,32,19,wsmith@yahoo.com,San Francisco,6,Digital Marketing L1,2024-12-16
+1051,Amanda,Navarro,IT,Junior,2023-04-23,2006,75118,100,10,11,0.88,7,9,47,14,brobinson@johnson-rogers.biz,San Francisco,4,AWS Solutions Architect,2024-03-13
+1052,Tanner,Anderson,IT,Junior,2021-05-24,2008,75005,74,13,13,1.0,8,9,18,20,qvargas@miller.com,Boston,4,Sales Expert L2,2024-12-19
+1053,Brent,Gray,IT,Mid-level,2023-12-02,2001,52082,100,6,8,0.99,7,6,14,17,wmurphy@ramirez-bean.biz,San Francisco,7,Sales Expert L2,2024-04-21
+1054,Thomas,Curry,Sales,Senior,2022-02-19,2008,59912,72,12,12,0.93,6,14,48,12,jeffrey10@herring.com,Chicago,10,None,2022-06-26
+1055,John,Wells,Marketing,Mid-level,2021-04-15,2003,60013,88,6,10,0.99,1,8,50,11,stevenscott@jackson-lawson.com,Seattle,6,Sales Expert L2,
+1056,Daniel,Johnson,Sales,Junior,2021-05-20,2008,40175,83,19,24,0.94,4,5,24,14,tsanders@gmail.com,New York,9,Digital Marketing L1,2022-09-15
+1057,Brittany,Rivas,Marketing,Junior,2020-08-21,2003,57337,95,11,14,0.87,3,15,19,13,terrykevin@burke.com,Chicago,10,AWS Solutions Architect,
+1058,Ross,Wood,Marketing,Senior,2022-12-11,2007,77303,99,14,17,0.87,4,11,27,20,atkinsonlynn@gmail.com,Chicago,7,Sales Expert L2,2024-01-28
+1059,Cynthia,Poole,Marketing,Mid-level,2023-09-05,2003,41695,72,12,17,0.98,9,14,11,13,hthompson@nelson.info,Boston,8,Sales Expert L2,2024-06-12
+1060,Margaret,Vargas,Marketing,Senior,2023-12-12,2006,68981,99,13,14,1.0,6,15,41,7,mariahmiller@yahoo.com,New York,7,Digital Marketing L1,2024-05-29
+1061,Ashley,Barnett,Sales,Mid-level,2022-01-24,2002,66977,92,20,22,0.95,6,13,12,19,snydermark@yahoo.com,Boston,4,Digital Marketing L1,2024-01-15
+1062,Lauren,Peterson,Marketing,Junior,2021-10-18,2009,75559,84,18,18,0.88,5,14,41,19,blackjames@gmail.com,San Francisco,10,Sales Expert L2,2023-04-22
+1063,Tracy,Chang,IT,Mid-level,2023-06-13,2002,71766,73,5,10,0.94,3,7,29,5,bwest@gmail.com,Boston,8,PMP,
+1064,Jeffrey,Holt,Sales,Senior,2022-06-30,2004,50090,85,14,18,0.96,6,12,40,12,thomas85@yahoo.com,Seattle,7,None,
+1065,Michael,Chavez,Marketing,Senior,2024-09-02,2005,48946,97,7,9,0.97,6,10,42,13,jerry35@gmail.com,Seattle,10,Sales Expert L2,2024-11-05
+1066,Hannah,Lee,Marketing,Senior,2024-07-19,2004,72089,97,9,12,0.93,5,10,45,17,jenny89@yahoo.com,Seattle,7,Digital Marketing L1,2024-12-14
+1067,James,Perez,IT,Junior,2020-11-05,2010,66920,71,15,20,0.92,6,11,19,20,alexis82@williams-brown.com,Chicago,4,AWS Solutions Architect,2024-05-21
+1068,Miranda,Henry,Sales,Mid-level,2021-01-24,2007,46534,86,19,19,0.96,6,15,19,7,taylor75@sheppard.info,New York,7,Digital Marketing L1,2023-10-11
+1069,Cameron,Vasquez,IT,Senior,2020-12-17,2002,74971,82,15,20,0.96,7,13,12,7,edwardhart@miller-wright.net,Boston,5,Digital Marketing L1,2024-06-16
+1070,Caitlin,Montgomery,Sales,Senior,2023-07-14,2003,46586,84,10,15,0.89,0,5,30,6,tkerr@hotmail.com,San Francisco,6,Digital Marketing L1,2024-10-26
+1071,Kevin,Oliver,Marketing,Mid-level,2023-08-22,2008,77088,91,10,11,0.88,9,11,49,12,colleenbaker@moore.net,Chicago,7,None,
+1072,Aaron,Hayes,IT,Mid-level,2020-08-18,2007,40615,98,19,21,0.95,2,6,38,16,antonio44@hotmail.com,Chicago,8,Digital Marketing L1,2021-12-17
+1073,Charles,Hall,IT,Mid-level,2023-11-08,2007,53055,82,20,20,0.89,9,10,46,14,ronaldstephens@hotmail.com,Chicago,9,Digital Marketing L1,
+1074,Margaret,Jones,Sales,Senior,2021-04-04,2003,43214,99,20,22,0.97,3,14,32,12,brooke94@martinez-barker.biz,New York,9,AWS Solutions Architect,2022-05-21
+1075,Vincent,Snyder,Marketing,Senior,2022-04-22,2003,42583,79,19,19,0.94,2,6,28,15,prestonjessica@wright.org,Seattle,9,PMP,
+1076,Stephanie,Key,IT,Senior,2024-12-26,2004,72885,99,13,14,0.89,7,9,31,8,hinesgregory@hotmail.com,Boston,7,Sales Expert L2,
+1077,Howard,Richards,Marketing,Mid-level,2023-10-02,2006,45918,95,17,17,0.89,1,12,33,13,harrisonricky@yahoo.com,New York,8,PMP,2024-05-05
+1078,Mia,Rivera,Marketing,Junior,2020-11-17,2001,70898,70,15,19,0.88,1,15,39,14,elaine68@gmail.com,New York,9,PMP,
+1079,Leonard,Morris,IT,Mid-level,2023-11-11,2002,47610,73,12,16,0.87,7,10,44,18,sandovalamy@yahoo.com,Boston,8,AWS Solutions Architect,2024-01-18
+1080,Jacob,Cox,Marketing,Mid-level,2020-06-14,2005,58333,71,16,17,0.92,3,10,16,16,nwolf@yahoo.com,San Francisco,8,Digital Marketing L1,
+1081,Sara,Kim,Sales,Mid-level,2024-08-30,2009,46007,91,11,16,0.95,0,5,31,12,johnsoncrystal@gmail.com,San Francisco,5,None,2024-09-24
+1082,Lance,Smith,Marketing,Junior,2021-05-04,2001,55269,80,9,13,0.85,2,7,44,13,walkermaureen@gmail.com,San Francisco,10,AWS Solutions Architect,
+1083,Deborah,Moore,Sales,Mid-level,2023-12-01,2006,55593,88,15,15,0.88,0,7,36,8,robert77@gmail.com,Seattle,9,Sales Expert L2,2024-03-01
+1084,Andrea,Reyes,Marketing,Junior,2023-11-17,2008,69622,86,12,16,0.86,10,13,29,19,hillkristy@morgan-french.com,Boston,9,Sales Expert L2,
+1085,Jessica,Monroe,IT,Senior,2020-01-05,2010,47075,85,19,19,0.98,5,14,19,7,seanwashington@yahoo.com,Seattle,5,Digital Marketing L1,2022-06-01
+1086,Nicholas,Cantu,Marketing,Mid-level,2024-09-07,2007,64962,89,14,17,0.93,6,6,17,11,ashleyhall@williams-garner.biz,Chicago,7,PMP,2024-12-21
+1087,Vanessa,Sparks,IT,Mid-level,2023-04-11,2002,67262,93,8,10,0.91,10,9,33,9,ihanna@sanford.info,New York,9,PMP,
+1088,Renee,Smith,IT,Junior,2020-11-02,2007,64421,95,9,13,0.86,8,13,31,8,jpitts@harrison.com,New York,7,Digital Marketing L1,2023-01-28
+1089,Christopher,Murphy,IT,Senior,2023-05-16,2009,60476,81,8,12,0.93,2,15,40,12,courtney78@gmail.com,Chicago,10,Sales Expert L2,2024-10-01
+1090,Jimmy,Cohen,Sales,Mid-level,2020-07-28,2005,77624,77,18,22,1.0,9,14,45,5,juliehamilton@gmail.com,Chicago,8,Digital Marketing L1,
+1091,Garrett,Evans,IT,Mid-level,2020-11-05,2007,40400,75,9,13,0.95,1,7,50,5,nguyenbrian@brooks-thomas.net,Boston,4,None,2022-09-25
+1092,Erin,White,IT,Junior,2023-07-01,2007,64251,79,15,19,0.94,0,7,20,6,lynchpatrick@allen.info,Boston,9,Sales Expert L2,2024-09-12
+1093,Steve,Estrada,Marketing,Mid-level,2022-02-25,2007,67143,78,11,15,0.87,6,6,28,20,erica21@yahoo.com,Seattle,8,Digital Marketing L1,
+1094,Vanessa,Evans,Sales,Junior,2022-12-06,2007,53397,79,11,12,0.96,4,10,17,5,stephen43@yahoo.com,Seattle,7,PMP,
+1095,John,Armstrong,Marketing,Junior,2024-02-07,2010,72785,87,16,16,0.91,0,11,11,19,andrew64@gmail.com,Boston,4,Digital Marketing L1,2024-03-19
+1096,Michelle,Osborne,Marketing,Senior,2024-10-21,2002,67373,79,8,11,0.85,5,7,49,19,swall@lawson.com,San Francisco,10,Digital Marketing L1,
+1097,John,Campos,IT,Senior,2021-08-10,2009,66243,86,7,10,0.98,5,8,31,10,bergerdebbie@kramer-johnson.com,Seattle,4,None,2024-03-31
+1098,Christopher,Phillips,Sales,Mid-level,2021-02-09,2008,63009,93,9,10,0.87,4,8,21,9,jamesbuchanan@yahoo.com,Boston,10,Sales Expert L2,
+1099,Robin,Rivas,Marketing,Senior,2024-07-04,2010,69419,91,15,20,0.9,7,6,40,19,scoffey@hotmail.com,New York,9,Digital Marketing L1,2024-10-09
+1100,Darius,Mccarty,IT,Senior,2022-11-15,2008,44862,79,19,22,0.86,5,9,14,7,michelleramsey@coffey-ballard.com,Seattle,8,None,2024-07-31
+1101,Ralph,Baker,Marketing,Senior,2020-10-04,2002,42688,84,11,13,0.94,8,7,13,19,vrichardson@baker.com,Seattle,4,Digital Marketing L1,2024-02-14
+1102,Jesus,Johnson,Marketing,Junior,2020-11-29,2006,42565,77,19,22,0.93,9,7,33,16,deborahreid@yahoo.com,Seattle,6,PMP,2023-10-13
+1103,Darryl,Williams,Sales,Senior,2022-07-24,2003,61931,72,15,15,0.93,6,9,26,9,wendy11@clay.biz,Chicago,6,Sales Expert L2,2024-04-18
+1104,Ellen,Paul,IT,Senior,2023-11-07,2001,65687,74,7,9,0.93,10,10,18,7,nicolepena@yahoo.com,Chicago,9,PMP,2024-08-21
+1105,Antonio,Wood,IT,Junior,2023-06-18,2009,54037,80,20,21,0.88,2,7,14,14,xsampson@gmail.com,Seattle,10,Sales Expert L2,2024-01-21
+1106,Amy,Levine,Sales,Senior,2023-02-12,2006,62070,98,9,13,0.91,2,7,49,10,sandersjames@gmail.com,San Francisco,9,PMP,
+1107,Elizabeth,May,IT,Senior,2023-11-10,2008,58673,94,19,20,0.93,4,12,22,16,buchananjohn@buchanan.com,Chicago,9,None,2024-01-20
+1108,Brenda,Li,IT,Senior,2024-09-14,2002,74567,83,10,11,0.97,2,9,13,20,kim90@garrison-thomas.com,Seattle,10,Digital Marketing L1,2024-10-24
+1109,Lauren,Rodriguez,Sales,Mid-level,2024-08-02,2001,45496,94,10,12,0.92,8,7,37,7,alexistyler@chapman.com,Boston,5,PMP,2024-09-19
+1110,David,Fisher,Sales,Mid-level,2022-04-01,2003,72899,81,12,15,1.0,5,8,11,15,alvarezkimberly@wheeler.org,New York,4,Digital Marketing L1,2022-06-21
+1111,Kevin,Schneider,IT,Mid-level,2020-05-11,2010,49095,94,20,23,0.94,1,5,26,11,lutzmelanie@parks-henry.info,Seattle,10,AWS Solutions Architect,2024-10-17
+1112,Marc,Hernandez,IT,Junior,2020-08-13,2008,58881,77,14,14,0.86,6,15,49,19,claudia98@nguyen.info,Seattle,4,Sales Expert L2,2021-04-21
+1113,Russell,Mcguire,Marketing,Junior,2024-04-16,2002,73775,88,12,17,0.87,6,5,49,16,russellbeasley@morgan-chavez.biz,Seattle,5,None,2024-12-07
+1114,Ronald,Ortega,IT,Junior,2020-10-19,2002,74475,87,5,8,0.98,0,15,34,16,gloriawells@gmail.com,Chicago,6,Sales Expert L2,2022-02-16
+1115,Ryan,Garner,Sales,Senior,2020-09-19,2003,46793,94,15,16,0.86,8,10,21,19,angelawillis@hotmail.com,New York,9,PMP,2021-07-05
+1116,Elizabeth,Jenkins,Marketing,Mid-level,2024-10-08,2001,42423,79,11,11,0.97,0,10,29,17,schmittcaroline@yahoo.com,San Francisco,10,None,2024-11-09
+1117,William,Moore,IT,Mid-level,2020-11-14,2008,43132,97,15,17,0.87,5,11,35,19,melaniebell@hotmail.com,Boston,7,Digital Marketing L1,2023-04-30
+1118,Danny,Ramirez,IT,Senior,2023-02-12,2005,57479,95,7,12,0.91,6,14,21,14,xbruce@austin.com,Chicago,6,Sales Expert L2,
+1119,Henry,Park,IT,Senior,2020-03-27,2007,67925,75,19,21,0.92,5,14,37,13,michael22@hotmail.com,Chicago,9,Sales Expert L2,
+1120,Donald,Schultz,Marketing,Senior,2023-05-27,2006,50484,100,5,6,0.98,10,12,12,9,reesejason@chavez-moore.com,Chicago,4,AWS Solutions Architect,2023-07-20
+1121,Nicole,Moore,IT,Senior,2022-10-01,2007,42122,89,9,14,0.92,5,10,38,7,nelsonebony@lawson-perry.com,Chicago,8,AWS Solutions Architect,2023-02-09
+1122,Michael,Rodriguez,Marketing,Mid-level,2024-05-07,2004,56358,100,8,8,0.96,7,13,34,8,brandon69@gmail.com,Seattle,6,Digital Marketing L1,2024-06-20
+1123,Kevin,Clark,IT,Senior,2020-01-21,2002,72191,76,8,9,0.98,7,7,38,7,keith10@burgess-thompson.biz,Seattle,10,Digital Marketing L1,2021-10-17
+1124,Jerry,Hansen,Marketing,Mid-level,2024-07-09,2004,59657,97,10,15,0.96,10,7,33,12,sandersjudy@yahoo.com,Boston,4,AWS Solutions Architect,2024-11-22
+1125,Samantha,Atkins,Sales,Mid-level,2020-02-25,2008,76308,88,16,19,0.97,8,7,49,7,amckinney@yahoo.com,Seattle,4,Digital Marketing L1,2024-01-23
+1126,Andrew,Nguyen,IT,Mid-level,2020-12-20,2003,77676,72,9,11,0.95,7,12,43,16,christopher13@yahoo.com,San Francisco,5,None,2022-09-10
+1127,Christian,Harrell,IT,Senior,2023-05-26,2002,43631,96,8,12,0.87,2,7,30,12,masonjackson@hotmail.com,Chicago,6,None,2024-07-05
+1128,Alyssa,Lee,Sales,Senior,2020-12-17,2010,76099,78,9,14,0.9,8,6,42,10,jessica23@gmail.com,Seattle,8,None,
+1129,James,Morrison,IT,Senior,2021-03-27,2001,42699,96,5,5,0.86,10,14,26,11,stephanieburton@webster-wolf.info,Boston,10,None,2022-04-28
+1130,Dawn,Downs,Marketing,Senior,2024-10-16,2007,58983,90,14,17,0.89,10,11,29,19,edward17@yahoo.com,Boston,4,Sales Expert L2,
+1131,Brittany,Bell,IT,Junior,2022-07-26,2002,62294,89,9,11,0.98,5,10,35,9,steven00@decker-jones.com,Chicago,10,Digital Marketing L1,2023-09-25
+1132,Steven,Spencer,Sales,Mid-level,2024-04-21,2010,48029,78,19,20,0.87,0,9,34,18,kstout@lopez.com,Chicago,5,AWS Solutions Architect,2024-09-17
+1133,Lisa,Monroe,Sales,Junior,2023-10-28,2004,72654,86,19,22,0.98,7,5,15,17,benjaminzimmerman@warren-bishop.com,Seattle,8,PMP,2024-01-16
+1134,Paul,Schroeder,IT,Junior,2023-03-01,2007,43312,79,20,24,0.98,10,15,40,14,cameron18@hughes.org,San Francisco,8,Sales Expert L2,2023-10-06
+1135,Christopher,Alvarado,IT,Senior,2021-04-09,2007,63971,94,17,19,0.86,0,14,45,11,tammy62@hotmail.com,Seattle,6,None,2022-09-08
+1136,Kyle,Bennett,IT,Senior,2020-09-17,2009,58331,96,8,9,1.0,6,10,31,16,elizabethcalderon@hotmail.com,Boston,10,AWS Solutions Architect,
+1137,Clarence,Santiago,Marketing,Junior,2024-06-20,2010,42969,71,9,14,0.9,7,13,39,9,coxhenry@gmail.com,Chicago,8,None,
+1138,Katie,Lee,Sales,Mid-level,2022-11-24,2002,59610,88,15,19,0.97,8,12,46,14,chrisrichard@romero.net,Boston,7,Sales Expert L2,2024-11-29
+1139,Ebony,Walter,Marketing,Mid-level,2020-04-24,2010,41746,89,20,22,1.0,9,14,24,6,lmoore@wise.info,Boston,8,PMP,
+1140,Michael,Ball,Sales,Senior,2020-05-12,2010,55872,71,8,9,0.85,5,11,19,18,karen73@hotmail.com,Boston,9,AWS Solutions Architect,2023-11-09
+1141,Tammy,Mueller,Marketing,Senior,2022-01-10,2009,44081,92,9,13,0.88,5,15,40,17,erika97@hammond-strickland.net,Chicago,6,AWS Solutions Architect,2023-05-05
+1142,Tammy,Montoya,Marketing,Mid-level,2024-06-23,2008,57325,89,20,21,0.99,4,13,29,12,brett75@villa.com,Chicago,6,Digital Marketing L1,2024-09-12
+1143,Kathryn,Nelson,IT,Mid-level,2022-06-01,2003,76732,99,13,15,0.87,10,13,34,17,odavis@wilkerson-arias.biz,Chicago,10,Digital Marketing L1,2022-10-09
+1144,Randy,Brooks,Sales,Mid-level,2020-06-11,2010,45179,81,19,24,0.89,7,8,22,13,brooksanthony@gmail.com,Seattle,8,Digital Marketing L1,
+1145,Lacey,Taylor,Sales,Junior,2022-11-04,2009,43326,91,12,17,0.88,1,11,31,20,ihorton@hotmail.com,San Francisco,4,AWS Solutions Architect,
+1146,Christina,Bullock,IT,Senior,2023-12-25,2003,71175,85,11,13,0.9,10,5,15,12,jason28@lynch.com,Boston,8,Sales Expert L2,2024-06-16
+1147,David,Allen,Sales,Junior,2022-07-21,2006,66017,95,20,21,0.99,4,5,10,14,rodriguezrebecca@hotmail.com,Chicago,8,None,
+1148,Crystal,Andrews,IT,Senior,2024-07-20,2005,75605,86,20,21,0.98,7,9,22,8,ruben95@duncan.com,San Francisco,6,AWS Solutions Architect,2024-07-23
+1149,Carlos,Fox,Sales,Senior,2024-06-11,2002,62092,95,14,18,0.95,3,7,49,17,cmarks@hughes.com,Boston,10,PMP,2024-10-29
+1150,John,Sandoval,Marketing,Junior,2020-07-25,2005,52109,74,20,22,0.99,0,9,34,12,dennis58@li-thompson.info,Seattle,7,Digital Marketing L1,2023-07-01
+1151,Ian,Taylor,Marketing,Senior,2024-01-23,2005,40749,78,16,21,0.89,10,6,39,14,carterbradley@gmail.com,New York,5,PMP,2024-09-24
+1152,Sarah,Robertson,Marketing,Mid-level,2020-05-07,2009,64087,89,12,13,0.99,7,7,39,16,benjamin34@yahoo.com,San Francisco,7,None,2023-01-12
+1153,Joshua,Lloyd,Sales,Senior,2020-05-25,2004,79047,97,7,11,0.92,5,6,46,8,ypaul@yahoo.com,Seattle,4,None,2023-03-22
+1154,Heather,Richardson,Marketing,Junior,2021-07-31,2009,50783,80,19,19,0.95,9,12,15,19,acostachristian@hotmail.com,Boston,10,Sales Expert L2,2023-09-09
+1155,Kelly,Garcia,IT,Senior,2021-07-11,2001,43783,87,19,24,0.97,0,11,26,5,kirk96@gmail.com,Boston,9,AWS Solutions Architect,2023-11-05
+1156,Sergio,Acosta,IT,Senior,2023-10-08,2007,44178,87,6,6,1.0,7,5,28,18,yhill@gmail.com,Chicago,5,AWS Solutions Architect,2024-07-07
+1157,Michael,Owen,IT,Mid-level,2020-08-18,2003,64739,82,7,12,0.99,8,7,32,8,thomascathy@johnson-jones.com,San Francisco,5,None,2024-02-01
+1158,Patrick,Bradley,Sales,Junior,2023-01-27,2002,59553,84,18,22,0.91,3,8,39,16,xrush@hines-berry.net,New York,5,Digital Marketing L1,
+1159,Leonard,Ramirez,Marketing,Mid-level,2023-02-11,2004,41025,77,11,11,0.87,0,12,48,6,fitzgeraldvictor@mcintyre-wilson.com,Seattle,5,Sales Expert L2,2023-12-17
+1160,Wendy,Mitchell,Sales,Junior,2023-10-15,2009,49183,86,14,15,0.97,9,10,46,15,davidfarrell@yahoo.com,San Francisco,5,Digital Marketing L1,2024-03-29
+1161,Sean,Miller,IT,Mid-level,2021-06-17,2006,58032,71,10,15,0.95,8,12,13,16,jenna88@yahoo.com,Boston,9,PMP,2024-06-29
+1162,Jennifer,Ho,IT,Junior,2022-07-17,2007,59653,82,10,14,0.92,3,9,19,19,william13@young.com,Seattle,4,None,2023-03-18
+1163,Angela,Wood,Marketing,Junior,2023-01-23,2007,65455,77,13,14,0.9,1,12,33,7,jonesraymond@higgins.org,Seattle,8,AWS Solutions Architect,
+1164,Teresa,Day,Marketing,Junior,2020-08-14,2008,44769,76,11,14,0.88,5,9,10,11,wfrazier@gmail.com,San Francisco,5,Sales Expert L2,2021-09-07
+1165,Hunter,Burch,Marketing,Senior,2024-09-05,2008,53402,82,12,16,0.9,4,11,39,16,guerraapril@yahoo.com,Boston,6,Digital Marketing L1,2024-12-28
+1166,Fernando,Donovan,Sales,Senior,2021-05-23,2009,70768,94,15,16,0.91,6,5,46,12,stacey84@king.net,Seattle,9,AWS Solutions Architect,
+1167,Colleen,Mendez,Marketing,Senior,2022-04-29,2008,67366,79,9,10,0.9,6,14,25,20,brittanycarpenter@hopkins.org,Boston,8,Digital Marketing L1,2022-11-09
+1168,Marcia,Johnson,IT,Junior,2022-11-11,2001,63080,75,9,14,0.93,2,13,13,6,debra96@fowler.com,New York,10,Sales Expert L2,2023-01-13
+1169,Timothy,Ballard,IT,Junior,2022-07-24,2009,55167,72,9,9,0.88,7,10,13,20,shawn02@yahoo.com,Seattle,9,PMP,
+1170,Steven,Peterson,IT,Junior,2023-07-12,2004,41096,86,13,17,1.0,0,13,37,10,michelle55@anderson-wood.net,San Francisco,4,Sales Expert L2,2024-07-22
+1171,John,Martinez,Marketing,Senior,2020-11-22,2004,56542,96,16,18,0.97,1,10,35,19,donaldwilliams@yahoo.com,Chicago,8,AWS Solutions Architect,2022-04-01
+1172,John,Grimes,Marketing,Junior,2023-07-20,2007,42076,72,17,20,0.91,7,5,50,5,sarah53@jimenez.info,Chicago,9,AWS Solutions Architect,
+1173,Tyler,Davis,Marketing,Junior,2024-03-26,2010,74613,99,6,7,0.88,9,12,27,6,nlevy@hotmail.com,New York,4,Digital Marketing L1,2024-07-23
+1174,Brent,Simpson,Sales,Mid-level,2022-12-29,2007,41026,100,11,15,0.87,6,6,29,10,amanda16@gmail.com,Seattle,8,AWS Solutions Architect,2023-02-04
+1175,Kathryn,Diaz,IT,Mid-level,2022-03-29,2010,49171,95,7,11,0.96,5,5,16,18,hudsonjames@hotmail.com,Seattle,5,Sales Expert L2,2023-10-18
+1176,Paul,Cole,IT,Mid-level,2022-06-12,2002,41941,90,13,16,0.92,5,13,34,18,andersoncolin@yahoo.com,Seattle,5,None,2022-10-04
+1177,Angela,Diaz,IT,Junior,2022-11-16,2005,44817,72,13,14,0.91,10,7,34,15,carriemorales@williams.com,Boston,6,Sales Expert L2,
+1178,April,Hernandez,IT,Mid-level,2024-01-08,2009,46699,74,7,8,0.91,8,13,42,18,sarah52@ewing-stevenson.com,New York,4,Sales Expert L2,
+1179,William,Hicks,Marketing,Senior,2022-11-08,2007,61261,97,17,17,0.89,6,6,45,12,thomas05@yahoo.com,San Francisco,8,None,
+1180,Brandy,Robles,Sales,Mid-level,2020-12-03,2004,59734,78,20,21,0.86,6,9,36,14,pbaker@lane.com,Boston,7,Sales Expert L2,2022-09-11
+1181,Dylan,Becker,Marketing,Senior,2024-06-13,2007,52815,84,8,9,0.9,6,10,49,17,leescott@hernandez-vaughn.biz,Seattle,10,Digital Marketing L1,2024-11-07
+1182,Samantha,Salas,Sales,Mid-level,2024-04-05,2005,61015,89,11,14,0.9,6,10,28,20,aprilhoffman@mendoza.info,Boston,8,AWS Solutions Architect,2024-11-28
+1183,Amy,Lowe,IT,Junior,2024-07-11,2002,76952,76,10,15,0.97,0,12,23,19,plee@yahoo.com,Boston,10,Digital Marketing L1,2024-09-15
+1184,Jeffrey,Dudley,Marketing,Mid-level,2024-09-26,2007,49121,90,14,15,0.89,2,11,34,7,janet75@yahoo.com,Seattle,7,None,2024-10-24
+1185,Sarah,Pope,Marketing,Senior,2022-12-16,2006,67413,87,6,8,0.96,8,14,50,7,david86@yahoo.com,San Francisco,4,AWS Solutions Architect,2024-02-24
+1186,Kendra,Thomas,Marketing,Senior,2022-12-05,2009,42903,88,17,19,0.99,6,6,10,8,stephanie15@douglas-burgess.com,Seattle,6,AWS Solutions Architect,2024-12-15
+1187,Joseph,Hoffman,Marketing,Senior,2021-09-16,2005,77698,77,19,21,0.91,10,14,42,9,danielyang@gmail.com,Boston,6,Sales Expert L2,2023-12-31
+1188,Elizabeth,Schmidt,Sales,Junior,2022-01-20,2008,49284,81,14,16,0.92,3,13,40,16,garciamark@garcia-townsend.com,Chicago,7,Sales Expert L2,2022-04-08
+1189,Richard,Donovan,Sales,Mid-level,2024-09-02,2006,42928,95,8,8,0.98,10,6,20,12,wsantos@yahoo.com,Seattle,8,AWS Solutions Architect,2024-10-02
+1190,Debbie,Velez,IT,Mid-level,2022-09-21,2008,55194,95,17,22,0.88,10,15,37,17,amandasharp@gentry.biz,Seattle,4,None,2023-12-08
+1191,Sarah,Johnson,IT,Mid-level,2021-06-27,2002,40291,92,11,12,0.89,1,14,16,10,vlopez@yahoo.com,Chicago,6,Digital Marketing L1,
+1192,Kenneth,Morrison,Marketing,Mid-level,2020-04-23,2005,74584,100,15,19,0.91,6,14,17,16,shawn88@yahoo.com,Seattle,6,PMP,2020-05-21
+1193,Melissa,Mcdonald,Marketing,Junior,2021-02-17,2007,48778,80,8,9,0.9,2,10,19,17,riverajessica@scott.com,Boston,7,None,
+1194,Gregory,Chase,Sales,Mid-level,2024-10-27,2006,75217,92,10,14,0.88,4,7,21,15,frobertson@yahoo.com,New York,10,PMP,2024-11-14
+1195,Tina,Woods,IT,Junior,2020-10-20,2002,52787,96,17,21,0.93,7,11,41,18,greenjoe@finley-turner.org,Seattle,9,PMP,2021-08-03
+1196,Jose,Ward,Sales,Junior,2020-02-02,2002,59142,71,13,14,0.93,2,12,46,20,contrerassteven@sullivan.com,Chicago,8,None,
+1197,Sabrina,Phillips,Marketing,Mid-level,2020-12-27,2006,75523,96,6,11,0.92,3,11,16,12,susanmendoza@adkins-obrien.biz,New York,6,Sales Expert L2,2023-09-15
+1198,Katherine,Pham,IT,Junior,2024-08-30,2001,55528,76,16,21,0.94,6,7,49,9,erinlarson@fox.com,Seattle,10,AWS Solutions Architect,2024-11-29
+1199,Bryan,Kelley,IT,Senior,2020-08-27,2002,58421,89,10,12,1.0,4,9,46,13,franklinbond@wilson-harris.org,San Francisco,10,None,2021-08-10
+1200,Rachel,Griffin,IT,Junior,2024-02-24,2010,58174,97,9,14,0.98,3,7,30,12,aanderson@elliott-hansen.com,Chicago,10,PMP,2024-03-30
+1201,Jonathan,Smith,Marketing,Mid-level,2020-03-05,2008,64587,84,7,12,0.97,1,11,42,13,williamsmelvin@weaver.com,Chicago,9,Digital Marketing L1,2023-07-18
+1202,Justin,White,Marketing,Junior,2024-01-03,2008,46104,93,19,24,0.95,5,6,44,17,ybrooks@kane-knox.biz,Chicago,5,PMP,2024-01-15
+1203,Felicia,Stanley,IT,Mid-level,2020-09-03,2003,62135,87,9,13,0.98,5,15,13,6,david86@anderson.com,Boston,4,PMP,
+1204,Emily,Stephens,IT,Junior,2022-07-12,2003,68036,76,9,14,0.9,4,6,33,13,johnreed@yahoo.com,New York,4,Digital Marketing L1,2024-06-30
+1205,Kathy,Johnson,IT,Senior,2021-08-05,2009,60021,93,12,15,0.95,1,5,23,20,allencarlos@hotmail.com,Boston,4,AWS Solutions Architect,2024-09-04
+1206,Sean,Powers,Sales,Junior,2020-04-11,2006,62516,96,8,11,0.95,7,6,24,17,joymorales@fernandez.com,Chicago,4,Sales Expert L2,
+1207,Jim,Hendricks,Sales,Mid-level,2024-04-11,2003,48725,90,9,9,0.93,0,14,20,19,joel28@gmail.com,Boston,6,AWS Solutions Architect,2024-08-01
+1208,Joshua,Hawkins,Marketing,Senior,2023-07-05,2003,68992,97,11,11,0.98,2,6,47,17,dpeters@david-powers.net,San Francisco,6,PMP,2024-02-23
+1209,Ricky,Evans,IT,Senior,2022-09-14,2001,45521,77,14,19,0.85,10,9,23,11,oallen@mathews-thomas.info,San Francisco,9,PMP,2024-06-21
+1210,Tammy,Grant,IT,Mid-level,2020-06-25,2010,47388,77,20,25,0.94,8,5,33,15,nsanchez@lucas-nielsen.com,Boston,5,PMP,2023-12-29
+1211,Jenny,Lee,IT,Senior,2020-10-11,2007,51322,94,20,20,0.85,1,5,26,11,mnunez@gmail.com,Seattle,4,Sales Expert L2,2023-01-21
+1212,Linda,Matthews,IT,Senior,2020-08-11,2009,72836,94,18,21,0.96,1,15,44,9,vclark@krueger-smith.com,San Francisco,6,Sales Expert L2,2022-03-18
+1213,Yvonne,Mendoza,Sales,Senior,2020-12-27,2010,61413,82,7,9,0.95,3,5,25,7,randyallen@rowe-james.net,New York,7,Sales Expert L2,2024-03-01
+1214,Jose,Hunt,IT,Senior,2023-01-18,2005,51511,73,5,10,0.87,0,7,41,16,ugarcia@yahoo.com,San Francisco,8,None,2023-09-14
+1215,Nathan,Gutierrez,IT,Junior,2022-09-18,2008,57613,93,8,8,0.9,6,9,43,7,allentran@riley.com,Boston,6,None,2023-07-30
+1216,Noah,Whitaker,Marketing,Mid-level,2021-12-12,2001,43633,85,10,12,0.87,1,14,17,12,jonathan77@yahoo.com,San Francisco,9,None,
+1217,Laura,Jackson,Sales,Mid-level,2021-06-03,2006,63853,82,9,10,0.99,0,13,36,12,sabrinaweaver@hotmail.com,Chicago,6,AWS Solutions Architect,2024-07-15
+1218,Arthur,Bradford,Sales,Senior,2020-06-28,2005,64432,73,6,7,0.88,8,5,35,7,gutierrezmegan@jones.com,Chicago,7,Digital Marketing L1,2024-12-11
+1219,Stephen,Brown,Sales,Senior,2021-11-07,2004,69933,70,16,17,0.89,4,14,25,19,ismith@hotmail.com,Seattle,6,None,2024-01-01
+1220,Alvin,Bowen,Sales,Junior,2023-06-28,2005,40417,99,18,18,0.88,5,15,10,15,shawheidi@yahoo.com,New York,4,PMP,2023-07-07
+1221,Samantha,Warren,Sales,Senior,2021-07-07,2006,55608,83,20,20,1.0,2,9,15,6,christineking@adams-sanders.com,Boston,5,None,2021-12-20
+1222,Annette,Branch,Marketing,Junior,2023-06-12,2005,78061,73,9,14,0.97,1,14,46,6,gabriella10@sullivan.net,Chicago,7,AWS Solutions Architect,2024-06-02
+1223,Brian,Smith,IT,Senior,2024-01-15,2008,61381,80,19,21,0.89,3,7,47,8,porterryan@knight-hodge.com,Chicago,5,Sales Expert L2,
+1224,Brad,Lewis,IT,Junior,2024-06-25,2010,75122,81,11,14,0.9,4,6,15,10,brandon14@hotmail.com,New York,10,Digital Marketing L1,2024-12-20
+1225,Dominique,White,Sales,Mid-level,2024-10-13,2007,49720,72,12,14,0.91,0,15,29,13,alibrenda@hotmail.com,Boston,10,AWS Solutions Architect,
+1226,Sarah,Evans,Marketing,Senior,2023-05-19,2007,76052,77,8,11,0.87,2,6,10,6,irhodes@reyes-singh.com,Chicago,10,AWS Solutions Architect,
+1227,Julie,Reed,Marketing,Senior,2024-04-01,2008,45507,88,13,13,0.85,1,8,38,9,ehall@jacobs-austin.org,New York,4,Digital Marketing L1,
+1228,Anthony,Nelson,Sales,Senior,2023-05-14,2008,68387,96,17,20,0.85,10,11,21,16,jperez@yahoo.com,San Francisco,5,AWS Solutions Architect,2024-01-22
+1229,Jacob,Willis,Sales,Senior,2023-08-31,2004,56107,90,14,17,0.91,8,12,13,7,bartonkenneth@gmail.com,Seattle,6,PMP,
+1230,Joseph,James,Sales,Senior,2020-08-13,2007,75629,95,5,8,0.97,5,12,44,20,gstewart@smith.info,Chicago,6,None,2021-04-24
+1231,Joseph,Anderson,Sales,Junior,2023-01-20,2003,60897,89,12,12,0.98,4,5,40,16,jcole@russell.com,New York,10,None,2024-09-02
+1232,Alexander,Gutierrez,Sales,Senior,2022-10-01,2006,55804,78,6,7,0.94,6,10,21,10,ashleyjackson@jackson-adams.com,Seattle,5,None,2024-05-21
+1233,Dustin,Jackson,Sales,Senior,2024-03-09,2004,63047,100,9,13,0.99,7,13,29,10,yevans@gmail.com,Seattle,7,Sales Expert L2,
+1234,Johnathan,Wright,Sales,Junior,2023-01-23,2003,74501,85,5,7,0.99,3,7,31,10,stephentaylor@gmail.com,Seattle,10,Digital Marketing L1,
+1235,Meagan,James,Marketing,Junior,2023-05-11,2003,47269,97,16,16,0.91,10,11,47,8,pcook@hotmail.com,Boston,6,Digital Marketing L1,2024-01-24
+1236,Malik,Valentine,Marketing,Mid-level,2021-02-23,2010,60793,75,16,17,0.95,2,11,29,14,zedwards@carter-neal.info,Boston,5,AWS Solutions Architect,2022-06-04
+1237,John,Bennett,Marketing,Junior,2024-11-21,2006,51932,89,15,19,0.88,9,6,41,9,daniel93@hotmail.com,San Francisco,6,Sales Expert L2,2024-12-28
+1238,Hector,Saunders,Marketing,Junior,2024-08-19,2008,62003,84,5,7,0.88,1,10,26,8,nhahn@salinas-guerra.com,Boston,9,Sales Expert L2,
+1239,Emily,Taylor,Sales,Mid-level,2023-06-22,2001,72314,98,17,19,0.93,1,12,46,12,johnnymoore@yahoo.com,Chicago,5,PMP,
+1240,Shane,Harper,Sales,Mid-level,2023-03-14,2008,57113,100,8,8,0.9,6,7,14,7,ystephens@yahoo.com,New York,6,None,2023-05-10
+1241,Danielle,Miller,IT,Senior,2024-07-23,2009,50813,89,18,19,0.86,5,8,22,18,gabriel90@terrell.com,Chicago,9,None,2024-11-15
+1242,Alex,Green,Marketing,Mid-level,2023-08-27,2005,59490,77,8,8,0.91,8,12,19,6,dbrooks@chapman.com,Seattle,6,Sales Expert L2,2023-11-17
+1243,Kenneth,Knapp,IT,Junior,2024-02-05,2005,46356,70,11,12,0.95,1,12,17,14,guerrajessica@collins-gibson.com,New York,10,PMP,2024-03-16
+1244,Michael,Davis,Marketing,Senior,2024-06-04,2005,65396,75,16,19,0.91,7,5,26,19,carlos01@gmail.com,Seattle,7,Digital Marketing L1,2024-12-08
+1245,Daniel,Marsh,Sales,Junior,2022-11-28,2007,46337,72,16,20,0.91,9,8,45,6,andrearivera@mullen-hall.biz,Seattle,10,PMP,2024-04-14
+1246,Jacob,Sandoval,Marketing,Mid-level,2021-07-24,2003,77533,98,12,15,0.89,6,5,42,9,mclaughlinnicole@yahoo.com,San Francisco,4,PMP,
+1247,Paul,Bush,Sales,Junior,2023-08-24,2009,42796,83,7,12,0.92,10,7,48,13,karen19@lloyd.com,Boston,6,Sales Expert L2,
+1248,Mark,Ellis,Marketing,Mid-level,2023-02-07,2010,58101,86,19,19,0.97,9,14,43,18,orose@yahoo.com,Seattle,4,PMP,
+1249,Philip,Wilson,Marketing,Junior,2023-04-19,2008,46922,88,8,10,0.98,5,11,26,17,rwilliamson@hotmail.com,New York,9,PMP,2024-08-05
+1250,Samantha,Lawrence,Sales,Mid-level,2022-07-10,2005,66409,74,17,17,0.91,5,8,13,20,david41@brooks.net,Chicago,6,Digital Marketing L1,
+1251,Robert,Taylor,IT,Mid-level,2023-04-18,2004,46436,97,12,13,0.9,7,10,27,18,olopez@hotmail.com,Boston,8,Sales Expert L2,
+1252,Garrett,Roberts,Marketing,Mid-level,2021-06-19,2001,73849,97,16,16,0.93,2,6,29,17,megan90@crane-washington.com,San Francisco,5,None,2023-10-29
+1253,William,Simpson,Sales,Junior,2023-04-04,2002,43776,77,6,9,0.86,5,8,27,16,cmckinney@yahoo.com,New York,10,PMP,2024-06-13
+1254,Ariana,Flynn,Sales,Mid-level,2021-05-31,2005,72033,89,19,20,0.99,7,14,45,16,antonio38@jackson-ellis.info,New York,6,AWS Solutions Architect,2021-10-06
+1255,Daniel,Wilson,IT,Junior,2024-08-31,2001,65333,71,10,14,0.97,3,8,24,11,wolfscott@gmail.com,Boston,6,PMP,2024-12-08
+1256,Jill,Valdez,Sales,Senior,2023-08-10,2004,51350,89,5,6,0.89,4,15,27,18,nancy07@bailey-montoya.info,Boston,7,Digital Marketing L1,2023-10-28
+1257,Lisa,Clark,IT,Senior,2020-12-27,2006,74120,96,17,21,0.87,8,15,33,14,imartin@gmail.com,Chicago,6,Sales Expert L2,2024-04-14
+1258,Ashley,Patel,Marketing,Mid-level,2021-10-01,2001,58145,78,14,15,0.87,3,5,48,17,tiffany44@adams.com,Boston,9,Digital Marketing L1,2022-01-01
+1259,Kristi,Sellers,IT,Mid-level,2021-02-22,2008,67431,82,17,22,0.86,9,8,31,12,jacquelineanderson@gmail.com,Chicago,9,None,2024-05-02
+1260,Kathleen,Lowe,Marketing,Mid-level,2022-09-24,2004,51140,96,10,12,0.86,2,9,45,10,barbaraadams@yahoo.com,Chicago,9,Digital Marketing L1,2023-10-13
+1261,Charles,Norton,Sales,Senior,2023-03-08,2010,60125,83,15,17,0.89,4,12,17,20,rrobertson@mayer.com,New York,4,None,2024-02-22
+1262,Misty,Boone,IT,Junior,2024-12-10,2008,72799,73,17,21,0.89,0,7,18,11,sreid@horn-flynn.biz,San Francisco,6,PMP,2024-12-10
+1263,Mallory,Simpson,IT,Senior,2021-11-04,2003,51819,94,7,10,0.9,2,10,50,6,matthew92@hotmail.com,Seattle,4,PMP,2023-09-02
+1264,Kristina,Shannon,Sales,Mid-level,2024-02-13,2006,45769,74,18,23,0.91,6,12,34,5,garciakristen@smith-noble.com,New York,4,None,
+1265,Aaron,Rubio,IT,Senior,2023-09-30,2005,52489,70,5,10,0.96,3,10,29,9,nicoleturner@davis-ward.com,San Francisco,4,PMP,2024-09-18
+1266,Rebecca,Martin,Sales,Junior,2023-02-26,2008,59542,100,14,17,0.96,9,13,31,18,jessica36@hotmail.com,Chicago,9,AWS Solutions Architect,2024-07-26
+1267,Cody,Lewis,Sales,Junior,2020-10-07,2001,66436,70,12,13,0.96,2,8,11,10,brittneystone@smith-dominguez.com,Boston,4,Digital Marketing L1,2023-10-05
+1268,Tim,Perez,Marketing,Mid-level,2023-08-02,2007,75044,89,6,10,1.0,10,6,11,6,garciamichael@taylor-ayala.com,New York,9,Sales Expert L2,2023-11-12
+1269,Alyssa,Smith,Marketing,Mid-level,2021-03-16,2005,71090,92,9,10,0.95,10,5,29,18,nbell@goodman.info,Seattle,9,Sales Expert L2,2021-06-30
+1270,Peggy,Taylor,Marketing,Senior,2021-11-02,2005,48989,83,8,12,0.96,1,9,17,8,bbell@moody-wright.com,Seattle,7,AWS Solutions Architect,2022-03-16
+1271,Carolyn,Griffith,Sales,Mid-level,2022-02-07,2002,66853,79,10,10,0.93,3,12,31,12,abbottdominique@yahoo.com,Seattle,4,Sales Expert L2,2024-06-15
+1272,Catherine,Lopez,Marketing,Mid-level,2021-09-27,2002,49774,100,7,11,0.86,1,9,24,19,debbie37@yahoo.com,San Francisco,6,Digital Marketing L1,2023-12-10
+1273,Victor,Wheeler,Sales,Mid-level,2020-12-13,2008,63607,95,15,18,0.96,1,5,10,9,sarah26@fisher.info,Seattle,9,AWS Solutions Architect,2021-12-22
+1274,Brenda,Smith,IT,Senior,2020-08-11,2003,46091,81,15,16,0.87,6,12,27,17,livingstonstacy@hunter-fuller.net,New York,9,PMP,2020-10-01
+1275,Jacqueline,Miller,Sales,Senior,2023-07-11,2006,43843,100,10,10,0.91,9,12,46,19,christopher18@mccann.net,Seattle,5,None,2024-06-04
+1276,Peter,Walters,Sales,Senior,2022-10-09,2009,48562,85,20,20,0.98,7,5,14,13,holly30@miller.com,Seattle,9,Digital Marketing L1,
+1277,Kyle,Harmon,Marketing,Senior,2023-11-06,2007,54679,100,15,19,0.93,9,6,37,12,smithderrick@martin.net,San Francisco,7,Digital Marketing L1,2023-12-18
+1278,Gary,Martinez,Marketing,Senior,2024-05-22,2005,43576,70,10,14,0.98,7,7,14,20,wiseanthony@yahoo.com,New York,6,AWS Solutions Architect,2024-08-30
+1279,Caleb,Joseph,Marketing,Junior,2022-04-22,2002,76077,90,17,20,0.97,1,12,38,19,xgibson@porter.com,Boston,4,PMP,2024-07-13
+1280,Jonathan,Garcia,Marketing,Senior,2023-02-13,2008,41164,73,17,20,0.86,8,5,15,14,joycesmith@sanchez.com,Chicago,8,None,2023-06-15
+1281,Samantha,White,IT,Junior,2023-04-01,2004,54609,97,19,21,0.93,9,14,40,16,pwalker@moon-flores.com,New York,9,PMP,
+1282,David,Nunez,IT,Mid-level,2024-11-07,2004,59135,87,16,21,0.87,2,12,18,18,jeffreyblack@finley.info,New York,4,Digital Marketing L1,2024-12-13
+1283,Mark,Tran,IT,Junior,2022-05-24,2010,69952,96,11,16,0.9,6,5,50,8,james94@dean.info,Seattle,10,PMP,2023-09-18
+1284,Jessica,Payne,Sales,Mid-level,2021-08-27,2003,40284,86,6,10,0.99,9,12,42,10,adamortiz@weaver.com,New York,9,None,
+1285,Katherine,Bennett,IT,Senior,2022-11-03,2008,79357,89,15,19,0.98,6,14,25,13,harristonya@yahoo.com,San Francisco,7,Digital Marketing L1,2022-11-05
+1286,Teresa,Thomas,Sales,Mid-level,2024-03-05,2005,79487,92,14,19,0.93,5,13,50,11,williamsjesse@hotmail.com,Chicago,5,AWS Solutions Architect,2024-03-28
+1287,Stephen,Adkins,Marketing,Junior,2023-07-04,2007,51653,86,15,20,0.87,5,13,40,18,danafoster@bradley.com,New York,9,None,2024-04-18
+1288,Jose,Edwards,Marketing,Junior,2022-06-22,2001,41656,82,9,9,0.95,3,9,20,14,louis43@gmail.com,Chicago,9,Digital Marketing L1,
+1289,Kimberly,Richards,Sales,Senior,2021-09-18,2005,42117,81,19,19,0.94,10,13,24,17,martinsteven@martinez-howard.com,New York,5,None,2022-04-17
+1290,Steven,Phelps,IT,Mid-level,2023-11-02,2006,67300,100,15,19,0.86,4,8,49,19,lindseytorres@terry.com,Seattle,10,AWS Solutions Architect,2024-06-28
+1291,Christopher,Wright,Marketing,Senior,2021-04-02,2001,79543,76,11,13,0.92,10,6,21,10,rpalmer@yahoo.com,Boston,9,None,
+1292,Anthony,Sullivan,IT,Senior,2022-03-16,2010,57317,74,10,14,0.98,0,10,39,9,codygarcia@gmail.com,New York,4,AWS Solutions Architect,2022-12-11
+1293,Bryan,Norman,Marketing,Senior,2021-01-09,2003,59736,85,16,16,0.97,5,13,24,10,jamesmorales@mccoy.com,Boston,8,Sales Expert L2,2021-01-27
+1294,Wendy,Gonzalez,Marketing,Senior,2020-08-17,2010,66438,72,16,17,0.98,10,10,31,16,christopherboone@yahoo.com,Seattle,6,AWS Solutions Architect,2020-10-23
+1295,Sheri,Williams,IT,Senior,2021-01-12,2002,40576,73,16,19,0.89,10,14,49,12,ycrawford@hotmail.com,Boston,4,Digital Marketing L1,2021-03-19
+1296,Michael,Odonnell,IT,Senior,2023-08-15,2002,58535,70,16,20,0.97,7,12,12,14,sean20@hotmail.com,New York,9,AWS Solutions Architect,2023-12-27
+1297,Kenneth,Jenkins,Sales,Senior,2022-01-30,2007,74944,70,7,8,0.95,3,15,37,8,millerpatrick@yahoo.com,New York,5,None,2024-10-31
+1298,Nicole,Fox,Marketing,Senior,2021-09-08,2010,50076,70,19,24,0.9,1,6,13,10,wcasey@stephens-washington.org,San Francisco,10,Digital Marketing L1,2024-06-02
+1299,Marc,Nelson,IT,Mid-level,2024-04-06,2010,65430,84,17,20,0.9,6,15,17,5,carla04@stokes.net,New York,9,None,
+1300,Brandy,Hall,Marketing,Junior,2023-01-12,2001,63442,99,8,10,0.97,4,14,15,14,wrightjohn@velasquez.com,Boston,10,PMP,2024-08-29
+1301,Paul,Mcconnell,Sales,Senior,2024-11-20,2003,54409,74,17,21,0.89,10,7,29,16,joelstewart@wolfe.com,New York,4,None,2024-12-28
+1302,Douglas,Vaughan,Sales,Junior,2024-10-26,2009,77533,89,17,21,0.93,1,9,23,16,gregory01@gmail.com,San Francisco,5,PMP,2024-12-19
+1303,Carolyn,Smith,Sales,Junior,2021-12-20,2002,54469,89,13,14,0.87,10,14,13,19,riverachristina@gmail.com,Chicago,9,None,
+1304,Gregory,Lang,Sales,Junior,2022-11-21,2006,78049,85,15,17,0.87,10,8,16,14,johnsonbrenda@gmail.com,Boston,8,Sales Expert L2,2024-05-30
+1305,Alicia,Diaz,IT,Mid-level,2020-12-07,2007,60032,92,9,13,0.94,5,11,20,5,janet69@rogers.com,Chicago,6,AWS Solutions Architect,2024-07-13
+1306,Jessica,Kim,IT,Junior,2021-05-01,2005,61729,98,20,23,0.92,4,12,45,8,grant89@yahoo.com,San Francisco,5,None,
+1307,Brianna,Thompson,Marketing,Junior,2021-11-21,2010,57251,93,7,12,0.86,0,13,50,5,david09@yahoo.com,San Francisco,10,None,2024-09-19
+1308,Ian,Flores,Sales,Senior,2024-10-26,2002,57079,87,20,25,0.97,5,11,24,14,zunigadonald@miller.com,Boston,5,PMP,2024-10-29
+1309,Alexander,Clark,IT,Senior,2022-11-06,2003,40694,91,12,16,0.95,8,7,38,10,jonathan10@cruz.biz,Boston,5,None,2024-09-29
+1310,Trevor,Gray,IT,Junior,2021-05-28,2008,54340,94,20,21,0.86,5,8,12,11,poolekristina@hotmail.com,New York,8,Digital Marketing L1,2023-03-02
+1311,Shannon,Lloyd,Sales,Senior,2021-11-28,2002,61238,73,13,18,0.89,8,14,21,17,andrew41@peterson.com,Seattle,9,PMP,2022-08-07
+1312,Matthew,Galloway,IT,Mid-level,2020-08-18,2004,54607,86,17,19,0.97,5,12,40,5,reynoldsdesiree@hotmail.com,New York,8,AWS Solutions Architect,2021-06-03
+1313,Brian,Rivera,Marketing,Senior,2023-09-08,2008,58403,76,9,10,0.87,9,6,24,18,uterry@fernandez.com,Boston,10,Digital Marketing L1,2024-01-08
+1314,Philip,Dunn,IT,Junior,2020-05-31,2010,78718,75,18,18,0.89,2,14,47,10,briansmith@gmail.com,San Francisco,5,None,
+1315,James,Johnson,Sales,Junior,2022-07-01,2004,56925,99,10,14,0.99,9,14,50,5,tiffany71@glover-ruiz.com,Boston,9,Digital Marketing L1,2024-07-16
+1316,Amy,Lopez,Marketing,Mid-level,2020-10-07,2010,71566,75,12,15,0.94,9,7,49,13,jacob04@yahoo.com,Seattle,5,Digital Marketing L1,2023-07-01
+1317,Jose,Hood,Sales,Junior,2023-12-12,2010,64786,82,9,9,0.85,8,13,36,9,karencontreras@barnett.biz,Seattle,8,Sales Expert L2,
+1318,Bruce,Hughes,Sales,Senior,2021-12-04,2006,72986,94,8,8,0.92,2,14,44,5,parmstrong@yahoo.com,New York,10,PMP,2024-04-11
+1319,Ralph,Nash,Marketing,Senior,2022-07-14,2002,68112,77,20,23,0.9,9,6,37,9,davidtodd@rush.com,Chicago,6,PMP,2022-11-13
+1320,Brad,Miller,Marketing,Senior,2021-08-18,2004,66781,78,11,11,0.96,0,14,43,8,wendyburton@hotmail.com,Chicago,8,Sales Expert L2,2022-03-02
+1321,Renee,Sloan,IT,Mid-level,2022-03-09,2007,46985,74,18,23,0.94,4,13,37,16,hughesray@gates-stone.com,San Francisco,8,Digital Marketing L1,2023-07-18
+1322,Kimberly,Rodriguez,IT,Senior,2024-12-27,2002,76540,85,10,12,0.93,7,9,29,16,ashleyaguilar@buckley.com,San Francisco,10,PMP,2024-12-28
+1323,Nicole,Humphrey,IT,Senior,2022-06-04,2001,50603,73,11,15,0.91,5,13,49,6,kpena@hotmail.com,New York,5,PMP,2024-09-13
+1324,Gerald,Powell,Sales,Mid-level,2024-01-06,2007,79337,83,7,7,0.89,5,6,48,6,fosternatasha@hotmail.com,Seattle,9,PMP,2024-01-20
+1325,Julie,Mccall,Marketing,Senior,2022-01-05,2009,58774,92,6,7,0.95,7,5,22,14,morganlaura@yahoo.com,Seattle,5,Sales Expert L2,2022-03-22
+1326,Michele,Cohen,Marketing,Junior,2022-05-18,2007,51107,91,6,8,0.89,0,7,15,13,kevinmanning@adams-butler.com,Boston,10,PMP,2024-06-19
+1327,Jason,Holloway,Marketing,Junior,2021-08-03,2004,73930,70,7,7,0.93,8,14,32,16,lori82@gmail.com,Boston,10,Digital Marketing L1,2023-06-20
+1328,Richard,Deleon,IT,Senior,2022-08-21,2005,40304,78,10,13,0.93,8,6,42,14,jameswhitaker@wright.com,Seattle,6,Sales Expert L2,2024-10-16
+1329,James,Richardson,Marketing,Mid-level,2023-01-21,2005,69017,100,17,21,0.92,3,10,39,19,hreid@hotmail.com,New York,8,Sales Expert L2,2024-07-21
+1330,Nathan,Wheeler,IT,Senior,2020-04-01,2002,54442,91,12,14,0.91,5,13,44,5,wmatthews@martin-kline.com,Boston,9,Digital Marketing L1,2022-04-22
+1331,Paul,Martin,Marketing,Senior,2022-06-01,2004,62412,72,10,13,0.9,3,14,27,10,deborahbyrd@pearson-palmer.com,San Francisco,9,AWS Solutions Architect,2022-07-13
+1332,David,Thompson,Marketing,Junior,2024-01-09,2008,57393,76,12,13,0.98,9,10,19,8,johnnytrujillo@marquez-fletcher.com,Seattle,4,Sales Expert L2,2024-12-27
+1333,Melissa,Stevens,Sales,Senior,2023-08-06,2004,42769,97,20,22,0.94,7,14,27,20,hturner@sanders.com,Seattle,5,None,2024-05-24
+1334,Brittney,Campbell,Sales,Junior,2024-10-07,2002,74454,95,18,21,0.99,0,13,32,17,rbrown@nguyen.com,Seattle,10,AWS Solutions Architect,2024-12-08
+1335,Zachary,Allen,IT,Mid-level,2021-08-05,2005,40551,70,11,14,0.94,5,10,49,13,rguerrero@griffith.info,Boston,5,None,2022-03-25
+1336,Rebecca,Sullivan,Marketing,Mid-level,2022-07-04,2010,63981,75,20,23,0.88,5,10,35,13,matthewreeves@nichols.com,San Francisco,7,AWS Solutions Architect,2023-08-11
+1337,Kevin,Jackson,Sales,Senior,2024-04-22,2008,57691,95,12,16,0.91,6,8,19,9,connor24@stokes.com,San Francisco,7,Sales Expert L2,
+1338,Jeffrey,Walker,Marketing,Senior,2020-10-01,2005,74995,93,15,18,0.9,8,14,13,17,vfrench@yahoo.com,Boston,4,AWS Solutions Architect,
+1339,Brenda,Ford,Marketing,Junior,2022-03-17,2010,69481,93,15,17,0.9,8,13,26,16,obrown@carpenter.com,San Francisco,4,PMP,
+1340,Mikayla,James,Marketing,Senior,2024-03-31,2003,75287,75,14,16,0.9,8,12,38,7,jbrown@gmail.com,San Francisco,7,None,2024-05-16
+1341,Robert,Hudson,Marketing,Mid-level,2021-09-11,2010,67644,90,17,17,0.86,5,8,30,15,lesliebaldwin@gmail.com,Boston,9,Digital Marketing L1,2023-02-25
+1342,Crystal,Thompson,IT,Mid-level,2024-02-20,2007,63800,93,19,22,0.88,0,7,25,13,hayesjason@johnston.info,New York,9,Sales Expert L2,2024-06-28
+1343,David,Hamilton,Sales,Junior,2020-09-27,2007,71010,87,6,6,0.97,8,6,16,13,epatterson@yahoo.com,Chicago,8,AWS Solutions Architect,
+1344,Amanda,Cross,Sales,Junior,2020-01-12,2008,58623,84,9,10,0.93,2,5,12,16,katherine83@rhodes.com,Seattle,10,Digital Marketing L1,2020-05-08
+1345,Natalie,Collins,IT,Senior,2021-11-30,2006,69153,74,10,14,0.94,10,15,46,18,tgordon@brown.com,Boston,8,None,2024-11-11
+1346,Jessica,Carlson,Marketing,Junior,2022-06-19,2008,45869,84,14,16,0.91,2,9,10,5,ibarron@yahoo.com,Seattle,8,AWS Solutions Architect,2024-05-27
+1347,Karen,Martin,Sales,Senior,2024-02-28,2004,72239,100,20,22,0.85,6,9,48,12,perezjessica@gmail.com,Boston,10,Sales Expert L2,2024-07-16
+1348,Andrew,Wagner,Marketing,Mid-level,2021-10-15,2009,65870,77,10,15,0.96,6,11,24,13,jennifer06@scott.com,Seattle,4,PMP,2024-11-28
+1349,Mary,Williams,Marketing,Senior,2020-11-28,2005,57816,79,13,16,0.88,1,7,18,14,hwallace@king.com,Seattle,4,PMP,2023-09-09
+1350,Dorothy,Bates,IT,Junior,2022-07-21,2001,61013,70,9,9,1.0,0,7,16,14,robertroach@hotmail.com,San Francisco,6,AWS Solutions Architect,2024-05-04
+1351,Daniel,Rodriguez,Sales,Junior,2020-12-28,2003,40965,85,11,13,0.91,7,10,39,6,kimberlydecker@howard.com,New York,6,Sales Expert L2,2022-03-12
+1352,Amy,Lozano,IT,Mid-level,2021-05-10,2008,44678,87,20,21,0.88,4,11,10,8,jimmy01@gmail.com,San Francisco,10,AWS Solutions Architect,2021-07-10
+1353,Troy,Herring,Marketing,Junior,2024-11-15,2001,53053,84,8,12,0.95,3,12,34,14,conwaydawn@hinton-phillips.info,Seattle,6,AWS Solutions Architect,2024-12-17
+1354,Lisa,Sawyer,Marketing,Junior,2020-06-01,2003,56601,85,14,15,0.9,0,15,23,8,laurie56@hotmail.com,Chicago,5,PMP,2021-04-07
+1355,Melissa,Zamora,Marketing,Junior,2020-12-23,2008,65939,95,12,12,1.0,9,12,48,9,elizabethjackson@kline-friedman.com,New York,6,Sales Expert L2,2021-05-19
+1356,Lisa,White,Marketing,Senior,2020-10-12,2009,62178,99,6,6,0.9,2,13,16,9,rrivers@yahoo.com,Chicago,7,AWS Solutions Architect,2022-05-13
+1357,Robert,Mercado,IT,Senior,2024-01-22,2008,52646,70,17,19,0.96,4,5,41,19,andersonjessica@garcia.info,San Francisco,8,Digital Marketing L1,2024-11-27
+1358,Howard,James,Marketing,Junior,2024-10-30,2005,75626,81,15,20,0.92,9,13,20,7,huffmannichole@hotmail.com,Seattle,8,AWS Solutions Architect,2024-12-11
+1359,Samantha,Rodriguez,IT,Mid-level,2021-02-06,2009,40047,94,17,22,0.88,0,14,33,12,qwilliams@hotmail.com,Boston,6,Sales Expert L2,2023-02-26
+1360,Janet,Gregory,Sales,Senior,2022-08-31,2001,72607,94,9,13,0.89,6,15,30,8,april91@stanley-wright.com,San Francisco,4,None,2022-09-19
+1361,Mary,Grant,Sales,Junior,2023-04-07,2005,53243,73,20,21,0.86,9,15,34,20,schneidereric@christian-booth.com,New York,8,None,2023-07-31
+1362,John,Cordova,IT,Junior,2024-03-04,2007,79711,92,7,7,0.99,3,15,41,7,andreagray@miller.org,Chicago,7,Sales Expert L2,2024-07-06
+1363,Melissa,West,Marketing,Junior,2023-10-21,2004,57420,86,6,11,0.86,4,6,23,8,bmcgee@powell.net,San Francisco,4,AWS Solutions Architect,2023-12-28
+1364,Margaret,Conner,Marketing,Senior,2024-08-29,2007,56302,88,10,14,0.96,6,6,50,16,diamondbryant@yahoo.com,New York,9,PMP,2024-08-29
+1365,Brian,Walker,Sales,Junior,2023-01-30,2007,76042,82,15,20,0.87,9,12,32,15,ann99@yahoo.com,Boston,8,Digital Marketing L1,2024-11-01
+1366,Shaun,Davis,Marketing,Mid-level,2023-01-30,2005,79872,77,11,14,0.96,4,10,38,19,petersonmaria@kelley-brooks.com,Seattle,7,Sales Expert L2,2024-08-08
+1367,Travis,Underwood,Sales,Senior,2020-05-19,2009,48852,98,14,14,0.9,3,8,30,5,kingjames@gmail.com,Seattle,10,Digital Marketing L1,2021-10-11
+1368,Stephen,Harrington,Marketing,Senior,2023-05-02,2002,50139,73,6,9,0.9,2,9,33,12,shermanbrandon@hotmail.com,Seattle,5,Digital Marketing L1,2023-10-16
+1369,Kelsey,Hayes,IT,Senior,2021-01-14,2010,54249,93,7,12,0.9,7,7,41,8,vsmith@tran.org,Boston,8,Digital Marketing L1,
+1370,Sandra,Norman,Sales,Junior,2024-02-06,2009,61914,81,18,21,0.99,1,8,48,5,jessicaanderson@sandoval-obrien.com,New York,9,PMP,
+1371,Robert,Lynch,IT,Senior,2024-04-12,2002,77022,74,15,19,0.95,2,5,35,19,raymond54@ballard-taylor.org,San Francisco,10,None,2024-09-08
+1372,Megan,Kelley,IT,Mid-level,2024-05-07,2007,65842,74,9,11,0.86,9,5,45,17,jamesweber@yahoo.com,San Francisco,6,Sales Expert L2,2024-08-31
+1373,Emily,Zavala,Sales,Mid-level,2022-12-05,2007,76654,76,20,23,0.95,3,13,49,12,jennifer58@aguilar-bender.biz,Chicago,5,Sales Expert L2,2024-11-19
+1374,Justin,Boone,Marketing,Senior,2024-07-13,2006,45871,73,18,21,0.9,3,10,32,5,johnsondustin@brown.com,Seattle,10,Digital Marketing L1,
+1375,Mary,Vaughn,IT,Senior,2022-02-14,2010,49556,84,6,7,0.88,5,7,15,8,karenjohnson@yahoo.com,San Francisco,9,Sales Expert L2,2022-09-29
+1376,Miranda,Stevenson,IT,Junior,2020-11-11,2005,62496,92,8,10,0.92,0,10,23,11,yyoung@roberts.biz,Seattle,5,None,2023-06-26
+1377,Larry,Arnold,IT,Senior,2023-07-15,2010,49263,92,5,8,0.94,10,13,12,13,james73@bush.net,Chicago,5,Sales Expert L2,2024-12-28
+1378,Jenny,Lee,Sales,Mid-level,2021-08-30,2007,40546,72,17,22,0.89,10,10,16,5,tonyajones@gmail.com,Seattle,6,PMP,2024-12-17
+1379,Nicholas,Patterson,Marketing,Junior,2024-05-12,2008,60673,85,7,8,0.88,7,13,11,6,eugenesingleton@gmail.com,Boston,5,None,2024-06-27
+1380,Jenna,Moore,Marketing,Junior,2022-10-21,2001,41204,81,16,18,0.94,3,13,27,6,candice94@tyler-pierce.com,Seattle,9,Digital Marketing L1,2024-10-14
+1381,Jeffrey,White,IT,Junior,2022-09-11,2007,49942,80,17,22,0.87,6,13,49,12,robertherrera@bailey.com,Chicago,7,AWS Solutions Architect,2024-12-05
+1382,Kelly,Clements,Marketing,Mid-level,2022-10-22,2007,69436,87,9,10,0.95,9,13,22,9,wilsonmichael@gmail.com,San Francisco,6,None,2024-05-04
+1383,Felicia,Flores,Marketing,Senior,2022-01-24,2007,50357,80,7,11,0.93,1,7,30,9,uscott@johnson-black.com,Boston,9,Sales Expert L2,2022-03-26
+1384,Sean,Williams,IT,Mid-level,2024-05-13,2010,57943,74,11,11,0.87,0,14,49,13,willie12@ferguson.com,San Francisco,8,None,2024-11-26
+1385,Mary,Harris,Sales,Senior,2023-08-07,2007,41709,81,7,12,0.97,2,13,48,20,burgesseric@yahoo.com,Boston,9,Digital Marketing L1,
+1386,Christopher,Brown,IT,Junior,2022-10-24,2002,50733,76,12,12,0.91,0,9,36,12,andrewsjeremy@yahoo.com,San Francisco,9,AWS Solutions Architect,2022-12-21
+1387,Shannon,Sullivan,IT,Senior,2023-06-17,2010,72108,92,15,18,0.98,6,11,12,17,pricedavid@gmail.com,Seattle,9,Digital Marketing L1,2024-04-13
+1388,Jaclyn,Jones,Marketing,Senior,2020-07-12,2009,42523,86,8,11,0.92,0,8,43,17,kristin49@campbell.biz,New York,9,Sales Expert L2,2020-11-30
+1389,Anthony,Moore,Sales,Mid-level,2023-05-09,2008,68806,82,14,16,0.92,6,9,49,6,julierobles@phillips.com,Boston,9,None,2024-10-03
+1390,Angela,Peters,Sales,Senior,2020-02-01,2008,72811,73,10,14,0.99,8,7,35,18,smithcandice@kelley.com,Seattle,6,PMP,
+1391,Rebecca,York,Marketing,Junior,2021-10-16,2002,69798,72,13,15,0.95,2,6,15,8,jackjensen@lee-white.org,Seattle,9,PMP,2023-07-19
+1392,Melissa,Randolph,Marketing,Mid-level,2020-06-14,2001,73532,89,10,13,0.93,0,7,31,9,robertscarlos@gmail.com,Boston,5,AWS Solutions Architect,
+1393,Beverly,Lynn,IT,Mid-level,2021-09-02,2008,69245,79,10,10,0.98,3,5,49,13,emilyyoung@yahoo.com,Seattle,4,PMP,2024-10-03
+1394,Rachel,Stewart,Sales,Senior,2020-08-01,2009,72339,77,11,15,0.95,7,11,38,7,christina49@gmail.com,Chicago,8,None,
+1395,Michael,Stewart,Marketing,Senior,2024-10-20,2010,76539,96,11,11,0.88,0,15,32,6,adamsanchez@gmail.com,Chicago,5,Sales Expert L2,2024-12-14
+1396,Mary,Taylor,IT,Junior,2023-09-13,2001,43213,73,18,19,0.87,4,14,48,10,wford@yahoo.com,New York,7,None,2024-04-14
+1397,Daniel,Brewer,IT,Mid-level,2024-02-18,2005,64154,98,17,17,0.96,8,6,28,20,michele28@baker.com,Chicago,5,Sales Expert L2,2024-09-19
+1398,Melissa,Welch,Marketing,Mid-level,2020-08-19,2005,74383,76,11,15,0.86,9,15,43,7,rebeccaarnold@hotmail.com,Boston,7,None,2020-10-15
+1399,Desiree,Hernandez,Marketing,Mid-level,2024-07-31,2004,57017,86,16,17,0.94,7,13,50,20,patricialawrence@yahoo.com,Chicago,7,AWS Solutions Architect,2024-10-30
+1400,Walter,Davis,Sales,Junior,2021-02-16,2004,47746,70,19,24,0.97,3,14,36,18,batesmelanie@hotmail.com,New York,4,Digital Marketing L1,2023-02-07
+1401,Willie,Griffin,Marketing,Junior,2021-05-27,2010,58456,78,7,9,0.9,8,10,10,8,jillwebb@williams-juarez.com,Seattle,9,Digital Marketing L1,2024-08-15
+1402,Mike,Williams,Sales,Junior,2020-07-11,2009,52715,80,15,20,0.92,7,5,18,20,paul70@hooper.com,Chicago,5,PMP,2022-10-10
+1403,Mary,Baker,IT,Mid-level,2024-06-04,2006,43671,96,14,18,0.96,5,13,44,5,xvaldez@valdez.biz,New York,5,None,2024-09-18
+1404,Zachary,Gomez,Sales,Mid-level,2021-11-20,2005,42042,80,17,22,0.93,2,14,48,17,msparks@gmail.com,Chicago,5,None,
+1405,Nicole,Gonzales,Marketing,Junior,2024-04-05,2006,57792,83,7,10,0.98,5,12,29,11,robertsonjuan@lopez.org,New York,8,Digital Marketing L1,
+1406,Jerry,Shepherd,Sales,Junior,2020-12-30,2006,69083,86,5,8,0.99,2,8,31,20,eleonard@garza.biz,San Francisco,9,None,2023-10-22
+1407,Bradley,Berry,Sales,Senior,2020-03-07,2006,48697,76,6,9,0.91,8,6,10,14,crystalwilliams@thomas.net,Boston,4,None,2022-04-03
+1408,Tanya,Walsh,Sales,Junior,2023-06-10,2009,74116,94,14,14,0.94,4,15,23,15,robinsoncatherine@yahoo.com,Chicago,5,AWS Solutions Architect,2024-09-17
+1409,Jeffrey,Jenkins,IT,Senior,2024-02-02,2006,47710,78,9,10,0.89,0,14,45,8,cindydixon@ramsey.info,Chicago,5,None,2024-04-08
+1410,Jerry,Cruz,Sales,Senior,2020-07-29,2001,58564,88,12,13,0.86,9,10,44,19,harrismichele@cohen.com,New York,4,AWS Solutions Architect,
+1411,Carol,Rich,IT,Junior,2024-01-15,2009,45643,83,17,18,0.96,9,15,38,16,olsondavid@ryan.biz,New York,6,Digital Marketing L1,2024-09-09
+1412,Robert,Golden,IT,Senior,2024-06-06,2010,48637,72,19,19,0.92,10,15,39,20,shawnaolson@yahoo.com,Chicago,5,AWS Solutions Architect,
+1413,Linda,Velez,IT,Mid-level,2022-12-22,2003,52016,92,15,17,0.92,0,6,40,8,eanderson@kent.com,Chicago,6,PMP,2024-03-23
+1414,Jonathan,Smith,IT,Senior,2024-08-13,2007,77662,74,8,11,0.97,1,10,45,7,meyernicholas@watts.biz,Seattle,10,Digital Marketing L1,2024-10-31
+1415,Eric,Pearson,IT,Junior,2023-01-27,2006,55970,87,10,13,0.91,5,8,47,18,melissa69@yahoo.com,Seattle,10,PMP,2023-04-19
+1416,Victoria,Sanders,Marketing,Junior,2022-05-03,2008,51343,91,7,12,0.99,9,12,17,19,jarnold@white-hansen.info,San Francisco,6,None,
+1417,Becky,Schroeder,IT,Mid-level,2022-02-24,2010,44561,89,8,13,0.97,6,10,41,6,melissahopkins@hotmail.com,New York,4,AWS Solutions Architect,2023-06-15
+1418,Krista,Avery,Sales,Senior,2021-12-11,2005,49779,84,14,17,0.94,7,8,23,15,williamhartman@mendez.biz,Boston,6,None,2023-11-04
+1419,Madeline,Ruiz,Marketing,Mid-level,2020-01-14,2001,45851,88,5,9,1.0,6,7,28,6,brownjeffrey@gmail.com,Seattle,6,None,2020-10-23
+1420,Sarah,Morales,IT,Junior,2020-04-24,2007,58494,97,5,6,0.91,9,11,50,15,bautistalori@hotmail.com,Seattle,9,PMP,2023-08-01
+1421,Scott,Harris,Sales,Senior,2024-03-12,2002,51364,85,9,10,0.93,5,11,19,14,arthurgreene@hotmail.com,New York,10,AWS Solutions Architect,
+1422,Gavin,Johnson,Sales,Senior,2021-12-17,2007,71896,91,18,19,0.86,10,11,39,18,cantrellchristopher@chan-gomez.biz,Seattle,8,AWS Solutions Architect,2024-07-29
+1423,James,Smith,IT,Mid-level,2023-06-10,2001,63285,77,10,13,0.94,9,12,25,13,dunnjessica@herman.com,New York,7,None,2024-09-07
+1424,Catherine,Lee,Marketing,Mid-level,2021-12-01,2008,64155,73,20,25,0.86,8,9,39,7,greenrichard@gmail.com,New York,8,None,
+1425,Wesley,Morgan,Marketing,Senior,2024-09-28,2010,75336,95,14,18,0.86,5,13,10,20,nancy94@ramos.com,Chicago,7,None,2024-10-05
+1426,Kimberly,Maldonado,IT,Mid-level,2022-11-18,2010,59308,79,10,10,0.95,9,9,46,13,ewilson@schultz-gamble.com,New York,4,PMP,2024-12-03
+1427,Stephanie,Black,Marketing,Mid-level,2022-09-04,2005,41789,79,20,20,0.87,1,9,26,9,john16@goodman.com,New York,8,Digital Marketing L1,2024-06-05
+1428,Michael,Shannon,Marketing,Junior,2024-01-17,2006,79572,75,9,14,0.92,2,9,25,20,staceyvega@gmail.com,New York,5,None,2024-05-17
+1429,Jimmy,Allen,Sales,Senior,2024-03-27,2006,50102,96,20,23,0.97,3,15,38,10,jermaineconley@hotmail.com,New York,5,None,2024-06-12
+1430,Kimberly,Wilson,Marketing,Mid-level,2023-01-08,2003,47601,71,10,13,0.91,4,12,44,12,waustin@rubio.com,Seattle,7,PMP,2023-05-09
+1431,Misty,Henry,IT,Junior,2024-03-06,2007,58926,99,19,22,0.95,8,15,12,8,kwalker@gmail.com,Seattle,8,Digital Marketing L1,2024-10-15
+1432,Lauren,Mendoza,Marketing,Mid-level,2020-06-14,2009,61952,78,13,13,0.89,9,11,39,12,phillip27@wolfe.com,Chicago,9,None,2024-12-03
+1433,Emily,Gray,Marketing,Senior,2020-01-24,2006,51791,80,5,10,0.85,1,5,36,8,michael42@baker.com,San Francisco,8,Sales Expert L2,2020-02-29
+1434,Ivan,Coleman,Marketing,Mid-level,2023-02-07,2010,56508,76,6,6,0.94,0,14,23,8,michael64@yahoo.com,San Francisco,9,Sales Expert L2,
+1435,David,Johnston,IT,Senior,2021-07-09,2005,77097,95,10,10,0.95,4,9,39,7,lelinda@reynolds.com,Boston,9,PMP,2023-12-13
+1436,Alec,Fisher,Marketing,Senior,2024-01-06,2005,61194,78,10,10,0.89,0,11,34,15,kristen44@garrison.com,San Francisco,4,Digital Marketing L1,2024-11-13
+1437,Lisa,Woods,IT,Junior,2020-07-02,2002,72225,99,11,15,0.91,10,12,16,9,qgarner@ward-grant.com,Boston,8,PMP,2022-05-02
+1438,Robert,Bell,Marketing,Mid-level,2022-12-02,2007,46769,71,7,7,0.94,4,12,11,20,tiffanymitchell@nunez-freeman.info,Chicago,5,Sales Expert L2,2022-12-17
+1439,Christina,Ford,Sales,Senior,2020-08-28,2001,61615,98,17,21,0.85,7,12,37,17,daniellemcfarland@welch-duncan.com,Boston,10,Sales Expert L2,2023-11-24
+1440,Matthew,Edwards,Marketing,Mid-level,2020-08-30,2006,47943,88,16,18,0.95,6,5,50,7,catherine64@yahoo.com,New York,6,None,2022-01-15
+1441,Brenda,Sheppard,IT,Mid-level,2023-01-30,2008,53311,75,6,9,0.95,4,11,16,16,ivanjohnson@hotmail.com,San Francisco,7,Sales Expert L2,2024-09-01
+1442,Johnathan,Manning,Sales,Junior,2021-12-26,2001,52654,70,12,15,0.91,8,15,29,20,garrettgarcia@zuniga.net,New York,8,PMP,2024-10-19
+1443,Anthony,Sanders,IT,Junior,2020-06-13,2010,62132,95,6,9,0.87,10,15,43,19,bakereric@huynh.com,San Francisco,9,None,
+1444,David,Roberson,Sales,Junior,2023-10-05,2005,49279,85,5,8,0.99,9,5,25,9,alvaradomichelle@lin-mcdonald.net,New York,4,AWS Solutions Architect,2024-01-11
+1445,Sean,Montes,IT,Senior,2022-04-23,2007,51186,96,7,7,0.87,9,14,24,7,owelch@graham.com,Chicago,10,AWS Solutions Architect,2024-08-22
+1446,Amber,Ballard,Sales,Senior,2024-02-02,2003,77746,87,9,11,0.98,3,5,47,10,michael42@yahoo.com,Boston,6,Sales Expert L2,
+1447,Alexandra,Chang,Sales,Senior,2020-01-30,2003,64243,87,10,13,0.89,9,5,18,8,justin80@weeks.com,New York,10,None,2020-01-30
+1448,Carla,Robles,IT,Junior,2023-08-27,2005,40416,70,10,10,0.96,9,9,36,20,robertcastro@yahoo.com,Seattle,9,AWS Solutions Architect,2024-04-10
+1449,Jennifer,Brewer,IT,Mid-level,2022-02-12,2001,55679,100,10,14,0.95,9,7,41,7,josehenderson@gmail.com,Seattle,9,Digital Marketing L1,2022-10-23
+1450,Justin,Paul,Sales,Junior,2024-05-21,2004,47700,86,8,12,0.9,8,13,24,19,elopez@gmail.com,New York,10,AWS Solutions Architect,2024-09-03
+1451,Daniel,Gibson,Sales,Senior,2021-02-25,2010,71091,85,10,11,0.95,0,5,33,14,jackie73@yahoo.com,Boston,5,PMP,2022-05-20
+1452,Brandon,Nichols,Sales,Junior,2020-02-27,2006,43437,99,10,11,0.97,7,13,17,7,campbelldavid@acosta-hall.com,Boston,5,PMP,2021-06-13
+1453,Jeff,Fisher,Sales,Senior,2020-02-12,2008,61344,77,8,10,0.88,3,11,22,17,steven05@gmail.com,New York,5,Sales Expert L2,2024-04-24
+1454,Joseph,Long,IT,Junior,2021-03-26,2001,54166,99,19,20,0.91,2,12,22,16,jamesskinner@yahoo.com,Seattle,6,AWS Solutions Architect,2021-06-21
+1455,Theresa,Espinoza,Sales,Mid-level,2020-02-06,2010,48945,73,19,22,0.91,5,8,28,10,cwright@gmail.com,Seattle,10,None,2021-02-18
+1456,Adriana,Hendrix,Sales,Junior,2023-11-29,2007,66980,97,20,21,0.94,7,9,10,18,tmaldonado@yahoo.com,Seattle,9,AWS Solutions Architect,2024-02-09
+1457,Jessica,Garner,Sales,Senior,2021-05-04,2002,49762,99,5,8,1.0,0,12,42,6,timothy43@clay-boyer.com,Boston,7,None,2024-01-06
+1458,Joel,Hamilton,IT,Junior,2020-12-13,2005,45445,87,5,10,0.96,3,7,32,14,laurarichards@mccormick-smith.com,San Francisco,5,Sales Expert L2,
+1459,Hannah,Barker,Marketing,Mid-level,2024-12-07,2001,77380,93,5,8,0.92,2,11,21,16,kelli32@davis-montgomery.com,New York,9,PMP,2024-12-26
+1460,Deanna,Miles,IT,Senior,2020-07-01,2006,61817,86,6,8,0.91,4,14,44,11,tonystewart@kramer.info,New York,10,Sales Expert L2,2023-07-10
+1461,Hannah,Howard,Marketing,Senior,2021-08-19,2002,63854,98,6,6,0.91,7,14,12,16,rachel77@phillips.com,Seattle,6,AWS Solutions Architect,2021-09-21
+1462,Mario,Mcdonald,Marketing,Junior,2024-08-12,2009,49070,80,12,16,0.87,7,14,23,12,schmidtshannon@weaver-gibson.net,Boston,6,Digital Marketing L1,2024-10-18
+1463,Jacob,Smith,IT,Junior,2023-03-20,2002,44152,81,16,19,0.92,8,6,40,14,malikbrown@hotmail.com,San Francisco,7,None,2024-10-09
+1464,Alexandria,Jimenez,IT,Junior,2023-04-15,2004,45254,82,10,12,0.99,1,6,20,13,marcus51@mills.com,Seattle,4,AWS Solutions Architect,2023-09-09
+1465,Gregory,Johnson,Marketing,Junior,2021-02-04,2004,59213,83,9,12,0.9,7,15,11,14,clee@may.org,Seattle,5,Sales Expert L2,
+1466,Michael,Obrien,Marketing,Mid-level,2022-03-03,2005,66980,88,15,20,0.95,5,12,47,19,conradjason@hebert-collier.info,San Francisco,7,Digital Marketing L1,2022-05-18
+1467,Angela,Hurley,IT,Junior,2020-07-04,2003,71735,81,14,14,0.87,4,12,20,10,laura09@yahoo.com,San Francisco,9,None,2023-07-30
+1468,Jessica,Davenport,Sales,Junior,2024-06-28,2006,47662,71,15,19,0.87,4,10,21,11,susandavis@hall.com,San Francisco,8,Sales Expert L2,2024-07-05
+1469,Colleen,White,IT,Mid-level,2024-11-03,2009,75380,75,14,14,0.99,6,12,19,19,mirandabarbara@hotmail.com,Seattle,6,AWS Solutions Architect,
+1470,Nicole,Jackson,IT,Senior,2023-11-23,2003,59369,85,14,18,0.95,9,12,31,8,qwagner@ferguson.info,Seattle,9,PMP,2024-10-19
+1471,Leslie,Frey,Sales,Mid-level,2022-12-27,2005,41625,82,12,15,0.9,5,5,48,11,robert65@hotmail.com,San Francisco,8,None,2024-11-26
+1472,Amy,Brooks,Sales,Junior,2022-01-14,2009,75285,97,19,24,0.95,1,13,35,11,suzanne76@gmail.com,New York,7,Digital Marketing L1,2024-06-06
+1473,Caitlin,Holmes,Marketing,Mid-level,2020-04-14,2002,66054,74,18,20,0.91,0,9,32,16,evansjeffrey@yahoo.com,San Francisco,6,PMP,2022-09-14
+1474,Samantha,Dixon,Marketing,Mid-level,2020-03-05,2009,67237,95,19,21,0.87,6,11,18,7,johnsonmichael@baker.com,Chicago,5,AWS Solutions Architect,2022-07-10
+1475,Lisa,Davis,Sales,Senior,2021-12-21,2003,64626,72,5,8,0.95,4,11,21,19,jessicacummings@yahoo.com,San Francisco,9,None,2023-01-23
+1476,Margaret,Norris,Sales,Mid-level,2021-06-18,2001,58970,87,20,20,0.97,4,14,29,20,benjamin96@deleon.com,San Francisco,8,PMP,2023-07-16
+1477,Sarah,Martinez,IT,Mid-level,2023-09-08,2002,70968,73,14,17,0.88,10,8,11,8,walterscrystal@torres.com,Seattle,10,Digital Marketing L1,2024-07-27
+1478,Annette,Murphy,Marketing,Mid-level,2024-08-01,2001,78080,85,18,20,0.94,7,6,33,5,brentdennis@maddox-mullins.org,San Francisco,10,Digital Marketing L1,
+1479,Jeffrey,Roberts,IT,Mid-level,2024-04-14,2002,48879,81,10,10,0.89,6,15,32,6,davidmiller@hotmail.com,Seattle,6,Digital Marketing L1,2024-05-18
+1480,Amy,Baker,Sales,Senior,2020-05-30,2010,52009,94,8,12,0.96,8,10,30,14,iayala@gmail.com,Chicago,6,Digital Marketing L1,
+1481,James,Foster,Sales,Junior,2024-01-31,2004,48975,86,14,16,0.97,6,10,20,8,johnadams@morris-glass.com,Seattle,5,AWS Solutions Architect,2024-09-04
+1482,Robert,Diaz,Marketing,Senior,2020-12-12,2006,74449,97,8,11,0.92,1,6,18,5,melvin04@huerta.info,San Francisco,7,Digital Marketing L1,2023-10-21
+1483,Brady,Meyers,IT,Senior,2021-03-26,2005,74283,94,15,16,0.96,0,6,24,9,eric11@brown.com,San Francisco,10,AWS Solutions Architect,2023-02-08
+1484,Heather,Rodriguez,Sales,Junior,2020-02-09,2009,45151,83,8,8,0.85,7,11,12,11,njohnson@hotmail.com,Seattle,4,Sales Expert L2,2023-01-10
+1485,James,Mills,Sales,Mid-level,2024-07-26,2004,47793,99,13,13,0.86,10,5,16,8,jdean@hotmail.com,San Francisco,8,AWS Solutions Architect,2024-09-05
+1486,Brandy,Alvarado,Marketing,Mid-level,2020-02-24,2010,41917,72,9,14,0.99,9,10,32,10,george43@williamson.com,San Francisco,10,None,2023-05-09
+1487,Donna,Alvarado,Marketing,Senior,2020-07-22,2009,44478,73,5,9,0.88,3,9,20,5,smithmichelle@hotmail.com,Boston,9,Sales Expert L2,2023-11-11
+1488,Tina,Romero,IT,Senior,2023-04-12,2002,78625,75,19,24,0.99,2,10,34,18,todd98@lopez.info,Chicago,5,None,2023-10-08
+1489,Sara,Smith,Sales,Mid-level,2024-10-04,2005,47229,86,9,12,0.96,4,13,12,7,matthew62@reed.com,Boston,6,PMP,
+1490,Wendy,Irwin,Marketing,Senior,2022-07-25,2006,60447,91,19,20,0.93,4,11,22,7,garrettnatasha@gmail.com,San Francisco,10,PMP,2023-07-26
+1491,Jeremiah,Peterson,Sales,Senior,2024-09-17,2010,72220,91,8,11,0.92,10,15,15,8,christopherreyes@hotmail.com,New York,5,PMP,2024-11-10
+1492,John,Hernandez,Marketing,Junior,2021-12-04,2010,44240,81,11,13,0.88,6,6,24,18,shane23@hotmail.com,Seattle,9,PMP,2023-09-13
+1493,Bianca,Sutton,IT,Senior,2021-03-03,2005,66229,81,20,25,0.94,6,12,42,13,kylethornton@browning.com,Boston,5,PMP,
+1494,Lonnie,Grant,IT,Junior,2024-10-17,2003,48821,70,8,13,0.86,1,12,11,10,lonniehobbs@johnson.biz,Chicago,7,None,2024-11-01
+1495,Julie,Underwood,Marketing,Senior,2022-07-28,2005,46313,94,7,12,0.96,7,12,22,14,kimberlyrodriguez@gmail.com,Seattle,9,PMP,2024-06-15
+1496,Catherine,Salazar,IT,Senior,2020-03-19,2001,75823,70,6,9,0.98,1,11,38,15,gracehoward@chan.info,New York,10,PMP,2022-06-26
+1497,Melissa,Henry,Sales,Senior,2023-03-04,2009,59860,98,10,13,0.91,4,11,41,8,jamesjohnson@schaefer.com,Seattle,8,PMP,2023-07-24
+1498,James,Thompson,IT,Mid-level,2021-09-19,2005,76847,97,10,14,0.86,4,12,47,17,dwatts@gmail.com,Chicago,8,Digital Marketing L1,2024-12-09
+1499,Kimberly,Franklin,Sales,Junior,2023-08-18,2006,78696,71,9,11,0.9,9,5,50,15,phillip99@hotmail.com,Boston,7,Sales Expert L2,2024-06-27
+1500,Danielle,Padilla,IT,Junior,2024-06-16,2006,56005,77,12,17,0.9,1,6,29,8,hayesmargaret@rich.net,New York,6,AWS Solutions Architect,
+1501,Tonya,Williams,IT,Senior,2024-07-26,2010,67687,88,18,20,0.85,7,14,11,15,leescott@yahoo.com,New York,7,None,2024-10-10
+1502,Garrett,Phillips,IT,Junior,2022-06-04,2002,53494,80,20,24,0.97,10,10,20,14,stevenlucas@sharp.com,Seattle,6,PMP,2024-05-20
+1503,Amy,Long,Sales,Mid-level,2024-12-20,2010,57377,71,14,18,0.91,3,14,15,8,djohnson@hotmail.com,Seattle,8,Digital Marketing L1,2024-12-28
+1504,Christopher,Nguyen,IT,Mid-level,2021-09-16,2010,53745,81,7,12,0.97,8,9,37,15,davisjasmin@cox.net,Seattle,5,PMP,2023-08-23
+1505,Andrea,Williams,IT,Senior,2021-05-08,2009,75885,75,5,10,0.96,2,14,41,11,ariana22@white.com,Seattle,9,PMP,2022-12-17
+1506,Kyle,Mack,IT,Senior,2023-07-24,2002,43924,86,11,13,0.92,3,7,29,18,courtney12@gmail.com,San Francisco,7,Digital Marketing L1,2024-03-19
+1507,Cindy,King,IT,Mid-level,2020-01-08,2005,58811,90,10,12,0.95,3,11,25,8,ifoley@gmail.com,Boston,5,AWS Solutions Architect,
+1508,John,Chapman,IT,Senior,2024-03-10,2001,68582,83,6,7,0.87,2,5,26,13,fortiz@hotmail.com,Boston,9,None,
+1509,Nicole,Ramirez,Sales,Junior,2020-01-18,2010,45500,80,14,14,0.99,6,10,15,17,lopezbrian@johnson-nash.org,Seattle,10,AWS Solutions Architect,2022-02-16
+1510,Samantha,Williams,Sales,Senior,2022-07-13,2004,78038,100,13,16,0.98,3,14,17,15,evanmitchell@hotmail.com,Boston,6,None,2023-12-09
+1511,Tammy,Curry,Sales,Junior,2024-11-10,2002,47000,75,11,13,0.92,4,14,13,20,daviskevin@yahoo.com,Chicago,8,Digital Marketing L1,2024-11-27
+1512,Lori,Chang,Marketing,Mid-level,2023-03-20,2010,71120,91,12,14,0.98,2,10,40,16,thomas14@rose-warren.com,New York,10,Digital Marketing L1,
+1513,Ashley,Krause,Marketing,Senior,2020-06-26,2007,43583,92,12,14,0.93,4,15,33,8,mramsey@mitchell.net,New York,8,AWS Solutions Architect,2021-05-31
+1514,Michael,Anderson,IT,Mid-level,2024-11-18,2005,59719,72,12,14,0.88,2,12,50,15,lvasquez@hotmail.com,New York,10,PMP,2024-12-18
+1515,Kelly,Lee,IT,Mid-level,2021-12-21,2009,67063,99,15,20,0.91,1,7,26,7,marshalllaura@charles.biz,Chicago,6,PMP,2024-12-25
+1516,Michael,Shaffer,IT,Senior,2020-05-18,2006,41792,94,6,11,0.95,10,12,18,5,davidsonhannah@tyler-parker.net,Seattle,7,AWS Solutions Architect,2023-03-21
+1517,Katie,Wilson,Sales,Junior,2024-09-01,2006,50343,77,9,13,0.95,5,12,40,9,randy99@gmail.com,Chicago,6,AWS Solutions Architect,2024-11-02
+1518,Mark,Morgan,Sales,Junior,2021-06-26,2002,67164,81,10,13,0.98,9,8,11,5,probles@gmail.com,Boston,8,None,2022-04-23
+1519,Eric,Murray,Sales,Mid-level,2024-02-01,2009,51059,71,17,21,0.91,4,7,15,16,abowers@hotmail.com,Boston,5,None,
+1520,Kevin,Hardy,IT,Senior,2020-06-20,2010,72384,73,12,17,0.88,4,9,41,17,clarkgina@yahoo.com,San Francisco,5,PMP,2024-11-24
+1521,Juan,Johnson,IT,Senior,2020-07-21,2006,52410,83,10,13,0.97,0,9,26,12,ashleyprice@hotmail.com,Seattle,8,PMP,2021-10-27
+1522,Kimberly,Parker,Marketing,Senior,2020-12-26,2005,70026,72,5,8,0.87,5,11,23,17,nelsonchristopher@gmail.com,New York,9,PMP,2024-08-30
+1523,Maria,Turner,Sales,Senior,2023-02-25,2007,43850,71,15,16,0.92,5,14,48,6,danielglover@gmail.com,Chicago,4,Digital Marketing L1,2024-02-11
+1524,Scott,Johnson,IT,Senior,2020-10-11,2009,64307,74,6,10,0.88,2,13,41,15,jamesmclean@hotmail.com,Boston,7,AWS Solutions Architect,
+1525,Kimberly,Thomas,Sales,Mid-level,2024-06-11,2005,47657,80,6,7,0.92,4,10,37,14,jamiejohnson@reeves-boyd.com,Seattle,6,None,2024-10-09
+1526,Sarah,Mcdaniel,IT,Mid-level,2022-08-21,2003,50812,80,20,21,0.93,10,15,38,6,steven01@miranda.com,New York,5,AWS Solutions Architect,
+1527,James,Mitchell,IT,Mid-level,2021-10-10,2008,50718,92,19,22,0.87,7,5,38,16,rlambert@gmail.com,New York,9,None,2023-02-20
+1528,Danny,Mullen,Marketing,Junior,2021-05-01,2001,48103,81,7,8,0.98,2,7,42,13,amydunn@thomas-bush.com,Seattle,8,None,2022-06-30
+1529,George,Collins,Marketing,Junior,2024-11-15,2010,67290,99,7,8,0.97,10,6,31,5,bwilliams@yahoo.com,New York,6,Sales Expert L2,2024-11-26
+1530,Patrick,Miller,IT,Junior,2020-06-02,2008,41892,72,19,24,0.95,7,15,27,5,janetvance@hotmail.com,Chicago,6,Sales Expert L2,2021-04-27
+1531,Larry,Roth,Marketing,Senior,2023-10-14,2007,77300,74,11,11,0.97,4,10,13,7,fbradley@mcdonald.info,Chicago,8,None,2024-07-16
+1532,Stacey,Thomas,Sales,Junior,2023-12-29,2005,66143,72,5,6,0.87,6,9,19,8,philip55@yahoo.com,Seattle,6,PMP,2024-03-27
+1533,Cameron,Rodriguez,Sales,Mid-level,2024-02-20,2007,46298,96,16,20,0.88,7,11,40,13,ssingleton@yahoo.com,Chicago,8,None,2024-03-02
+1534,William,Sullivan,Marketing,Junior,2024-11-17,2009,68449,90,18,18,0.86,5,12,24,9,angela14@murray.com,New York,7,None,2024-11-23
+1535,Terri,Reyes,IT,Mid-level,2024-08-26,2001,68662,72,20,22,0.87,2,15,29,12,lisagarza@yahoo.com,Seattle,8,PMP,2024-09-25
+1536,Kristin,Stephens,Sales,Junior,2024-10-25,2009,73647,73,18,21,0.86,10,14,26,16,elainemiller@andrews.info,New York,6,None,
+1537,Lynn,Thompson,Sales,Senior,2022-10-04,2005,70335,75,10,13,0.86,6,9,30,19,georgegina@hotmail.com,Chicago,10,PMP,2023-03-04
+1538,Mark,Newman,Sales,Junior,2023-03-20,2008,52129,72,13,18,0.87,8,5,10,17,robinsondominic@berger.com,Boston,4,Sales Expert L2,
+1539,Shawn,Carter,Marketing,Mid-level,2021-04-05,2004,79445,93,20,22,0.94,9,10,35,14,jamierich@yahoo.com,New York,4,AWS Solutions Architect,
+1540,Laura,Frazier,Sales,Senior,2024-11-03,2005,52335,97,5,6,0.92,2,15,25,18,veronica90@hotmail.com,Boston,10,None,
+1541,Melanie,Phelps,Sales,Mid-level,2024-05-01,2004,67648,70,8,9,0.99,7,12,40,5,rachel00@castro.com,Chicago,10,PMP,2024-10-04
+1542,Ryan,Lawrence,Marketing,Mid-level,2020-04-03,2009,43337,80,5,5,0.94,6,11,41,14,bsullivan@hotmail.com,Seattle,4,PMP,2022-04-03
+1543,Glenn,Taylor,Marketing,Senior,2021-10-15,2002,71975,77,6,10,0.85,9,10,45,7,mary24@hotmail.com,Boston,6,PMP,2024-08-09
+1544,Alexander,Wong,Marketing,Senior,2021-01-22,2006,62725,84,18,18,0.87,3,12,32,19,ibarrett@taylor.info,Seattle,5,None,2021-08-18
+1545,Hector,Hicks,Marketing,Senior,2023-08-12,2005,70701,74,14,19,0.96,6,15,33,20,lkelly@yahoo.com,New York,10,AWS Solutions Architect,2024-12-08
+1546,Tyrone,Simon,Marketing,Mid-level,2020-01-21,2001,48460,75,11,12,0.94,1,11,41,14,khouse@yahoo.com,Chicago,5,AWS Solutions Architect,2024-12-20
+1547,Ashley,Bush,IT,Mid-level,2020-04-10,2006,50394,75,6,6,0.9,1,14,24,8,fnixon@cross.com,Chicago,8,AWS Solutions Architect,2020-08-05
+1548,Christian,Wu,Sales,Senior,2023-12-12,2002,57530,98,9,14,0.98,9,15,16,6,thomasharmon@miller.com,New York,7,PMP,2024-06-29
+1549,Amanda,Smith,Marketing,Senior,2020-06-09,2009,46676,96,6,10,0.87,10,6,23,16,vberry@yahoo.com,Boston,5,Digital Marketing L1,2023-05-12
+1550,Kenneth,Jackson,Marketing,Junior,2022-12-29,2008,50111,90,16,18,0.97,1,8,38,18,bryan79@gmail.com,Chicago,10,Sales Expert L2,2024-09-08
+1551,Diana,Carter,IT,Senior,2024-11-11,2004,51223,72,13,15,0.96,6,10,50,12,todd28@york.com,San Francisco,5,None,2024-11-13
+1552,Juan,Hodge,IT,Mid-level,2021-02-12,2009,66824,98,19,23,0.97,5,5,38,9,munozrenee@hernandez.com,New York,10,Sales Expert L2,2023-09-26
+1553,Henry,Rose,Sales,Mid-level,2021-12-31,2007,60631,82,10,13,0.86,0,15,19,6,tracey29@monroe.biz,Boston,9,None,2024-01-23
+1554,Scott,Walsh,Marketing,Senior,2022-01-06,2004,76281,97,14,19,0.96,5,5,27,9,brian41@jackson.info,Seattle,9,PMP,2024-10-28
+1555,Julie,Goodwin,Marketing,Senior,2022-07-22,2003,68976,92,16,21,0.91,3,9,15,6,yvega@baker-moreno.biz,Seattle,8,Digital Marketing L1,2024-07-30
+1556,Sara,Cole,Marketing,Mid-level,2020-02-03,2004,54007,72,14,18,0.9,10,7,11,5,davisamanda@yahoo.com,Chicago,10,None,2022-07-19
+1557,Samantha,Garrison,Marketing,Mid-level,2023-08-31,2010,73113,73,6,8,0.89,8,10,17,6,joseph14@hotmail.com,New York,10,Sales Expert L2,2024-12-17
+1558,Peter,Mejia,IT,Mid-level,2024-12-16,2009,55472,95,12,14,0.89,10,14,18,17,aprilbyrd@edwards.com,Seattle,8,AWS Solutions Architect,
+1559,Robert,Fox,Sales,Mid-level,2020-07-27,2008,69773,73,9,14,0.91,6,6,15,6,jeffrey44@gmail.com,New York,7,AWS Solutions Architect,2020-09-02
+1560,Christine,Brown,IT,Senior,2020-04-12,2003,74488,82,17,19,0.94,10,11,38,20,ericksondavid@anderson.org,Seattle,9,PMP,2020-06-24
+1561,Heather,King,Sales,Mid-level,2021-07-25,2002,69996,74,8,13,0.88,7,5,20,16,fowlersandra@yahoo.com,New York,4,None,2022-01-13
+1562,Heather,Contreras,IT,Senior,2023-08-16,2010,58978,71,9,9,0.91,5,9,28,20,fernando14@gmail.com,Boston,4,AWS Solutions Architect,
+1563,Marvin,Brown,Sales,Mid-level,2023-04-01,2010,58578,76,10,15,0.92,1,13,32,7,scottvasquez@gmail.com,Chicago,10,Sales Expert L2,2024-01-27
+1564,Debbie,Rodriguez,Marketing,Mid-level,2023-05-01,2003,62139,95,17,20,0.98,9,7,18,19,christinarodriguez@yahoo.com,Chicago,10,PMP,2023-09-16
+1565,Austin,Jones,Sales,Senior,2022-03-12,2001,66845,82,12,15,0.9,0,15,38,13,fsmith@gmail.com,Seattle,9,Sales Expert L2,2022-08-19
+1566,Sarah,Ortega,Marketing,Senior,2019-12-31,2008,60240,87,8,13,0.93,3,14,44,6,isabelconway@hotmail.com,Seattle,8,None,
+1567,Jasmine,Wise,Sales,Junior,2020-01-09,2007,74855,75,5,7,0.97,3,14,38,7,upowell@gmail.com,Seattle,10,None,2024-05-28
+1568,Aaron,Finley,Sales,Mid-level,2024-08-02,2009,41524,80,18,19,0.91,8,10,34,13,bradleysavannah@yahoo.com,San Francisco,4,Sales Expert L2,2024-09-14
+1569,Evelyn,Morales,IT,Junior,2022-10-29,2001,51971,78,7,8,0.9,6,15,20,6,amanda51@hodges-roberts.com,Chicago,8,Digital Marketing L1,
+1570,Benjamin,Cruz,IT,Junior,2021-06-29,2008,60974,74,18,20,0.89,1,5,22,12,heather15@miller-chen.com,Seattle,10,None,2023-11-07
+1571,James,Cortez,Marketing,Mid-level,2021-03-07,2001,47541,78,6,8,0.92,6,6,40,5,yprice@schneider.info,Chicago,7,AWS Solutions Architect,2021-05-01
+1572,Matthew,Morgan,Marketing,Senior,2020-02-18,2003,46652,77,9,11,0.94,7,6,50,11,zwilson@contreras.net,San Francisco,10,AWS Solutions Architect,2020-06-12
+1573,Beth,Buckley,Marketing,Mid-level,2021-04-04,2005,76382,84,6,6,0.97,9,9,20,5,tracysmith@williams.com,Boston,4,PMP,2024-05-29
+1574,Lori,Davis,IT,Senior,2020-06-01,2003,53943,88,14,14,0.87,8,14,14,14,meyersdaniel@larson-gilbert.com,Seattle,4,PMP,2023-01-11
+1575,Matthew,Huff,IT,Mid-level,2021-09-18,2008,53818,89,15,20,0.99,10,9,38,13,david98@gmail.com,Seattle,5,Digital Marketing L1,2023-07-12
+1576,Kathryn,Watkins,IT,Junior,2022-09-23,2009,48763,90,5,9,0.92,0,15,21,18,martinezdonald@yahoo.com,New York,8,PMP,2023-08-20
+1577,Mitchell,Martin,Marketing,Senior,2021-06-03,2001,45080,87,5,10,0.92,1,10,34,16,andersonkylie@salazar.info,New York,7,AWS Solutions Architect,2024-05-19
+1578,Adrian,Howe,IT,Mid-level,2020-09-04,2004,52647,84,5,6,0.96,4,15,32,11,ysteele@yahoo.com,San Francisco,4,None,2020-09-23
+1579,Douglas,Nelson,IT,Mid-level,2021-01-26,2008,42411,78,20,25,0.96,3,5,22,17,lallen@hotmail.com,San Francisco,4,Digital Marketing L1,2021-12-12
+1580,Caitlyn,Love,Marketing,Junior,2020-04-23,2001,77074,91,10,10,0.94,1,7,26,12,michael08@lee.com,Seattle,8,Digital Marketing L1,
+1581,Kathleen,Fernandez,Marketing,Mid-level,2023-01-26,2009,76707,98,19,19,0.99,10,15,13,15,qtownsend@hill.com,Boston,7,PMP,2024-11-26
+1582,Megan,Pruitt,IT,Mid-level,2021-04-05,2006,73898,94,6,11,0.88,4,11,44,19,ernestlivingston@gmail.com,New York,6,Sales Expert L2,2024-03-04
+1583,Justin,Hamilton,Marketing,Junior,2023-02-02,2007,54786,92,18,18,0.99,3,7,31,14,vwilliams@gmail.com,New York,4,Sales Expert L2,
+1584,Eric,Johnson,Marketing,Senior,2024-07-24,2010,61908,96,13,14,0.87,3,10,13,15,jacobsonjennifer@riley.com,Seattle,8,AWS Solutions Architect,2024-08-27
+1585,Kimberly,Nguyen,IT,Junior,2021-12-12,2008,69258,88,8,8,1.0,0,11,30,7,joankane@vance-jones.org,New York,10,AWS Solutions Architect,
+1586,Pamela,Thomas,IT,Senior,2024-02-11,2004,68301,72,8,13,0.86,0,9,34,17,paultaylor@hotmail.com,Seattle,4,None,2024-03-03
+1587,Michael,Nelson,Marketing,Senior,2021-08-23,2006,40695,84,17,20,0.97,9,14,16,15,antoniocarroll@yahoo.com,Seattle,9,Sales Expert L2,2024-04-30
+1588,Melissa,Ellis,Sales,Junior,2021-02-25,2010,46729,70,7,11,0.97,3,14,18,13,jeffrey49@clarke.org,Boston,6,PMP,2021-08-16
+1589,Tara,Wyatt,Sales,Junior,2021-06-08,2003,49022,95,6,6,0.87,9,11,42,16,fvincent@vargas.com,San Francisco,6,None,2023-11-23
+1590,Jill,Wright,IT,Mid-level,2020-02-12,2009,79539,80,14,16,1.0,8,14,19,6,lriley@gmail.com,New York,5,None,2023-10-04
+1591,Adam,Baird,IT,Mid-level,2024-11-14,2006,52806,76,11,11,0.9,10,12,39,15,gquinn@simmons.info,Seattle,10,None,2024-12-27
+1592,Tyler,Miller,IT,Mid-level,2020-10-28,2008,61536,75,8,11,0.98,0,12,24,5,idodson@phillips-holland.com,Seattle,9,AWS Solutions Architect,2022-09-30
+1593,Elizabeth,Martin,Sales,Junior,2020-02-16,2009,71506,93,15,20,0.91,6,7,10,16,braysteven@gmail.com,New York,4,Sales Expert L2,2024-03-16
+1594,Kristy,Wood,Sales,Mid-level,2023-06-10,2006,68862,76,16,16,1.0,3,8,28,10,daltonchad@hotmail.com,Seattle,5,Digital Marketing L1,2023-10-31
+1595,Kenneth,Mullins,Sales,Junior,2022-10-28,2004,52844,70,10,12,0.99,0,15,18,17,olivermatthew@robertson.com,Chicago,9,Sales Expert L2,2022-12-17
+1596,Patrick,Marshall,IT,Junior,2020-06-06,2003,64224,95,16,21,0.88,8,14,37,7,michael81@fletcher.com,San Francisco,4,AWS Solutions Architect,2021-05-16
+1597,Deborah,Mclaughlin,Sales,Senior,2024-07-31,2003,64785,92,16,18,0.94,10,8,12,11,lukehurst@frazier.com,Chicago,10,None,2024-08-22
+1598,Todd,Rose,Sales,Junior,2023-11-03,2009,58354,97,9,13,1.0,7,8,15,20,rmckinney@lam.com,Boston,10,None,
+1599,Christopher,Myers,Marketing,Senior,2021-08-05,2010,64527,85,19,20,0.9,5,13,40,20,susan11@hill.com,New York,7,Digital Marketing L1,2023-07-17
+1600,Nancy,Meyer,Sales,Junior,2024-03-19,2002,53303,84,12,15,0.88,6,11,46,10,robert82@reed-wallace.com,San Francisco,10,Digital Marketing L1,2024-05-16
+1601,Bryan,Wiggins,Sales,Mid-level,2022-06-21,2007,69131,86,16,17,0.94,7,13,49,15,robert55@watkins-terry.net,Chicago,7,PMP,2023-04-10
+1602,Kevin,Anderson,IT,Mid-level,2023-10-12,2009,57892,82,5,6,0.92,4,15,14,16,kristinaperez@yahoo.com,Seattle,4,Digital Marketing L1,2024-10-01
+1603,Eddie,Mitchell,Marketing,Junior,2022-06-11,2005,58115,99,12,12,0.87,5,5,44,11,jennifermitchell@franco.com,Chicago,6,AWS Solutions Architect,2022-08-23
+1604,Daryl,Chaney,Marketing,Senior,2021-05-13,2007,57987,76,9,14,0.96,4,5,29,14,lgreen@hart.com,Boston,10,Digital Marketing L1,2022-05-17
+1605,Nathan,Fernandez,Marketing,Senior,2022-12-01,2002,40779,85,9,12,0.88,3,12,24,19,david06@mack-gould.com,Chicago,9,PMP,2023-03-25
+1606,Tara,Payne,Sales,Mid-level,2021-04-26,2006,67373,76,19,22,0.98,0,10,18,9,thomas49@hotmail.com,Chicago,6,Sales Expert L2,2021-05-02
+1607,Annette,Meadows,Sales,Mid-level,2021-03-29,2006,67899,91,17,22,0.93,5,14,11,6,hannah70@gmail.com,Seattle,5,AWS Solutions Architect,2024-08-22
+1608,Darryl,Johnson,Marketing,Senior,2024-09-04,2010,79835,88,17,20,0.88,6,6,44,17,uhoward@franklin.org,Boston,5,PMP,
+1609,Jeffrey,Walls,Marketing,Mid-level,2024-06-20,2007,46110,75,8,13,0.93,0,14,41,5,andrewryan@yahoo.com,Chicago,5,AWS Solutions Architect,
+1610,James,Stewart,Sales,Junior,2020-09-25,2002,59077,91,7,10,0.86,8,5,20,15,raymond65@watson-mitchell.com,San Francisco,10,PMP,2024-02-02
+1611,Tiffany,Sawyer,Marketing,Mid-level,2022-08-12,2010,71342,93,7,10,0.99,3,7,23,14,jessicawallace@lara-roberts.biz,Chicago,7,PMP,
+1612,Mary,Harper,Marketing,Junior,2023-07-07,2010,72930,92,19,21,0.88,2,12,14,17,kevinmcneil@hatfield.biz,Boston,8,AWS Solutions Architect,2023-10-23
+1613,Robert,Rocha,IT,Mid-level,2020-09-28,2003,77757,71,7,9,0.95,7,10,29,17,angelapage@gmail.com,Seattle,8,AWS Solutions Architect,2020-10-08
+1614,Marisa,Roberts,Marketing,Mid-level,2021-09-08,2002,70004,82,10,15,0.94,6,5,25,10,carsonkevin@hotmail.com,San Francisco,6,None,2022-06-23
+1615,Anita,Ford,IT,Mid-level,2022-07-30,2001,76229,73,16,16,0.96,8,10,36,19,moorekevin@flowers.com,Boston,5,Digital Marketing L1,2024-09-04
+1616,Travis,Watts,Sales,Junior,2023-07-17,2003,70271,82,15,20,0.91,3,11,12,5,wilsonjoshua@george.org,Chicago,6,Sales Expert L2,2023-12-03
+1617,Ryan,Scott,Marketing,Senior,2024-01-29,2003,70424,85,19,19,0.86,10,8,38,9,brooksjessica@gmail.com,New York,7,Digital Marketing L1,2024-09-04
+1618,Bonnie,Thomas,Marketing,Junior,2022-03-14,2004,51615,79,8,12,0.96,2,6,10,13,michaelbrown@yahoo.com,New York,5,PMP,2022-11-21
+1619,Rhonda,Kelly,Marketing,Senior,2023-07-24,2010,54166,84,6,11,0.97,10,15,16,17,alyssa18@gmail.com,New York,9,Digital Marketing L1,2024-11-29
+1620,Cody,Goodwin,Sales,Mid-level,2021-07-20,2004,53221,99,12,14,0.99,3,6,11,18,margaret44@hotmail.com,New York,4,Sales Expert L2,2024-10-19
+1621,Amanda,Bell,Sales,Junior,2023-01-28,2007,51002,93,10,10,0.91,1,10,30,11,taylorjuan@jenkins-mccall.com,Boston,8,AWS Solutions Architect,2023-04-12
+1622,Eric,Walker,Sales,Junior,2020-11-11,2002,54010,73,16,18,0.88,6,15,30,5,butlersabrina@fuentes.info,Chicago,7,AWS Solutions Architect,2021-10-15
+1623,Hannah,Taylor,Marketing,Senior,2022-12-14,2007,64181,71,7,8,0.91,9,12,16,10,gerald40@hotmail.com,San Francisco,6,Sales Expert L2,2023-08-13
+1624,David,Benson,IT,Junior,2020-12-31,2001,60838,97,20,20,0.9,9,14,38,17,david21@vazquez-bowers.com,San Francisco,8,AWS Solutions Architect,2021-12-11
+1625,Katherine,Williams,Sales,Senior,2020-02-25,2004,48130,79,12,17,0.91,3,14,15,6,mcguirewilliam@harrison.com,San Francisco,5,Digital Marketing L1,2024-04-08
+1626,Elizabeth,Webster,IT,Junior,2020-07-21,2005,42484,77,19,24,0.98,2,9,30,6,brianagonzalez@bell.com,New York,8,PMP,2023-02-13
+1627,Michael,Martin,Sales,Senior,2024-12-03,2001,61710,80,12,13,0.93,10,8,24,17,garciabelinda@rice.com,New York,8,Digital Marketing L1,
+1628,George,Webster,IT,Junior,2022-05-22,2008,52613,71,9,10,0.87,2,14,45,11,glasssamantha@wells.com,Chicago,5,None,
+1629,Tina,Coleman,Sales,Senior,2021-07-12,2008,52945,77,18,19,0.94,4,9,46,19,urodriguez@owens.com,New York,9,AWS Solutions Architect,2023-01-14
+1630,Janet,Hawkins,IT,Mid-level,2024-03-17,2002,64754,75,20,23,0.91,9,11,19,20,murphydarrell@bryant-fitzgerald.info,Chicago,4,PMP,2024-08-04
+1631,Richard,Mercer,Marketing,Senior,2021-11-29,2006,50013,87,10,12,0.91,4,12,28,17,melissajacobson@yahoo.com,San Francisco,8,None,2024-04-07
+1632,Alexander,Craig,Marketing,Mid-level,2023-02-12,2006,52826,74,11,11,0.85,8,10,41,17,qkim@miller.org,Boston,7,PMP,2023-07-01
+1633,Sara,Levine,IT,Mid-level,2020-11-09,2006,78555,72,18,18,1.0,1,11,46,10,theresa53@anthony.biz,Seattle,5,PMP,2024-01-04
+1634,Kathy,Miranda,Marketing,Mid-level,2024-03-27,2001,64129,92,6,11,0.91,6,8,25,20,qkelly@hotmail.com,San Francisco,4,Digital Marketing L1,2024-07-13
+1635,William,Hernandez,IT,Senior,2023-06-07,2007,69849,100,9,11,0.89,9,15,20,5,martineztracy@gmail.com,Boston,4,Sales Expert L2,2024-06-17
+1636,Cory,Brown,Marketing,Senior,2021-02-19,2002,45265,86,11,14,0.87,6,9,29,17,lgregory@jacobs-murphy.com,New York,8,Digital Marketing L1,2021-04-06
+1637,Kathleen,Guerrero,Marketing,Senior,2020-10-23,2002,62570,96,9,11,0.96,6,9,10,10,qharris@yahoo.com,Boston,10,PMP,
+1638,Jose,Cooper,Marketing,Mid-level,2024-02-29,2008,58896,93,18,19,0.88,2,7,22,20,ewingnicole@reyes.biz,Seattle,5,None,2024-09-12
+1639,Steve,Johnson,Sales,Junior,2023-10-03,2002,53168,71,10,11,0.89,6,12,50,8,travistaylor@hotmail.com,Boston,10,AWS Solutions Architect,
+1640,Kathryn,Carroll,Sales,Mid-level,2023-04-20,2001,44211,80,5,9,0.89,7,15,16,5,kalvarez@hotmail.com,Seattle,4,Digital Marketing L1,2024-05-02
+1641,Jose,Garza,Sales,Junior,2020-06-19,2006,53832,86,5,8,0.94,4,12,40,15,katie45@gmail.com,Chicago,8,PMP,2023-10-17
+1642,Brittany,Anderson,Sales,Mid-level,2020-03-25,2002,66114,82,6,8,0.98,1,5,39,17,lisa90@hotmail.com,Seattle,9,AWS Solutions Architect,
+1643,Oscar,Patterson,IT,Senior,2022-11-23,2006,56288,81,19,23,0.95,7,13,36,11,qbell@gmail.com,New York,4,Digital Marketing L1,
+1644,Deborah,Watkins,Marketing,Mid-level,2022-02-05,2005,69118,77,20,23,0.96,1,10,37,20,danny20@nguyen.org,Seattle,9,Sales Expert L2,2023-02-04
+1645,Joseph,Dominguez,Sales,Senior,2024-05-15,2008,49382,97,6,7,0.92,1,9,45,19,nicholas65@davis.com,Seattle,5,PMP,2024-10-25
+1646,Wesley,Hubbard,Sales,Junior,2022-11-06,2005,53870,75,7,7,0.92,0,7,30,17,christinacox@yahoo.com,Boston,10,Digital Marketing L1,2024-12-16
+1647,Cynthia,Dickson,Marketing,Junior,2021-09-15,2007,48896,99,20,20,0.97,5,8,46,7,karlwilliams@morales.com,Seattle,9,Digital Marketing L1,2023-10-26
+1648,Brittany,Nelson,IT,Junior,2024-11-28,2003,54650,78,8,10,0.86,1,10,47,11,yclark@gmail.com,Chicago,9,Sales Expert L2,2024-12-02
+1649,Linda,Reynolds,IT,Senior,2022-07-23,2010,40110,79,6,10,0.93,6,11,30,16,robertking@hotmail.com,Seattle,10,AWS Solutions Architect,2024-09-13
+1650,Nicole,Burton,Sales,Junior,2023-11-06,2001,65907,70,19,21,0.87,4,8,41,19,vlewis@adams-little.org,Seattle,5,None,2024-03-25
+1651,Jessica,Brown,IT,Mid-level,2023-09-06,2007,72923,92,8,10,1.0,9,12,50,11,steven32@jennings.com,New York,7,Digital Marketing L1,2024-11-18
+1652,Meghan,Adams,IT,Junior,2020-07-16,2009,53802,97,12,17,0.96,2,12,35,14,jonathanburke@yahoo.com,Boston,10,AWS Solutions Architect,2022-04-09
+1653,Edward,Johnson,IT,Mid-level,2022-01-07,2010,71026,81,17,20,0.86,4,9,22,17,bwashington@yahoo.com,New York,4,AWS Solutions Architect,2022-07-02
+1654,Erik,Taylor,Marketing,Mid-level,2020-04-21,2001,69984,90,10,14,0.87,7,9,19,11,donna20@hotmail.com,Chicago,5,AWS Solutions Architect,2022-01-08
+1655,Andrew,Heath,Marketing,Senior,2024-02-15,2003,46681,91,9,12,0.99,6,15,20,6,carolyn16@powers-blackwell.biz,New York,4,Digital Marketing L1,2024-12-14
+1656,Daniel,Navarro,Sales,Senior,2021-03-09,2010,62183,88,18,19,0.94,6,8,12,8,tyler13@martinez.org,San Francisco,5,PMP,2022-03-10
+1657,Linda,Manning,Marketing,Senior,2023-04-23,2002,64600,94,7,10,0.98,10,11,27,19,drewthompson@yahoo.com,New York,6,Sales Expert L2,
+1658,Ricky,Roy,IT,Senior,2023-09-24,2008,73406,77,5,9,0.94,9,12,27,8,sferguson@stewart.info,Boston,10,None,
+1659,Natasha,Giles,IT,Senior,2022-02-01,2009,48207,73,15,15,0.96,8,7,35,5,tbaldwin@gmail.com,Boston,7,None,2023-04-08
+1660,Hannah,Mccormick,Sales,Senior,2020-04-15,2006,78320,87,8,9,0.99,1,7,48,10,angela45@martinez.biz,New York,4,None,2020-10-01
+1661,Renee,Long,Sales,Junior,2020-01-22,2001,77688,76,10,10,0.93,0,6,17,14,christopher34@gmail.com,San Francisco,6,None,
+1662,Crystal,Suarez,IT,Junior,2021-05-09,2009,74042,98,14,19,0.93,2,14,41,15,hillchristopher@yahoo.com,San Francisco,8,Digital Marketing L1,2023-03-21
+1663,Robert,Randall,Marketing,Junior,2023-12-31,2010,42931,77,6,7,0.87,3,7,48,11,hollowayholly@hotmail.com,Boston,8,Digital Marketing L1,2024-10-12
+1664,Robert,Daniel,Sales,Senior,2020-07-22,2003,56709,78,17,22,0.99,6,12,15,13,wneal@gmail.com,Seattle,9,PMP,2023-07-20
+1665,Scott,Davidson,Sales,Junior,2021-07-21,2007,57655,90,11,16,0.91,10,15,42,10,tgonzalez@johnston-rodriguez.com,Boston,7,AWS Solutions Architect,2024-03-25
+1666,Melanie,Jennings,Sales,Senior,2024-05-20,2006,56220,72,13,13,0.93,10,13,36,7,vmendoza@gmail.com,Chicago,6,Sales Expert L2,2024-07-09
+1667,Grace,Serrano,Sales,Junior,2022-03-17,2005,57933,70,8,11,1.0,3,11,16,8,christopherrichardson@yahoo.com,Seattle,5,None,2022-12-11
+1668,Shirley,Wilkerson,IT,Junior,2023-03-15,2009,74665,81,14,18,0.89,1,5,20,15,vaughansandra@salazar.info,Seattle,10,PMP,
+1669,Jacqueline,Jackson,Marketing,Mid-level,2021-09-04,2001,71251,88,9,11,0.85,8,7,18,9,jburke@gmail.com,Chicago,7,None,2022-10-15
+1670,Stacey,Wilson,Marketing,Junior,2023-02-14,2004,79891,83,19,20,0.92,5,12,42,14,fwilcox@gmail.com,Chicago,6,PMP,2023-06-26
+1671,Jennifer,Lee,Marketing,Junior,2021-11-25,2005,60031,83,15,15,0.95,1,8,15,10,julie62@yahoo.com,Seattle,8,Sales Expert L2,
+1672,Jason,Holloway,IT,Junior,2021-09-30,2001,67786,91,9,12,0.92,10,15,44,8,ywhite@johnson.com,Boston,7,Sales Expert L2,2024-04-19
+1673,Mike,Sutton,Marketing,Senior,2023-10-30,2003,62613,77,6,10,0.92,2,15,43,12,smithdean@yahoo.com,Seattle,5,Sales Expert L2,2024-05-09
+1674,Jason,Reyes,IT,Junior,2023-05-17,2005,67703,85,17,18,0.91,1,10,25,8,charles80@gmail.com,San Francisco,6,Digital Marketing L1,2024-10-31
+1675,Sarah,Ruiz,Sales,Senior,2022-10-28,2001,77279,82,11,13,0.99,10,13,12,19,smithwilliam@yahoo.com,Seattle,8,PMP,
+1676,Emily,Anderson,IT,Mid-level,2022-07-25,2002,59552,81,8,8,0.9,2,11,32,5,jorgegordon@humphrey-anderson.com,Seattle,4,PMP,2024-03-29
+1677,Donald,Wilson,Marketing,Junior,2024-07-02,2007,66916,73,20,20,0.87,10,9,24,20,victormcpherson@adkins-howe.com,San Francisco,7,Digital Marketing L1,2024-09-24
+1678,Maria,Mcintosh,Marketing,Mid-level,2022-03-25,2003,47123,84,19,20,0.87,6,5,32,11,ustafford@hotmail.com,Boston,4,AWS Solutions Architect,2024-11-01
+1679,Stephanie,Peters,IT,Senior,2024-03-03,2003,61706,98,6,7,0.95,7,15,27,8,lopezbrian@gmail.com,Chicago,7,PMP,2024-12-24
+1680,Thomas,Martin,IT,Senior,2020-04-18,2006,65483,74,8,8,0.97,2,7,32,5,fwilson@gmail.com,Boston,10,AWS Solutions Architect,
+1681,Michael,Fletcher,Marketing,Senior,2023-09-30,2005,40526,83,20,22,0.89,1,11,25,9,uvasquez@gmail.com,New York,9,None,
+1682,Clayton,Oneill,IT,Senior,2021-01-16,2003,56210,91,18,19,0.92,1,13,49,10,karencarson@macdonald.com,San Francisco,5,None,2022-07-13
+1683,Ashley,Butler,Sales,Junior,2024-06-19,2009,66298,71,13,14,0.99,6,5,49,11,kaylarhodes@johnson-maldonado.com,Chicago,4,Sales Expert L2,2024-11-14
+1684,Brittany,Bean,Marketing,Senior,2023-05-06,2006,55166,77,15,18,0.92,8,11,13,14,anthonystevens@hotmail.com,Boston,4,Digital Marketing L1,2024-02-20
+1685,Shawn,Moses,Sales,Mid-level,2024-01-27,2003,43116,75,6,6,0.86,5,8,28,20,tara97@meza-cooke.org,Chicago,6,None,
+1686,Michelle,Solis,IT,Mid-level,2021-02-02,2010,61907,79,8,8,0.95,10,13,18,15,lauren18@hotmail.com,Seattle,6,Digital Marketing L1,2021-12-27
+1687,Raymond,Thompson,Marketing,Mid-level,2023-03-27,2004,55614,90,13,14,0.94,1,6,18,8,smithjared@yahoo.com,San Francisco,4,None,2023-06-06
+1688,Deborah,Best,Marketing,Mid-level,2023-06-01,2005,46464,72,15,17,0.96,3,13,19,6,evanslaurie@drake.com,Seattle,5,AWS Solutions Architect,2024-01-08
+1689,Cody,Richardson,IT,Mid-level,2023-01-17,2003,69391,90,8,11,0.86,6,13,42,5,ygriffin@adams-burke.com,Chicago,5,None,2024-06-16
+1690,Christina,Hamilton,Sales,Senior,2023-08-02,2007,43984,95,11,16,0.97,7,15,44,7,williamsmatthew@yahoo.com,Seattle,5,PMP,2024-05-14
+1691,Gina,Moore,IT,Mid-level,2021-11-24,2009,79794,78,11,12,0.85,9,8,47,5,robertssamuel@yahoo.com,Chicago,10,None,2024-08-26
+1692,Tracey,Sutton,IT,Junior,2022-07-19,2005,59422,92,13,17,0.87,3,5,44,12,alexandraphillips@gmail.com,San Francisco,6,Sales Expert L2,2023-03-06
+1693,Samantha,Palmer,IT,Junior,2024-09-04,2009,56318,96,11,15,0.87,10,10,50,16,qdavis@hotmail.com,Chicago,6,Sales Expert L2,2024-09-18
+1694,Lisa,Kelly,Marketing,Junior,2024-10-29,2001,66761,98,14,16,1.0,10,5,32,12,wilsondorothy@hartman.com,Seattle,9,Digital Marketing L1,
+1695,Nancy,Evans,Marketing,Senior,2020-09-12,2005,46975,93,17,22,0.89,10,15,48,11,qhanson@yahoo.com,San Francisco,10,PMP,2024-03-28
+1696,Jason,Miller,Marketing,Senior,2021-08-01,2003,65917,74,19,20,0.96,6,10,19,20,hamiltonandrew@yahoo.com,San Francisco,4,PMP,
+1697,Alexander,Rios,Sales,Senior,2020-12-25,2003,72146,100,10,15,0.89,4,7,21,17,vmelton@hotmail.com,New York,9,None,
+1698,Kevin,Li,IT,Junior,2024-02-18,2001,69820,99,17,17,0.96,2,5,48,8,fballard@gmail.com,New York,7,PMP,
+1699,James,Cabrera,Sales,Junior,2021-02-20,2008,45478,78,9,14,0.94,0,6,44,15,clarkdeborah@allen.net,Seattle,10,Sales Expert L2,2021-03-13
+1700,Christopher,Carrillo,IT,Junior,2021-08-13,2005,60144,80,20,21,0.89,8,9,50,8,hhenderson@barrera.info,New York,4,Sales Expert L2,
+1701,Andrew,Cole,Marketing,Mid-level,2024-02-12,2002,49295,70,12,12,0.88,6,7,32,14,kennethgallegos@williams-smith.biz,Boston,5,PMP,2024-08-13
+1702,Melinda,Mclaughlin,Sales,Junior,2023-07-12,2007,54714,73,14,16,0.86,5,6,33,7,freemantodd@hotmail.com,Seattle,4,None,
+1703,Jennifer,Rice,IT,Senior,2024-02-21,2008,51885,91,18,19,0.98,10,9,49,14,angela46@yahoo.com,Chicago,6,Sales Expert L2,2024-05-21
+1704,Cindy,Lucas,IT,Senior,2020-12-26,2002,45004,95,5,6,0.97,2,10,19,17,ssmith@hotmail.com,Seattle,7,PMP,2023-02-02
+1705,Maurice,Hall,IT,Senior,2021-08-17,2007,58250,74,7,9,1.0,2,11,32,15,sandra72@sharp-myers.biz,Seattle,7,PMP,2023-08-15
+1706,Thomas,Maddox,Marketing,Mid-level,2023-01-21,2007,49058,95,12,15,0.91,7,13,44,20,justincurry@webb.info,New York,8,None,2024-09-30
+1707,Robert,Chaney,Marketing,Senior,2020-11-06,2003,67645,86,12,17,0.86,5,5,23,5,jasonwilliams@gmail.com,New York,6,None,2024-03-22
+1708,Nicole,Kelly,Sales,Mid-level,2023-01-16,2003,63649,97,9,11,0.92,8,11,25,11,mariakline@roman.biz,New York,10,AWS Solutions Architect,
+1709,Jeremy,Hoffman,Marketing,Senior,2020-12-17,2001,49376,82,5,10,0.99,5,5,16,7,victoria50@hotmail.com,San Francisco,7,None,2023-08-03
+1710,Melissa,Russo,IT,Junior,2022-04-08,2005,45176,77,7,7,0.94,6,7,21,20,housesamuel@estes-campos.com,Boston,9,AWS Solutions Architect,2022-11-28
+1711,Madison,Williams,IT,Senior,2020-11-09,2007,62107,84,5,7,0.87,0,15,12,10,crystalpitts@moore-carter.info,Boston,8,AWS Solutions Architect,
+1712,Jessica,Garcia,Marketing,Senior,2024-04-17,2001,56911,99,14,19,0.88,2,9,15,17,lori13@yahoo.com,San Francisco,5,AWS Solutions Architect,2024-10-27
+1713,John,Lamb,IT,Junior,2023-07-12,2007,76653,89,7,12,0.92,5,15,35,17,william14@yahoo.com,San Francisco,5,Sales Expert L2,2023-07-17
+1714,Michael,Ortega,IT,Junior,2023-07-10,2004,46841,72,16,20,0.97,5,5,25,14,icobb@gutierrez-ortiz.info,Seattle,5,None,
+1715,Laura,Cox,Sales,Mid-level,2024-05-19,2006,52303,87,11,16,0.99,3,9,15,6,athomas@drake.com,New York,8,PMP,
+1716,Ryan,Long,IT,Junior,2023-05-29,2009,63373,94,14,17,0.93,5,11,32,9,rachelbrown@whitney.com,New York,9,Sales Expert L2,2023-10-03
+1717,Richard,Becker,Marketing,Junior,2023-07-23,2002,41552,88,17,20,0.94,0,9,20,9,regina04@hotmail.com,San Francisco,9,PMP,
+1718,Richard,Schneider,Sales,Senior,2021-03-29,2006,49231,94,10,14,0.93,9,15,43,15,pam63@yahoo.com,Seattle,7,AWS Solutions Architect,2024-03-20
+1719,Benjamin,Cook,IT,Junior,2020-09-15,2005,65403,77,11,15,0.94,2,14,50,20,jason88@boyd-sherman.com,Seattle,4,Sales Expert L2,
+1720,Anthony,Hogan,Sales,Mid-level,2020-03-10,2008,46167,84,15,16,0.99,2,6,27,16,marilyntorres@yahoo.com,Chicago,6,Sales Expert L2,
+1721,Jessica,Skinner,IT,Mid-level,2024-04-15,2003,68969,90,9,9,1.0,7,5,33,14,david17@yahoo.com,Boston,7,PMP,2024-05-27
+1722,Shawn,Bird,IT,Senior,2024-11-10,2009,60555,81,7,12,0.91,7,9,12,6,kevin92@gray.net,New York,9,AWS Solutions Architect,2024-11-10
+1723,Mackenzie,Ward,Sales,Junior,2024-12-11,2008,59048,82,10,14,0.91,1,8,34,19,jenniferpoole@davis.com,Seattle,9,Sales Expert L2,2024-12-15
+1724,Sean,Wood,IT,Junior,2024-01-16,2008,45624,75,8,11,0.97,3,11,31,7,lwiggins@yahoo.com,San Francisco,6,Digital Marketing L1,2024-04-08
+1725,Wendy,Barker,Marketing,Senior,2023-08-05,2010,71209,73,13,16,0.86,2,12,19,11,jcolon@hotmail.com,Boston,6,None,
+1726,Todd,Ellis,Sales,Mid-level,2021-01-26,2002,68187,85,11,11,0.88,0,15,37,13,stanleyjohnson@raymond.com,Chicago,6,AWS Solutions Architect,
+1727,David,Armstrong,IT,Junior,2023-06-20,2005,59551,97,19,22,0.93,10,9,21,6,davidtorres@turner-tucker.com,San Francisco,4,PMP,2023-09-13
+1728,Brittany,Williams,Sales,Mid-level,2021-03-14,2010,67466,85,20,24,0.95,2,11,32,17,jason70@gmail.com,San Francisco,10,Sales Expert L2,2024-07-13
+1729,Carlos,Williams,Sales,Senior,2024-08-25,2002,77911,89,9,11,0.95,5,5,19,19,ariel56@yahoo.com,Boston,5,PMP,2024-10-31
+1730,Dillon,Fields,IT,Senior,2021-02-13,2009,40240,84,9,14,0.92,9,6,12,11,uhernandez@yahoo.com,San Francisco,9,AWS Solutions Architect,2024-05-11
+1731,Colleen,Hanson,Marketing,Mid-level,2020-10-01,2009,54164,81,11,12,1.0,9,5,33,16,rachelmorgan@gmail.com,New York,4,Digital Marketing L1,2024-02-25
+1732,Debbie,Cline,Marketing,Mid-level,2023-10-05,2006,69884,83,18,20,0.9,8,11,43,15,ann18@lee.net,San Francisco,4,AWS Solutions Architect,2024-05-07
+1733,Susan,Boyd,Marketing,Senior,2024-11-24,2002,50659,87,18,21,0.89,10,15,37,14,martinezsharon@gmail.com,New York,9,None,2024-11-26
+1734,Kristin,Sanchez,Sales,Junior,2020-02-25,2005,41076,89,18,18,0.92,9,13,16,19,romancatherine@yahoo.com,Boston,8,None,2022-06-28
+1735,Travis,Peck,Sales,Junior,2020-05-16,2006,69794,87,17,17,0.88,7,6,32,19,bwhite@hotmail.com,San Francisco,7,PMP,
+1736,Patrick,Davis,Marketing,Mid-level,2022-09-10,2003,57538,98,13,15,0.98,6,15,25,5,justinwhite@moore.com,Chicago,7,Sales Expert L2,
+1737,Howard,Reeves,Marketing,Senior,2020-06-29,2001,79318,80,15,16,0.99,6,8,45,17,jgarcia@yahoo.com,Seattle,5,None,2023-04-05
+1738,Nicholas,Carey,IT,Junior,2022-10-01,2010,65586,93,10,13,0.99,8,7,37,12,harriskaren@young.com,Boston,4,AWS Solutions Architect,2023-11-05
+1739,Lucas,Tran,Marketing,Mid-level,2022-04-13,2002,76235,75,15,16,0.86,0,11,10,9,ojohnson@mcintyre.com,Seattle,4,None,2022-07-16
+1740,John,Peters,IT,Junior,2024-09-14,2001,48555,84,16,17,0.89,3,9,22,12,ashley71@mason.net,Chicago,9,PMP,2024-10-03
+1741,John,Cisneros,Sales,Junior,2021-06-03,2002,41516,90,8,8,0.92,9,6,16,9,smithsteven@hotmail.com,New York,6,Digital Marketing L1,2024-09-29
+1742,Aaron,Mahoney,IT,Mid-level,2022-06-14,2006,53629,82,8,11,0.97,6,6,41,7,carla65@hotmail.com,Boston,5,PMP,2023-03-01
+1743,Mary,Campbell,Sales,Junior,2021-10-20,2010,59579,70,10,15,0.94,9,5,17,15,turnerrandall@rivas.net,Seattle,6,PMP,2024-04-16
+1744,Natalie,Clark,Sales,Junior,2022-05-15,2004,74193,93,13,13,0.88,0,13,11,9,cynthia74@gmail.com,New York,5,Digital Marketing L1,
+1745,Jason,Haley,IT,Junior,2022-09-23,2007,54402,72,9,11,0.89,3,6,32,14,sloandennis@gmail.com,San Francisco,7,PMP,2024-03-06
+1746,Rachel,Chambers,IT,Junior,2024-01-17,2008,52968,91,13,16,0.87,9,9,20,11,ifarmer@gmail.com,Boston,9,PMP,2024-01-18
+1747,Patricia,Cabrera,Marketing,Senior,2020-08-25,2001,57804,96,15,19,0.87,6,11,22,16,gomezlisa@hotmail.com,Seattle,6,Sales Expert L2,2020-11-29
+1748,Paul,Combs,IT,Senior,2023-01-14,2006,66857,79,16,19,0.85,2,10,37,10,fordsharon@smith-paul.com,Chicago,6,AWS Solutions Architect,
+1749,James,Velasquez,Sales,Mid-level,2023-01-13,2005,48015,70,15,20,0.85,5,8,39,15,jimsnyder@yahoo.com,Seattle,5,None,
+1750,Trevor,Padilla,Sales,Senior,2020-04-21,2006,54251,73,13,18,0.94,10,6,46,18,gonzalezlori@rodriguez-ramirez.net,San Francisco,9,PMP,2022-09-10
+1751,Andrea,Keller,Sales,Junior,2024-03-11,2001,72370,85,6,8,0.91,1,12,20,15,chapmanjulie@green.com,Chicago,8,PMP,2024-05-16
+1752,Jessica,Hill,Sales,Senior,2024-06-10,2002,77732,70,19,21,0.87,6,5,44,6,erin70@davidson-hahn.com,Boston,6,Sales Expert L2,
+1753,Megan,Russell,Marketing,Mid-level,2022-09-27,2008,58001,80,16,19,0.86,5,12,49,6,hsimpson@stephenson.com,Boston,7,Digital Marketing L1,2024-07-29
+1754,Amanda,Stewart,Marketing,Junior,2022-05-10,2002,64504,100,8,8,0.88,0,7,16,15,matthewbeard@gmail.com,San Francisco,10,PMP,2024-02-21
+1755,Rodney,Jones,Marketing,Mid-level,2021-11-29,2010,75229,70,6,8,0.98,0,6,13,14,frankcollins@garrett.com,Boston,4,Digital Marketing L1,2024-11-04
+1756,John,Wells,IT,Senior,2022-11-01,2009,51163,99,9,13,0.92,2,10,19,18,underwoodapril@gmail.com,Seattle,9,PMP,2023-11-24
+1757,Kathryn,Garrett,Sales,Senior,2020-08-11,2006,71321,91,20,22,0.9,7,8,15,13,villegassabrina@edwards-abbott.com,Seattle,10,Digital Marketing L1,2024-05-04
+1758,Bryan,Lang,Sales,Senior,2021-01-28,2002,53493,92,7,7,1.0,0,8,10,11,cheryl61@byrd.com,Chicago,7,PMP,
+1759,Richard,Williamson,Sales,Senior,2022-07-02,2007,74579,86,15,17,0.96,10,7,42,8,michellecobb@hotmail.com,Boston,5,AWS Solutions Architect,2024-02-14
+1760,Patrick,Pope,Marketing,Senior,2020-01-30,2002,53305,94,17,18,0.86,6,7,29,8,debra07@murphy.org,San Francisco,5,PMP,2023-12-08
+1761,Rebecca,Martinez,Sales,Mid-level,2020-07-25,2004,52257,78,5,8,0.95,7,10,26,8,robert97@gmail.com,San Francisco,8,Sales Expert L2,2022-03-18
+1762,Devin,Williams,IT,Senior,2022-01-22,2004,68236,86,15,15,0.92,5,6,13,17,breanna85@silva-weaver.com,Boston,9,PMP,
+1763,Terrance,Morrison,Sales,Senior,2021-03-30,2001,58083,86,20,24,0.92,10,5,25,8,tara89@hotmail.com,Seattle,5,Sales Expert L2,
+1764,John,Fuentes,IT,Junior,2021-03-22,2005,44315,87,8,10,0.88,9,11,35,17,mcooper@kerr.info,Boston,4,AWS Solutions Architect,2021-06-19
+1765,Heather,Christian,Sales,Junior,2023-12-20,2004,53341,81,14,19,0.94,0,6,21,20,robert21@yahoo.com,San Francisco,9,Digital Marketing L1,2024-08-08
+1766,Tyler,Mora,IT,Senior,2020-05-08,2005,44551,75,10,12,0.98,2,5,40,18,stevenlewis@navarro-cisneros.com,New York,6,Sales Expert L2,
+1767,Richard,Mckenzie,Sales,Senior,2023-03-10,2005,40637,89,16,19,0.94,7,8,40,8,alejandro50@wilson.org,San Francisco,4,Sales Expert L2,2023-08-16
+1768,Theresa,Gonzalez,Marketing,Senior,2023-01-20,2005,50964,94,9,9,0.86,5,12,41,16,jefferygreen@gmail.com,Chicago,8,Digital Marketing L1,2023-02-23
+1769,Angela,White,IT,Junior,2022-11-18,2001,63109,79,15,19,0.97,9,12,17,13,meganlozano@decker.biz,San Francisco,9,None,2024-09-06
+1770,Sharon,Torres,IT,Junior,2020-12-07,2005,49282,81,20,20,0.89,6,10,23,7,lisa28@keith.com,Seattle,5,PMP,2022-05-16
+1771,Jake,Patel,IT,Senior,2021-02-07,2006,51465,78,16,18,0.91,6,9,29,11,carol30@hotmail.com,Seattle,4,None,2024-06-25
+1772,Melissa,Phillips,Sales,Mid-level,2024-12-26,2005,69820,88,16,18,0.87,0,12,19,19,john42@schmitt.com,Seattle,9,AWS Solutions Architect,2024-12-26
+1773,Elizabeth,Brown,Marketing,Senior,2023-12-30,2002,50656,79,20,22,0.86,4,5,39,6,victor72@yahoo.com,New York,5,Digital Marketing L1,2024-11-01
+1774,Heather,Baldwin,IT,Mid-level,2023-03-04,2009,40333,83,16,21,0.98,0,9,18,16,zadams@hotmail.com,San Francisco,6,None,2024-04-15
+1775,Jamie,Jacobson,Sales,Senior,2024-12-16,2007,57738,74,11,14,0.94,1,9,24,6,randytorres@yahoo.com,Boston,7,Digital Marketing L1,2024-12-16
+1776,Selena,Brooks,IT,Junior,2024-11-07,2007,57121,99,14,18,0.9,9,11,30,9,karenphillips@bell.org,Seattle,9,AWS Solutions Architect,2024-11-22
+1777,Ronald,Mcdonald,Sales,Mid-level,2022-11-08,2009,59988,72,14,18,0.99,7,13,21,17,linda54@yahoo.com,Boston,10,PMP,
+1778,Hayden,Hall,Marketing,Mid-level,2020-03-14,2007,73018,99,16,19,0.9,7,11,36,19,rachel48@payne.com,New York,4,None,
+1779,David,Ward,Sales,Senior,2020-10-29,2001,59817,95,12,16,0.93,2,14,44,14,james54@mcgee-mack.com,Boston,4,PMP,
+1780,Cassandra,Taylor,Marketing,Mid-level,2021-08-12,2006,43561,72,6,8,0.97,10,6,31,8,carrillojuan@yahoo.com,New York,10,Digital Marketing L1,2024-08-12
+1781,Lydia,Todd,Sales,Senior,2023-06-05,2005,78313,91,6,11,0.88,2,13,41,9,wvaldez@grimes.com,New York,5,AWS Solutions Architect,2024-04-15
+1782,Jesus,Matthews,IT,Senior,2021-10-11,2009,53153,73,7,7,0.87,1,13,16,12,fpeterson@yahoo.com,Boston,5,Sales Expert L2,2023-10-18
+1783,Roy,Mcmahon,IT,Junior,2021-08-03,2003,47983,79,17,20,1.0,3,13,26,19,samuelfarrell@gmail.com,New York,10,None,
+1784,Barbara,Anderson,Sales,Junior,2023-03-07,2002,55773,75,11,14,0.92,4,15,16,20,wcochran@perez-simmons.biz,Boston,6,Digital Marketing L1,2023-06-22
+1785,Mark,Johnson,IT,Mid-level,2024-07-25,2006,49710,70,14,17,0.87,6,5,47,14,ericcisneros@carroll-lloyd.org,San Francisco,4,None,2024-09-21
+1786,Michelle,Baird,IT,Senior,2024-11-14,2003,70038,78,5,6,0.9,8,8,32,17,ybrown@wells.org,Chicago,8,Sales Expert L2,
+1787,Christopher,Garcia,Marketing,Senior,2023-10-31,2008,76906,80,19,24,0.98,2,9,29,17,serranocarrie@lopez.biz,Seattle,4,PMP,2024-06-23
+1788,Jamie,Carter,Marketing,Junior,2022-05-28,2003,77751,92,13,14,0.95,9,14,32,17,hbrown@jackson.biz,San Francisco,4,Sales Expert L2,
+1789,David,Barnes,Sales,Senior,2021-04-29,2001,46961,85,20,22,0.96,3,6,21,17,nfriedman@harrell.biz,Seattle,10,PMP,2021-10-18
+1790,Cassandra,Crosby,IT,Junior,2024-01-12,2007,42452,97,7,10,0.96,9,15,11,10,ahill@griffin.org,San Francisco,6,Sales Expert L2,2024-03-13
+1791,Mark,Carroll,Marketing,Senior,2022-02-02,2009,76468,76,11,13,0.92,10,9,24,11,cford@hotmail.com,San Francisco,9,AWS Solutions Architect,2024-04-28
+1792,Debbie,Ellison,Sales,Senior,2020-10-07,2006,41588,90,8,9,0.85,2,5,33,18,peter26@gmail.com,San Francisco,8,None,2021-12-28
+1793,Jessica,Ellis,Marketing,Senior,2021-07-08,2002,74613,85,11,12,0.94,7,13,32,16,longsonya@mcclure.com,Boston,8,None,2024-02-22
+1794,Kelly,Hendricks,IT,Senior,2024-07-25,2009,64649,97,7,11,0.86,8,9,16,8,wjenkins@martinez.net,Chicago,7,AWS Solutions Architect,
+1795,Shannon,King,Sales,Junior,2022-10-06,2009,58998,99,13,16,0.96,1,7,28,7,ojohnson@lowe.biz,Seattle,8,None,2024-07-04
+1796,Randy,Smith,Marketing,Mid-level,2021-08-23,2007,66163,89,6,10,0.95,1,14,40,13,markgoodman@murray-miller.com,Chicago,9,Sales Expert L2,
+1797,Thomas,Ramirez,Sales,Mid-level,2023-09-18,2010,43892,74,11,15,0.97,5,15,13,12,marylawson@phillips.biz,Seattle,7,Sales Expert L2,2024-01-04
+1798,Chris,Gallagher,Marketing,Junior,2021-06-04,2008,62665,72,18,22,0.96,1,13,40,9,scottthompson@hotmail.com,Seattle,6,Sales Expert L2,
+1799,Javier,Horton,Sales,Senior,2020-04-14,2007,62954,83,20,22,0.97,3,5,13,5,cvaughn@george.biz,New York,10,AWS Solutions Architect,2024-10-23
+1800,Nicholas,Allen,Marketing,Mid-level,2021-09-15,2006,43417,82,17,22,0.87,6,13,18,8,fisherveronica@hoover-frazier.com,Chicago,7,Sales Expert L2,2022-10-07
+1801,Laura,Rivas,Sales,Mid-level,2021-11-13,2001,68608,99,6,7,0.88,9,5,24,18,bradleyhunt@morris-sims.org,San Francisco,9,None,2022-04-12
+1802,Randall,Patterson,Sales,Junior,2021-10-02,2008,43712,74,19,20,0.89,5,10,48,12,danielmorris@morales.com,New York,6,AWS Solutions Architect,2024-01-21
+1803,Stephen,Jones,Marketing,Junior,2023-04-21,2004,45005,78,11,14,0.96,5,8,38,14,bradley36@yahoo.com,Seattle,6,None,2023-10-03
+1804,Jennifer,Moody,IT,Mid-level,2024-03-29,2009,75482,86,8,8,0.9,6,14,41,13,susan95@horton.com,San Francisco,4,AWS Solutions Architect,2024-05-07
+1805,Cynthia,Henson,IT,Senior,2022-10-25,2001,76239,76,8,10,0.96,2,5,25,19,bjones@hotmail.com,Boston,9,PMP,2023-07-24
+1806,Patrick,Davidson,Sales,Mid-level,2024-12-19,2007,58216,88,17,19,0.97,1,5,27,17,hallchristina@parker.biz,Boston,7,Sales Expert L2,2024-12-24
+1807,Christopher,Taylor,Sales,Junior,2022-01-23,2010,53482,82,10,15,0.91,0,15,29,6,james63@hotmail.com,Chicago,8,Digital Marketing L1,2024-09-11
+1808,Sandra,George,IT,Senior,2020-04-24,2005,54191,94,5,7,0.96,9,11,37,6,dennis50@hotmail.com,Seattle,10,Sales Expert L2,2022-05-03
+1809,Deborah,Roberts,IT,Mid-level,2023-07-10,2004,77526,93,13,14,0.99,7,8,18,5,melanierivera@harris.com,Seattle,6,Digital Marketing L1,
+1810,Monique,Boyd,IT,Mid-level,2021-11-19,2006,77426,82,6,10,0.89,4,15,26,5,esoto@jones-lee.com,Chicago,4,Digital Marketing L1,2024-06-20
+1811,Christopher,Watkins,Sales,Mid-level,2021-09-23,2002,70325,70,19,19,0.92,5,12,50,11,williamsimmons@collins-griffith.com,Chicago,7,Sales Expert L2,2022-04-06
+1812,Gregory,Wright,Marketing,Senior,2023-08-07,2010,60580,100,7,10,0.88,4,9,41,9,mfaulkner@yahoo.com,New York,5,AWS Solutions Architect,
+1813,Stephanie,Ward,Sales,Junior,2024-01-31,2006,42523,75,19,23,0.9,8,8,13,13,thomashenderson@hotmail.com,Seattle,6,Sales Expert L2,2024-03-02
+1814,Lori,Leon,Marketing,Junior,2023-09-05,2006,79359,77,16,16,0.86,7,6,42,7,fsimmons@larson-hernandez.com,Boston,5,AWS Solutions Architect,2024-01-04
+1815,Steven,Chavez,Sales,Senior,2022-03-07,2005,67949,98,14,15,0.85,9,10,31,18,ijones@hotmail.com,Seattle,9,Digital Marketing L1,2023-10-19
+1816,Eric,Lopez,Sales,Junior,2023-12-25,2009,64137,71,14,15,0.99,0,6,48,11,travis66@brooks.org,Seattle,10,Digital Marketing L1,2024-03-10
+1817,Nicole,Riddle,Marketing,Mid-level,2020-08-06,2010,54081,82,6,11,0.96,6,15,15,7,kfrederick@hines.com,Seattle,5,None,2024-01-28
+1818,Jenna,Reid,Marketing,Mid-level,2024-04-29,2010,75321,93,8,12,0.97,9,12,43,19,curtissara@hotmail.com,Chicago,6,Digital Marketing L1,
+1819,Tim,Dorsey,Sales,Mid-level,2022-02-02,2009,55930,95,16,17,0.92,1,8,38,18,terrydeanna@yahoo.com,New York,6,Sales Expert L2,2023-02-13
+1820,Jonathan,Guzman,IT,Senior,2023-11-13,2003,71729,89,12,15,0.97,3,14,18,12,wilsonchristopher@rangel.com,Seattle,10,PMP,2024-03-06
+1821,Nancy,Martin,IT,Mid-level,2024-05-27,2008,62385,80,8,8,0.91,8,7,46,20,heather88@hotmail.com,New York,9,AWS Solutions Architect,2024-08-08
+1822,Kyle,Jenkins,Sales,Junior,2023-04-01,2009,67435,78,20,25,0.87,0,11,11,10,fieldskimberly@olsen-adams.com,Boston,4,AWS Solutions Architect,2024-06-29
+1823,Holly,Smith,IT,Mid-level,2023-05-18,2006,48352,82,12,17,0.89,5,10,47,8,esmith@butler.biz,Boston,9,Sales Expert L2,
+1824,Nicholas,Padilla,IT,Senior,2021-06-11,2006,69475,93,18,20,0.96,2,7,47,7,hwhite@bradley-lewis.com,Boston,5,Sales Expert L2,2022-03-12
+1825,Lisa,Lee,IT,Mid-level,2020-06-29,2003,68743,75,13,13,0.88,7,10,13,18,nsims@gmail.com,San Francisco,6,Digital Marketing L1,2022-01-17
+1826,Kelly,Gray,Sales,Senior,2021-05-28,2008,53807,83,13,17,0.98,5,6,32,14,petersonbrenda@yahoo.com,Boston,5,Sales Expert L2,2021-09-28
+1827,Kathleen,Smith,Sales,Junior,2024-02-13,2009,58905,100,13,17,0.96,3,15,27,9,ortegakristina@gmail.com,San Francisco,4,AWS Solutions Architect,2024-10-31
+1828,Alexa,Smith,Sales,Senior,2020-10-24,2009,42604,100,11,11,0.92,0,10,23,14,vkennedy@hotmail.com,San Francisco,8,PMP,2021-09-16
+1829,Nathan,Wu,IT,Mid-level,2023-08-24,2002,47183,92,8,11,0.98,7,9,15,9,shelleyortega@yahoo.com,San Francisco,6,Sales Expert L2,2024-05-11
+1830,Theresa,Marks,Marketing,Junior,2020-06-23,2009,61437,75,15,17,0.92,8,15,14,15,bryantholly@houston.com,Chicago,4,PMP,
+1831,Stephanie,Walton,Sales,Senior,2024-07-03,2003,42335,100,5,6,0.87,6,8,22,13,shannon78@keller-smith.com,Boston,7,AWS Solutions Architect,2024-08-26
+1832,Morgan,Montes,IT,Junior,2020-02-18,2003,53013,90,7,11,0.98,3,5,37,7,fhall@yahoo.com,New York,7,None,2023-03-13
+1833,Ronnie,Huynh,IT,Senior,2020-09-06,2008,57240,89,17,22,0.94,10,10,40,10,navarrokelly@gmail.com,Boston,6,AWS Solutions Architect,2023-08-24
+1834,Abigail,Armstrong,Marketing,Mid-level,2021-03-17,2002,79180,81,20,22,0.86,1,9,36,19,tylermiller@davies.info,San Francisco,6,AWS Solutions Architect,2024-11-27
+1835,Timothy,Fernandez,IT,Mid-level,2020-12-22,2005,47440,81,17,22,0.87,7,12,48,18,georgeraymond@davis.com,Seattle,9,AWS Solutions Architect,
+1836,Katie,Robinson,Sales,Mid-level,2022-10-08,2005,43984,87,15,17,0.95,6,11,38,18,qlynn@gmail.com,Boston,7,Digital Marketing L1,2024-05-25
+1837,Cynthia,Vasquez,Marketing,Junior,2021-02-22,2010,62271,90,6,8,0.92,3,14,20,11,sarahmiranda@hotmail.com,Seattle,10,Sales Expert L2,2023-06-02
+1838,Dawn,Bennett,IT,Junior,2020-07-16,2001,79646,87,5,10,0.85,6,6,31,16,ostokes@yahoo.com,Seattle,10,None,
+1839,Christopher,Davis,Sales,Mid-level,2020-12-22,2004,75092,76,10,14,0.91,3,9,20,16,berrydavid@finley-ray.com,New York,6,PMP,2022-03-19
+1840,Bryan,Nichols,Sales,Junior,2022-08-20,2002,74508,73,17,20,0.86,4,9,11,12,xflores@hotmail.com,Boston,9,AWS Solutions Architect,
+1841,Elizabeth,Garza,Marketing,Mid-level,2021-01-24,2003,48597,96,13,13,0.86,8,11,11,5,dsmith@thomas-hahn.com,New York,9,None,2023-04-11
+1842,Stephen,Guzman,Marketing,Senior,2024-03-29,2010,65632,76,14,16,0.91,0,9,27,19,georgekyle@martinez.info,Boston,5,Sales Expert L2,2024-12-18
+1843,Kelly,Levy,IT,Mid-level,2021-10-29,2007,68149,72,12,15,0.93,7,9,44,12,eric33@fitzgerald.info,Chicago,7,Sales Expert L2,2023-12-06
+1844,Kevin,Briggs,Marketing,Senior,2023-04-29,2005,47097,84,12,16,1.0,6,8,38,16,kelleymatthew@kennedy.com,Chicago,7,None,
+1845,Justin,Horton,Sales,Senior,2024-06-24,2008,45481,73,10,11,0.98,7,14,25,7,udavis@glenn.com,Seattle,5,PMP,2024-11-12
+1846,Barbara,Ramos,Marketing,Senior,2023-11-19,2001,55232,71,20,22,0.91,5,7,12,15,phyllis33@hotmail.com,Chicago,9,None,2024-03-25
+1847,Denise,Cox,Marketing,Junior,2021-08-27,2002,76858,95,20,24,0.92,10,8,30,19,nicholasmcgrath@skinner.info,New York,9,PMP,2024-10-12
+1848,Sierra,Wilson,IT,Senior,2021-07-09,2007,45079,82,9,9,0.87,1,7,22,19,obooker@hotmail.com,Boston,10,Sales Expert L2,
+1849,Austin,Allen,Sales,Senior,2023-06-06,2005,74379,85,9,14,0.98,6,11,10,14,hailey26@hotmail.com,Seattle,4,PMP,2023-12-13
+1850,Steven,Meyers,IT,Senior,2020-10-02,2008,64355,88,10,11,0.89,10,8,49,16,cynthia75@gmail.com,San Francisco,8,None,2024-01-23
+1851,Christopher,Burns,IT,Senior,2021-01-04,2004,48869,75,20,20,0.9,2,7,40,7,matthewsvanessa@hill-mcgee.org,New York,4,Digital Marketing L1,2021-07-04
+1852,Todd,Newman,Marketing,Mid-level,2021-07-13,2005,61694,73,6,10,0.92,2,6,32,12,ashley15@gmail.com,Chicago,6,Sales Expert L2,2023-03-01
+1853,Jackson,Hess,IT,Senior,2024-07-24,2004,60037,81,17,19,0.93,10,15,22,7,ihawkins@freeman.com,Chicago,8,AWS Solutions Architect,
+1854,Priscilla,White,Sales,Mid-level,2021-10-03,2008,76940,73,9,13,0.94,6,10,46,13,peterslauren@williams.com,San Francisco,10,None,2024-07-22
+1855,Christopher,Scott,Sales,Junior,2021-05-12,2008,55193,76,7,11,0.87,2,12,10,15,whitneywilliam@burch-jackson.com,Boston,4,Sales Expert L2,
+1856,Brandon,Bautista,Marketing,Mid-level,2022-02-07,2002,61436,79,8,9,0.93,6,11,40,16,ftaylor@hotmail.com,Seattle,6,None,2023-05-19
+1857,Alexandra,Andersen,Sales,Junior,2022-08-27,2006,58201,92,9,12,0.93,7,9,17,18,haileybates@gmail.com,Boston,9,Digital Marketing L1,
+1858,Benjamin,Thomas,Marketing,Mid-level,2022-01-03,2005,67792,76,11,14,0.91,0,8,38,16,carrierobinson@ramirez-daniel.biz,Chicago,8,AWS Solutions Architect,
+1859,Jorge,Santos,Sales,Mid-level,2020-08-16,2001,56630,86,5,9,0.89,10,9,40,17,qbryant@coleman.com,Seattle,4,Digital Marketing L1,2022-10-17
+1860,Heather,Lee,Sales,Senior,2022-04-13,2003,70854,89,19,22,0.88,10,13,16,6,roberthernandez@yahoo.com,San Francisco,6,Sales Expert L2,2024-12-21
+1861,Tamara,Wright,Sales,Junior,2023-03-20,2001,67497,96,8,8,0.92,0,10,16,13,schmidtgabriella@yahoo.com,Chicago,10,AWS Solutions Architect,2023-04-09
+1862,Danielle,Cox,Marketing,Mid-level,2020-07-20,2009,51089,98,16,20,0.85,10,11,36,6,dustin34@gmail.com,San Francisco,4,AWS Solutions Architect,2023-05-09
+1863,Tiffany,Walker,Marketing,Mid-level,2020-10-28,2009,45502,75,19,19,0.89,3,13,36,10,thompsonjessica@chapman-roman.com,Chicago,9,Sales Expert L2,2022-06-05
+1864,Michael,Armstrong,Sales,Mid-level,2024-06-28,2010,70556,88,7,11,0.99,1,6,15,10,catherine02@yahoo.com,New York,9,Sales Expert L2,
+1865,Michael,Figueroa,Sales,Junior,2023-04-22,2005,54255,90,16,19,0.86,3,9,22,9,qvargas@gmail.com,San Francisco,6,Sales Expert L2,2023-09-09
+1866,Diane,Thomas,IT,Junior,2024-05-11,2008,77030,80,18,19,0.98,4,8,21,14,sellersdanielle@yahoo.com,Chicago,6,PMP,2024-07-10
+1867,Charlotte,Mann,Marketing,Mid-level,2022-02-09,2007,62862,94,19,24,0.95,2,5,47,17,zandersen@shaw-hill.biz,Chicago,5,None,2024-12-28
+1868,Kevin,Hodge,Marketing,Senior,2024-06-02,2001,58919,76,15,20,1.0,8,9,15,11,ftownsend@hotmail.com,New York,6,AWS Solutions Architect,2024-08-29
+1869,Jessica,Duffy,Marketing,Senior,2020-08-31,2001,52217,85,9,12,0.94,5,14,34,6,millerjustin@stokes-smith.biz,San Francisco,6,Sales Expert L2,2021-04-26
+1870,Timothy,Robertson,IT,Mid-level,2024-04-26,2010,61935,80,8,9,0.99,4,7,39,10,msmith@smith.com,Boston,10,Sales Expert L2,2024-06-17
+1871,Stephanie,Morrow,Marketing,Senior,2022-01-25,2004,68506,93,17,20,0.98,4,10,48,15,roconnell@mckee.com,Seattle,7,PMP,2024-11-17
+1872,Stephanie,Henderson,Sales,Mid-level,2024-05-11,2009,67911,94,13,17,0.91,0,7,42,10,nathanielwilson@hotmail.com,San Francisco,6,None,2024-09-25
+1873,Melissa,Hodge,Marketing,Junior,2022-02-11,2003,48512,91,15,15,1.0,4,7,32,19,timothy43@gmail.com,San Francisco,7,AWS Solutions Architect,2024-05-28
+1874,Jeff,Torres,Sales,Mid-level,2024-10-30,2006,60154,72,10,11,0.98,6,6,25,9,fstafford@kelly.info,New York,9,None,2024-12-07
+1875,Michael,Smith,IT,Junior,2022-10-14,2002,62591,73,20,24,0.95,3,12,34,19,ggomez@vasquez-miller.net,Boston,9,AWS Solutions Architect,2024-01-20
+1876,David,Freeman,Sales,Mid-level,2021-04-19,2010,48750,82,15,17,0.97,6,14,35,7,jeremy65@diaz-mcclain.net,New York,6,PMP,2023-01-17
+1877,Daniel,Gonzales,Sales,Senior,2022-04-14,2004,51675,94,12,14,0.9,8,5,49,17,donaldburgess@gmail.com,New York,4,AWS Solutions Architect,
+1878,Nicole,Fletcher,Sales,Mid-level,2023-01-18,2007,68534,72,15,18,0.95,6,7,28,14,justinanderson@manning-santana.com,San Francisco,7,PMP,
+1879,Stacy,Moyer,Sales,Mid-level,2021-09-07,2003,73904,96,8,11,0.97,5,15,16,17,fisherandrea@hotmail.com,Seattle,10,Sales Expert L2,
+1880,Karen,Deleon,Marketing,Mid-level,2021-01-27,2002,69798,70,20,25,0.99,6,11,13,14,ganderson@gmail.com,Seattle,7,Digital Marketing L1,2022-06-15
+1881,Maurice,Smith,IT,Senior,2021-01-23,2002,64433,94,20,25,0.9,8,10,17,10,gregorymatthew@mclaughlin.info,San Francisco,7,None,2021-09-21
+1882,Kathleen,Wright,Sales,Mid-level,2020-09-10,2008,78676,78,11,15,0.97,7,11,13,19,johnwang@gamble-wright.biz,Boston,6,Sales Expert L2,
+1883,Jasmine,Patrick,IT,Junior,2021-09-05,2001,79277,91,16,18,0.91,10,9,11,13,victoriagarza@hernandez.com,Boston,5,Digital Marketing L1,2023-09-11
+1884,Sarah,Simmons,IT,Mid-level,2021-08-17,2003,42334,89,8,10,0.96,8,11,25,10,linomar@torres.com,Boston,4,None,
+1885,Timothy,Hicks,IT,Mid-level,2023-08-13,2010,62635,84,12,17,0.97,9,12,12,7,daniel54@dawson-wright.com,New York,6,Digital Marketing L1,
+1886,Aaron,Guerrero,IT,Senior,2021-07-15,2005,45161,80,14,17,0.91,2,9,15,18,justinramirez@hotmail.com,Seattle,4,AWS Solutions Architect,2021-09-16
+1887,Jack,Vaughan,Marketing,Senior,2020-11-06,2010,55974,92,6,8,0.94,3,11,27,10,kevin10@hotmail.com,Boston,6,None,2022-09-06
+1888,Mark,Figueroa,Sales,Senior,2024-09-07,2006,58672,78,5,8,0.88,6,15,18,13,john43@hotmail.com,New York,6,PMP,2024-10-02
+1889,Paige,Anderson,Sales,Junior,2023-04-05,2007,41184,92,15,16,0.86,4,14,39,18,willisrhonda@roth.com,Boston,9,None,2023-06-11
+1890,Kevin,Wells,Marketing,Junior,2020-08-17,2005,62475,80,15,17,0.97,2,12,41,11,bradleylee@dawson.net,Boston,8,AWS Solutions Architect,2023-07-18
+1891,Michael,Soto,Sales,Senior,2022-12-12,2008,77441,100,7,12,0.92,5,6,23,16,ajones@velazquez.org,Boston,6,Digital Marketing L1,2024-11-06
+1892,Keith,Sosa,Sales,Junior,2022-04-28,2003,78334,75,16,20,0.91,0,9,45,20,joysanders@patel.info,Boston,5,PMP,2022-11-14
+1893,Anna,Myers,Marketing,Junior,2024-04-28,2006,46355,82,11,12,1.0,9,9,21,10,jackmoore@gmail.com,San Francisco,10,PMP,2024-09-24
+1894,Stanley,Zimmerman,IT,Senior,2020-01-25,2004,58276,80,16,21,0.87,10,15,50,15,melissa44@hotmail.com,Boston,8,None,2024-06-05
+1895,Jeffrey,Ferguson,IT,Mid-level,2021-01-02,2003,58761,96,19,20,0.99,2,11,28,5,bowmansheri@yahoo.com,New York,8,Digital Marketing L1,2021-09-24
+1896,Morgan,Williams,IT,Senior,2021-02-14,2001,67400,83,18,19,0.95,9,8,18,7,amandasmith@chen-compton.com,Chicago,8,None,2022-04-10
+1897,Jennifer,Ortiz,Marketing,Junior,2020-09-12,2003,50909,88,20,25,0.86,5,5,48,17,tracie05@gmail.com,Boston,8,None,2022-12-11
+1898,Jonathan,Smith,IT,Senior,2022-05-15,2008,55683,75,20,25,0.99,5,7,28,7,qbautista@walters.com,San Francisco,4,AWS Solutions Architect,2023-02-13
+1899,James,Soto,Marketing,Senior,2022-10-01,2002,69075,77,10,13,0.93,1,14,31,10,seanblair@yahoo.com,New York,5,PMP,2023-11-22
+1900,Rachel,Davis,Marketing,Junior,2023-02-16,2009,66630,97,20,23,0.86,6,9,44,8,llopez@hudson.com,New York,9,None,2023-06-11
+1901,Andrew,Martin,IT,Mid-level,2022-05-23,2005,43918,79,17,22,0.97,5,11,42,19,mmcdaniel@thomas.com,Seattle,7,Sales Expert L2,
+1902,Craig,Rose,Sales,Senior,2023-11-11,2002,51072,81,18,23,0.9,3,12,23,13,grayandrew@hines.com,Boston,4,Digital Marketing L1,2024-09-18
+1903,Kayla,Adams,Marketing,Mid-level,2021-02-11,2003,56038,94,13,15,0.89,7,10,38,13,rosariodaniel@meyers.com,San Francisco,8,Digital Marketing L1,2022-03-03
+1904,Anna,Wallace,Marketing,Mid-level,2024-01-29,2003,41700,77,16,20,0.9,4,9,20,14,martin23@stephens.net,San Francisco,7,PMP,2024-11-19
+1905,Andrew,Williams,Sales,Senior,2021-01-14,2006,59158,97,17,19,0.95,0,8,47,14,huntmary@gmail.com,Seattle,5,None,
+1906,Andrew,Simmons,Marketing,Senior,2020-01-01,2009,66597,85,10,12,0.95,9,13,30,16,diana36@henson.com,Boston,7,PMP,2021-11-27
+1907,Cristian,Sosa,Sales,Mid-level,2020-12-05,2006,64895,70,7,9,0.88,3,8,19,13,gilbertdavid@gmail.com,Boston,8,Sales Expert L2,2021-11-18
+1908,Cassandra,Thompson,IT,Senior,2020-05-11,2009,40799,96,12,17,0.88,10,5,35,8,erinhernandez@hotmail.com,Seattle,6,None,
+1909,Michael,Garcia,Marketing,Senior,2022-07-22,2008,45206,95,6,9,0.94,3,8,26,10,sarah10@gmail.com,San Francisco,9,AWS Solutions Architect,2023-10-10
+1910,Dylan,Griffin,Sales,Senior,2021-03-28,2010,57417,87,13,13,0.96,1,7,43,14,wilsonronald@hotmail.com,Seattle,4,AWS Solutions Architect,2022-08-07
+1911,Christopher,Cooley,IT,Mid-level,2022-05-12,2002,46440,87,6,8,0.97,1,8,40,8,fgomez@olson-dudley.org,Seattle,7,Sales Expert L2,2022-12-22
+1912,Leah,Valdez,Marketing,Junior,2022-10-30,2001,79209,85,14,18,0.85,6,6,38,11,fbarnes@ferguson.biz,Chicago,8,None,2023-06-01
+1913,Alison,Frank,IT,Senior,2020-09-13,2005,57743,85,10,12,0.93,8,9,29,13,youngaaron@cox.com,Seattle,10,None,2024-04-15
+1914,Rhonda,Ward,Marketing,Mid-level,2020-12-05,2005,68838,73,10,13,0.85,8,12,41,10,steven86@clark.com,New York,5,Sales Expert L2,2021-03-07
+1915,Suzanne,Padilla,IT,Mid-level,2021-03-01,2005,75297,96,10,11,0.97,3,8,29,14,hortonroger@gmail.com,Seattle,6,None,2021-08-30
+1916,Bonnie,Woods,Sales,Senior,2020-11-22,2010,50131,80,10,11,0.96,2,7,49,10,thomasdonald@jones.biz,Boston,6,None,2023-09-17
+1917,Ian,Manning,Marketing,Mid-level,2021-04-07,2006,54989,99,13,16,0.99,4,10,19,14,vjenkins@yahoo.com,Boston,6,Digital Marketing L1,2024-07-09
+1918,Daniel,Brown,IT,Mid-level,2020-02-08,2005,76915,82,18,18,0.96,6,5,36,16,wesleysmith@frazier-liu.net,New York,9,AWS Solutions Architect,2022-07-17
+1919,Warren,Fletcher,Marketing,Junior,2022-03-09,2004,53671,91,13,15,0.97,0,10,37,17,josephdavis@yahoo.com,San Francisco,6,None,2024-08-13
+1920,Jason,Montgomery,Marketing,Senior,2021-01-20,2008,68842,97,13,13,0.86,2,10,40,20,vwhite@jacobs.info,San Francisco,4,PMP,2024-03-19
+1921,Denise,Sullivan,IT,Senior,2022-08-28,2003,78411,82,6,6,0.86,5,9,44,16,brianwatson@yahoo.com,New York,7,Digital Marketing L1,
+1922,Daniel,Miller,IT,Senior,2021-08-25,2009,67117,96,9,10,0.94,9,8,45,7,allenfrancisco@gmail.com,Chicago,7,AWS Solutions Architect,2022-10-18
+1923,Jason,Smith,Marketing,Senior,2020-07-18,2008,59098,92,5,6,0.97,1,10,33,19,andrealittle@gmail.com,San Francisco,9,AWS Solutions Architect,
+1924,Christopher,Hudson,IT,Mid-level,2022-01-13,2001,61824,76,13,15,0.94,0,7,17,18,uwilliams@harding.com,Seattle,7,PMP,2023-03-07
+1925,Vincent,Edwards,Sales,Senior,2022-05-24,2002,64476,70,18,18,0.99,5,13,41,14,terri15@yahoo.com,Seattle,8,Digital Marketing L1,2024-02-01
+1926,Wayne,Hampton,Sales,Senior,2024-04-10,2007,47361,87,10,14,0.98,1,14,39,11,cwoods@martin-fleming.com,Chicago,10,Sales Expert L2,2024-05-19
+1927,Jennifer,Wilkerson,IT,Mid-level,2020-10-13,2001,49974,90,15,15,0.88,9,10,39,18,victoriamason@franklin.info,Seattle,4,PMP,2024-11-01
+1928,Kelly,Hanson,IT,Junior,2021-02-08,2010,40559,77,15,18,0.87,3,14,30,19,macdonaldkim@yahoo.com,Chicago,9,AWS Solutions Architect,2022-07-19
+1929,Wendy,Lawson,Marketing,Senior,2022-01-09,2002,50001,76,9,10,0.9,1,5,44,6,adavis@miranda.net,Chicago,10,AWS Solutions Architect,2022-11-29
+1930,Clinton,Edwards,IT,Junior,2020-09-24,2008,53684,76,14,15,0.91,4,8,23,16,carlosray@yahoo.com,New York,4,AWS Solutions Architect,2024-12-22
+1931,Harold,Ingram,IT,Junior,2020-10-01,2002,69094,97,11,14,0.86,7,11,22,11,wgood@yahoo.com,New York,10,PMP,2021-01-19
+1932,Teresa,Freeman,Sales,Senior,2021-03-09,2004,77899,93,8,9,0.96,1,12,48,16,richard92@yahoo.com,New York,9,Digital Marketing L1,2021-09-17
+1933,Megan,Crane,Marketing,Mid-level,2023-02-10,2002,71324,78,8,11,0.85,6,11,35,8,flemingwilliam@yahoo.com,Boston,6,Digital Marketing L1,2024-03-14
+1934,Christine,Schneider,Marketing,Mid-level,2020-05-09,2004,55031,92,7,12,0.95,6,12,11,13,mooredaniel@moore-ross.com,San Francisco,9,Digital Marketing L1,
+1935,Morgan,Caldwell,Marketing,Junior,2021-11-20,2007,48385,86,9,10,0.95,0,5,48,11,imcdonald@yahoo.com,San Francisco,10,Digital Marketing L1,2023-07-16
+1936,Christopher,Dennis,IT,Junior,2020-12-02,2004,51445,99,9,14,0.97,10,7,33,8,vgonzalez@gmail.com,Chicago,10,AWS Solutions Architect,
+1937,Wendy,Tucker,IT,Senior,2022-09-09,2001,64456,99,13,17,0.9,0,10,11,20,ramirezbenjamin@gmail.com,Seattle,4,AWS Solutions Architect,2024-02-22
+1938,Danielle,Flores,IT,Senior,2023-12-28,2007,74419,75,10,10,0.85,3,6,36,7,zbrown@clarke-irwin.com,Seattle,4,PMP,2024-02-22
+1939,Miranda,Cisneros,IT,Junior,2020-06-14,2010,79535,95,5,7,0.92,4,7,30,16,johnny21@gmail.com,San Francisco,8,Sales Expert L2,2022-04-02
+1940,Richard,Evans,Sales,Junior,2020-07-31,2005,73733,74,9,10,0.95,1,11,28,8,qwarren@yahoo.com,Chicago,5,AWS Solutions Architect,2022-11-28
+1941,Christopher,Valenzuela,Marketing,Mid-level,2021-07-22,2004,78717,86,13,14,0.9,5,15,19,6,franklin56@yahoo.com,San Francisco,9,PMP,2021-10-13
+1942,Amanda,Bowers,Sales,Junior,2024-01-14,2010,42235,96,12,13,0.91,0,14,40,20,rita96@gmail.com,Boston,10,Digital Marketing L1,
+1943,Patricia,Gonzalez,IT,Junior,2024-10-05,2008,69700,89,13,17,0.92,4,15,42,15,elizabeth50@mosley.info,Seattle,6,AWS Solutions Architect,2024-12-20
+1944,Laura,Craig,IT,Senior,2022-09-07,2002,46324,91,15,19,0.89,5,11,11,9,mcneilsherry@gmail.com,New York,4,AWS Solutions Architect,2023-03-02
+1945,Danielle,Lane,Marketing,Senior,2023-10-25,2004,59379,74,16,18,0.92,8,6,42,10,julielopez@payne.com,New York,7,None,
+1946,Teresa,Ray,Sales,Senior,2021-10-10,2009,63195,86,9,13,0.98,8,5,44,16,lisa04@shaw-parrish.info,San Francisco,8,AWS Solutions Architect,2022-08-02
+1947,Robert,Bell,IT,Junior,2023-11-14,2007,46562,91,10,15,0.95,9,8,19,18,daniel27@yahoo.com,Chicago,10,AWS Solutions Architect,2024-09-30
+1948,Angela,Martin,IT,Senior,2023-03-02,2004,67607,98,20,23,0.9,4,5,14,13,qmitchell@hotmail.com,Seattle,9,None,2023-07-17
+1949,Jacqueline,Pace,Marketing,Junior,2023-09-18,2004,43881,94,18,19,0.87,2,8,35,10,shafferdale@smith.org,San Francisco,9,PMP,2024-04-25
+1950,Cynthia,Gordon,IT,Junior,2024-08-16,2006,54831,100,13,14,0.98,1,14,19,11,melissa33@arnold-wilson.info,New York,7,AWS Solutions Architect,2024-09-04
+1951,Tammy,Sloan,Marketing,Junior,2021-01-18,2010,74119,79,8,13,0.94,3,15,38,14,xsmith@gmail.com,Boston,10,Sales Expert L2,2022-07-16
+1952,Justin,Hobbs,Sales,Junior,2024-04-22,2008,62372,98,13,13,0.91,4,6,50,19,mary63@gmail.com,Chicago,7,None,
+1953,Alexis,Hernandez,Sales,Senior,2023-07-08,2005,46753,72,16,17,0.98,10,12,37,18,matthew96@gmail.com,Chicago,4,Sales Expert L2,2023-08-02
+1954,James,Newman,IT,Senior,2024-09-19,2008,73280,80,18,23,0.98,5,6,10,8,oanderson@madden-thompson.com,San Francisco,9,PMP,2024-12-03
+1955,Eric,Hall,Marketing,Mid-level,2024-05-23,2002,57416,73,20,24,0.94,9,11,48,17,welchkristen@rangel.com,Seattle,4,None,
+1956,Christopher,Johnson,Sales,Junior,2021-09-22,2007,55637,81,18,21,0.96,0,10,38,19,anthonyzimmerman@armstrong.com,Boston,8,None,
+1957,Jacob,Delgado,Marketing,Junior,2023-11-07,2005,54158,88,10,10,0.94,5,6,28,18,james36@hopkins-hill.com,Chicago,10,Sales Expert L2,2024-08-11
+1958,Daniel,Ho,Marketing,Mid-level,2020-03-09,2009,63093,100,12,14,0.92,0,10,39,13,thomasjose@davis.com,Chicago,10,AWS Solutions Architect,2021-01-24
+1959,Peter,Henry,Marketing,Mid-level,2021-10-05,2002,62841,94,10,13,0.98,5,10,49,12,ojones@clark.biz,Boston,6,Digital Marketing L1,
+1960,Lindsey,White,IT,Senior,2022-08-29,2006,72584,90,10,13,0.88,7,10,31,19,donnawelch@wilson.com,New York,6,AWS Solutions Architect,2024-07-29
+1961,Carol,Smith,Sales,Junior,2024-02-09,2007,78131,79,14,18,0.93,6,14,14,11,leeanthony@gmail.com,Chicago,4,Sales Expert L2,2024-10-04
+1962,Kathleen,Robinson,Sales,Senior,2024-05-25,2001,62292,87,16,19,0.87,6,6,28,7,roachanthony@gmail.com,San Francisco,6,AWS Solutions Architect,2024-12-09
+1963,Christopher,Holt,Marketing,Junior,2021-11-10,2005,57942,70,20,21,0.97,3,8,24,19,joshua31@erickson-pearson.info,San Francisco,9,AWS Solutions Architect,
+1964,William,Ross,Sales,Senior,2024-03-17,2010,71671,96,19,22,0.93,9,8,36,10,gerald46@silva.com,Boston,10,None,2024-09-02
+1965,Jamie,Bowen,Marketing,Mid-level,2021-05-26,2004,63853,95,13,16,0.91,3,10,44,16,vhenderson@yahoo.com,Seattle,4,AWS Solutions Architect,2024-10-10
+1966,Catherine,Patterson,Marketing,Junior,2022-09-14,2001,46332,99,20,24,0.9,9,8,32,12,rachael17@gmail.com,Boston,7,Digital Marketing L1,2023-02-28
+1967,Johnny,Ortiz,Marketing,Mid-level,2020-04-11,2008,72580,88,18,18,0.99,2,5,45,19,ljohnson@yahoo.com,San Francisco,8,Sales Expert L2,2024-08-16
+1968,Michael,Jones,Sales,Senior,2023-08-24,2004,63226,72,13,17,0.89,0,14,41,18,dustin51@gmail.com,Boston,9,AWS Solutions Architect,2024-01-15
+1969,Jennifer,Lewis,IT,Senior,2022-09-13,2001,59966,80,12,16,0.97,8,11,19,15,annacruz@hotmail.com,Chicago,10,Sales Expert L2,2022-09-29
+1970,Alison,Garcia,Marketing,Junior,2021-10-18,2008,44653,89,7,11,0.91,2,8,25,10,berrydebbie@hotmail.com,New York,10,AWS Solutions Architect,
+1971,Louis,Flores,IT,Junior,2023-09-11,2006,46170,100,17,21,0.96,10,11,36,17,langvictor@fisher-martinez.com,San Francisco,9,PMP,
+1972,Joel,Smith,Sales,Mid-level,2022-10-09,2002,63275,75,18,20,0.92,2,9,35,11,buckjustin@johnson-ferguson.net,Chicago,5,Digital Marketing L1,2024-05-25
+1973,Deanna,Jones,IT,Junior,2020-04-28,2009,74332,78,5,9,0.86,8,5,33,8,rcummings@molina-ross.net,New York,5,Sales Expert L2,2023-03-12
+1974,Cheryl,Long,Sales,Mid-level,2022-08-27,2006,65215,79,5,9,0.93,1,7,22,20,hallison@yahoo.com,New York,5,None,2024-10-02
+1975,Anthony,Williams,Marketing,Junior,2020-11-12,2009,79303,81,10,13,0.96,2,13,19,19,danielmorris@ramsey.com,New York,4,None,
+1976,Sarah,Parrish,IT,Mid-level,2024-07-25,2009,47063,81,10,14,0.93,1,12,22,9,rodriguezstacey@gmail.com,Boston,8,Digital Marketing L1,2024-07-25
+1977,Mark,Salazar,IT,Junior,2022-03-27,2008,76337,72,15,16,0.9,3,12,22,17,holly29@yahoo.com,Seattle,4,Digital Marketing L1,
+1978,David,Atkins,Sales,Senior,2021-01-04,2004,45960,91,15,19,0.93,8,13,35,11,hbarnett@hotmail.com,Chicago,6,Digital Marketing L1,
+1979,Timothy,Henry,Marketing,Mid-level,2022-01-14,2005,66492,83,17,17,0.92,7,6,30,20,kendra73@gmail.com,New York,8,PMP,2024-06-29
+1980,Jennifer,Gomez,Marketing,Junior,2022-03-27,2001,52325,100,7,9,0.98,9,13,21,15,heatherjones@brown-smith.com,Chicago,9,Sales Expert L2,2023-06-30
+1981,Paul,Freeman,IT,Junior,2023-12-22,2002,63053,100,6,11,0.98,8,13,21,16,lisagill@hotmail.com,Boston,9,Sales Expert L2,2024-11-03
+1982,Jeanette,Rios,Sales,Junior,2022-08-28,2002,60991,72,11,14,0.88,10,14,10,6,jefferycox@parrish-palmer.biz,Chicago,7,AWS Solutions Architect,2023-12-25
+1983,Joshua,Martin,Sales,Junior,2021-08-03,2005,61676,75,17,18,0.91,6,5,19,9,thomasnancy@hotmail.com,Boston,8,AWS Solutions Architect,2021-11-17
+1984,Allen,Murray,Marketing,Senior,2020-12-05,2008,60299,76,13,16,0.95,6,11,34,13,alvarezalyssa@yahoo.com,Chicago,10,AWS Solutions Architect,2021-12-13
+1985,Sara,Miller,Marketing,Junior,2022-04-02,2008,65917,71,19,20,0.95,3,6,50,8,edwardshaw@hotmail.com,New York,4,AWS Solutions Architect,2022-10-02
+1986,Scott,Wood,Sales,Senior,2022-10-30,2002,61455,75,13,18,0.96,6,9,44,14,bdennis@carter.com,Boston,6,None,2023-01-20
+1987,Alyssa,Snyder,Sales,Junior,2022-05-04,2007,76356,97,20,21,0.87,0,12,40,8,maldonadodebbie@gmail.com,San Francisco,4,AWS Solutions Architect,
+1988,Brian,Johnson,Sales,Senior,2021-11-10,2004,44417,77,18,22,0.91,2,12,48,6,camerongarcia@gmail.com,San Francisco,9,None,2022-05-07
+1989,Philip,Robinson,Marketing,Mid-level,2023-06-07,2003,42867,88,5,6,0.9,4,7,32,19,yharris@gmail.com,Chicago,5,Sales Expert L2,2024-04-06
+1990,Keith,Carlson,Marketing,Junior,2022-12-13,2005,54761,75,11,13,0.95,7,5,38,7,lopezrebecca@woods.com,Seattle,10,AWS Solutions Architect,2024-04-20
+1991,Erin,Jackson,Sales,Junior,2021-06-09,2006,75856,100,15,15,0.87,1,11,43,5,athomas@hotmail.com,Chicago,8,AWS Solutions Architect,2022-10-11
+1992,Matthew,Thompson,Sales,Junior,2024-01-11,2001,46802,91,12,12,0.91,9,5,34,8,jacksonkathleen@gmail.com,Seattle,10,AWS Solutions Architect,2024-06-25
+1993,Brandy,Freeman,Marketing,Junior,2022-12-27,2010,41297,90,20,24,0.95,4,15,49,17,brodriguez@frazier.net,Chicago,7,AWS Solutions Architect,2023-12-30
+1994,Dwayne,Davis,IT,Senior,2021-05-31,2007,69817,85,9,12,0.93,5,8,19,14,shaun58@yahoo.com,Chicago,9,AWS Solutions Architect,2024-08-15
+1995,Michael,Smith,Sales,Mid-level,2024-02-17,2007,41372,83,14,15,0.86,6,13,24,17,jennifer89@yahoo.com,Boston,5,Digital Marketing L1,2024-05-25
+1996,Gina,Chandler,IT,Mid-level,2020-12-13,2004,69642,84,17,20,0.9,5,15,35,9,tiffanychase@mcknight.org,San Francisco,9,None,2022-02-05
+1997,Jamie,Davis,Marketing,Junior,2023-08-28,2009,63816,98,19,23,0.98,6,10,29,11,sheppardnatalie@hotmail.com,Boston,7,AWS Solutions Architect,2024-06-02
+1998,Rachel,Cole,IT,Senior,2024-08-16,2004,67008,71,11,12,0.9,2,15,34,18,renee55@lawrence-landry.com,Boston,5,PMP,
+1999,Blake,Meyer,Marketing,Senior,2022-08-16,2003,51294,78,9,14,0.91,3,7,36,15,hamiltonspencer@yahoo.com,Boston,7,AWS Solutions Architect,2023-06-08
+2000,Tara,Porter,IT,Senior,2022-06-12,2002,74772,93,6,11,0.86,1,6,11,5,hbecker@hanson-beck.com,Chicago,10,Sales Expert L2,2022-11-30

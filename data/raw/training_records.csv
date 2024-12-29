@@ -1,0 +1,1001 @@
+employee_id,training_id,training_name,completion_date,score,certification_earned,training_hours,trainer_id,training_cost,mandatory_flag
+1279,T378,Advanced Sales Techniques,2024-10-27,89,True,54,3007,1223,False
+1471,T171,Project Management,2024-02-29,94,True,51,3001,1907,False
+1260,T622,Team Leadership,2024-09-23,79,False,22,3006,1317,False
+1157,T330,Advanced Sales Techniques,2024-04-30,97,True,43,3007,513,False
+1279,T741,Team Leadership,2024-08-25,97,True,43,3001,2259,True
+1142,T960,Cloud Architecture,2024-04-27,99,False,23,3007,1308,False
+1881,T485,Team Leadership,2024-09-03,96,True,43,3001,1214,True
+1855,T623,Digital Marketing Fundamentals,2024-12-27,90,False,49,3007,1175,False
+1551,T688,Cloud Architecture,2024-06-30,96,False,56,3004,1695,True
+1949,T716,Digital Marketing Fundamentals,2024-06-11,85,False,34,3008,811,True
+1722,T295,Digital Marketing Fundamentals,2024-04-12,97,True,25,3010,1998,False
+1828,T967,Advanced Sales Techniques,2024-09-07,88,True,21,3003,1433,False
+1929,T900,Digital Marketing Fundamentals,2024-02-09,85,True,39,3003,1014,True
+1173,T182,Advanced Sales Techniques,2024-08-24,72,True,28,3007,1827,False
+1781,T789,Cloud Architecture,2024-04-15,77,False,48,3004,1795,True
+1802,T324,Cloud Architecture,2024-08-17,70,True,26,3005,1257,True
+1256,T602,Project Management,2024-11-23,99,True,33,3005,1290,True
+1820,T300,Cloud Architecture,2024-05-14,86,False,36,3003,2144,False
+1427,T427,Team Leadership,2024-12-01,100,False,46,3009,569,False
+1943,T667,Advanced Sales Techniques,2024-07-15,71,True,43,3009,1679,False
+1943,T816,Cloud Architecture,2024-12-28,87,True,40,3008,2204,False
+1886,T154,Advanced Sales Techniques,2024-03-23,97,False,37,3004,1902,False
+1465,T653,Advanced Sales Techniques,2024-03-11,87,True,50,3008,1771,False
+1635,T841,Advanced Sales Techniques,2024-05-20,95,False,53,3009,2284,True
+1356,T785,Advanced Sales Techniques,2024-01-30,100,False,37,3007,1332,True
+1910,T710,Project Management,2024-08-20,80,False,27,3008,690,True
+1004,T988,Team Leadership,2024-08-10,99,False,46,3003,2365,False
+1401,T538,Project Management,2024-01-15,87,False,38,3006,1866,False
+1241,T895,Team Leadership,2024-02-02,77,False,51,3007,1387,False
+1619,T735,Digital Marketing Fundamentals,2024-01-04,89,True,30,3004,1064,False
+1945,T892,Cloud Architecture,2024-02-22,77,True,47,3003,877,False
+1440,T375,Project Management,2024-11-30,97,False,59,3002,1578,False
+1100,T419,Team Leadership,2024-11-30,98,True,55,3009,978,False
+1224,T829,Digital Marketing Fundamentals,2024-11-10,87,True,43,3004,911,True
+1675,T469,Advanced Sales Techniques,2024-06-05,90,True,24,3004,1207,False
+1117,T934,Advanced Sales Techniques,2024-03-31,100,False,20,3003,1493,False
+1487,T292,Digital Marketing Fundamentals,2024-03-23,79,False,56,3004,1412,True
+1767,T279,Cloud Architecture,2024-04-11,94,True,50,3007,655,False
+1571,T264,Cloud Architecture,2024-12-28,81,False,53,3005,1854,True
+1124,T320,Digital Marketing Fundamentals,2024-08-29,92,False,39,3001,1580,False
+1315,T557,Digital Marketing Fundamentals,2024-11-20,70,False,32,3010,1476,True
+1589,T743,Team Leadership,2024-02-21,73,False,42,3007,1199,False
+1497,T703,Project Management,2024-02-26,95,True,44,3002,1537,True
+1759,T396,Digital Marketing Fundamentals,2024-06-21,74,False,27,3002,1536,True
+1612,T423,Digital Marketing Fundamentals,2024-12-23,80,False,24,3010,2338,True
+1297,T206,Digital Marketing Fundamentals,2024-10-19,99,True,52,3007,985,False
+1561,T357,Advanced Sales Techniques,2024-07-07,72,False,25,3008,598,False
+1258,T721,Advanced Sales Techniques,2024-09-27,79,False,40,3004,1002,False
+1706,T457,Cloud Architecture,2024-10-22,70,True,43,3007,1755,True
+1283,T545,Advanced Sales Techniques,2024-07-02,82,False,24,3006,2304,False
+1234,T292,Team Leadership,2024-01-22,83,False,20,3010,681,True
+1274,T173,Team Leadership,2024-07-25,86,True,20,3010,511,False
+1114,T687,Digital Marketing Fundamentals,2024-05-07,85,True,39,3006,708,False
+1597,T467,Advanced Sales Techniques,2024-08-12,78,False,40,3009,2086,True
+1556,T598,Cloud Architecture,2024-04-28,82,True,49,3003,1718,False
+1437,T843,Advanced Sales Techniques,2024-11-26,97,True,54,3005,994,True
+1392,T947,Project Management,2024-09-20,79,True,49,3003,900,True
+1843,T708,Project Management,2024-03-05,71,False,21,3005,1981,False
+1283,T356,Digital Marketing Fundamentals,2024-06-13,70,True,21,3001,1273,True
+1268,T466,Advanced Sales Techniques,2024-07-15,91,True,52,3002,2217,False
+1237,T316,Advanced Sales Techniques,2024-03-07,70,True,51,3007,989,True
+1828,T567,Cloud Architecture,2024-04-01,75,True,51,3004,2205,False
+1628,T977,Digital Marketing Fundamentals,2024-08-27,71,False,33,3003,2377,False
+1912,T145,Digital Marketing Fundamentals,2024-09-12,88,True,36,3008,978,False
+1216,T435,Cloud Architecture,2024-10-15,75,False,43,3005,1707,True
+1054,T912,Digital Marketing Fundamentals,2024-05-19,97,True,56,3008,2319,True
+1788,T412,Digital Marketing Fundamentals,2024-10-14,73,True,42,3010,1703,False
+1304,T248,Team Leadership,2024-05-23,71,False,23,3001,1749,False
+1161,T578,Digital Marketing Fundamentals,2024-04-12,98,True,40,3002,1029,True
+1118,T972,Team Leadership,2024-03-18,79,True,24,3010,1759,True
+1719,T304,Team Leadership,2024-09-26,81,False,39,3001,2493,True
+1715,T469,Digital Marketing Fundamentals,2024-04-18,98,True,47,3001,586,False
+1131,T652,Project Management,2024-04-09,91,True,30,3004,1566,False
+1209,T468,Team Leadership,2024-07-28,89,True,54,3010,1153,False
+1377,T997,Project Management,2024-11-01,88,True,29,3006,630,False
+1286,T988,Team Leadership,2024-03-11,80,True,58,3005,1775,False
+1470,T463,Team Leadership,2024-02-05,81,False,26,3003,1554,False
+1447,T306,Project Management,2024-04-03,76,False,51,3007,1367,False
+1792,T564,Advanced Sales Techniques,2024-07-21,76,True,20,3002,843,True
+1643,T173,Cloud Architecture,2024-09-03,77,False,42,3004,1812,False
+1183,T175,Digital Marketing Fundamentals,2024-01-02,79,True,41,3005,1884,False
+1773,T902,Team Leadership,2024-02-15,79,True,59,3007,2313,True
+1576,T809,Cloud Architecture,2024-02-16,81,True,43,3005,940,True
+1639,T977,Cloud Architecture,2024-05-01,100,False,35,3006,854,True
+1361,T164,Team Leadership,2024-09-08,76,False,44,3007,2436,True
+1963,T905,Team Leadership,2024-11-29,100,True,36,3008,708,False
+1488,T898,Digital Marketing Fundamentals,2024-05-11,83,True,21,3009,595,True
+1040,T920,Cloud Architecture,2024-07-04,96,True,30,3003,2323,True
+1733,T243,Cloud Architecture,2024-06-06,88,False,43,3002,866,True
+1881,T932,Team Leadership,2024-08-21,89,True,28,3004,813,False
+1934,T365,Advanced Sales Techniques,2024-04-17,78,True,30,3007,2176,True
+1643,T236,Team Leadership,2024-10-29,93,True,27,3005,1040,False
+1208,T586,Advanced Sales Techniques,2024-02-08,80,True,37,3006,755,False
+1501,T656,Team Leadership,2024-09-18,85,True,25,3002,1808,False
+1780,T720,Advanced Sales Techniques,2024-05-23,76,True,47,3009,1111,True
+1201,T279,Team Leadership,2024-12-03,76,False,42,3005,1348,True
+1213,T296,Team Leadership,2024-02-09,96,True,25,3001,2294,False
+1456,T184,Project Management,2024-03-22,84,True,31,3004,1940,True
+1363,T400,Digital Marketing Fundamentals,2024-08-29,80,True,49,3009,1994,False
+1448,T754,Cloud Architecture,2024-07-30,90,False,20,3003,2299,True
+1338,T539,Digital Marketing Fundamentals,2024-10-23,70,True,20,3010,1753,False
+1522,T721,Advanced Sales Techniques,2024-12-12,89,False,20,3008,1925,False
+1508,T682,Team Leadership,2024-05-20,88,True,53,3002,1666,True
+1909,T742,Project Management,2024-05-23,79,False,37,3007,741,True
+1241,T775,Advanced Sales Techniques,2024-11-09,89,True,22,3003,1092,True
+1371,T444,Advanced Sales Techniques,2024-04-06,85,False,53,3007,2355,True
+1921,T563,Cloud Architecture,2024-03-02,80,True,32,3003,2301,False
+1036,T233,Project Management,2024-12-17,94,False,46,3007,1527,False
+1829,T645,Digital Marketing Fundamentals,2024-03-20,96,False,33,3002,682,False
+1166,T168,Advanced Sales Techniques,2024-07-01,92,False,42,3002,1124,False
+1863,T572,Cloud Architecture,2024-05-20,95,False,43,3005,2034,True
+1081,T118,Digital Marketing Fundamentals,2024-01-06,81,False,51,3002,1857,True
+1955,T309,Advanced Sales Techniques,2024-07-14,91,True,49,3006,1674,False
+1043,T670,Project Management,2024-10-21,88,False,55,3007,1748,False
+1623,T293,Digital Marketing Fundamentals,2024-03-24,97,False,33,3005,2346,True
+1193,T202,Digital Marketing Fundamentals,2024-08-24,88,False,41,3003,2019,True
+1173,T453,Project Management,2024-07-11,83,True,47,3003,1816,True
+1775,T739,Project Management,2024-04-04,73,True,37,3001,1837,True
+1325,T227,Digital Marketing Fundamentals,2024-02-15,93,True,38,3001,1233,True
+1572,T457,Advanced Sales Techniques,2024-06-28,91,True,35,3005,1481,False
+1733,T265,Project Management,2024-05-04,92,False,34,3007,1021,True
+1911,T287,Cloud Architecture,2024-12-14,95,False,39,3008,777,False
+1709,T373,Cloud Architecture,2024-03-05,92,True,38,3006,933,False
+1014,T967,Digital Marketing Fundamentals,2024-11-12,74,False,21,3009,2454,True
+1465,T389,Digital Marketing Fundamentals,2024-05-04,74,False,35,3010,1932,False
+1541,T766,Digital Marketing Fundamentals,2024-02-28,94,True,48,3007,1530,True
+1020,T682,Advanced Sales Techniques,2024-09-21,87,True,30,3003,1128,False
+1400,T225,Digital Marketing Fundamentals,2024-10-05,98,True,54,3001,1739,False
+1002,T265,Advanced Sales Techniques,2024-03-26,89,False,57,3001,1743,False
+1691,T352,Digital Marketing Fundamentals,2024-02-27,97,True,40,3010,658,True
+1481,T449,Cloud Architecture,2024-04-18,77,True,48,3001,777,False
+1917,T308,Cloud Architecture,2024-04-01,85,False,20,3009,1297,True
+1316,T762,Cloud Architecture,2024-04-07,84,False,42,3009,1443,True
+1788,T476,Cloud Architecture,2024-09-28,84,True,51,3003,572,True
+1332,T335,Cloud Architecture,2024-02-26,77,True,20,3004,2394,True
+1345,T491,Project Management,2024-02-07,99,False,37,3008,2063,False
+1939,T168,Cloud Architecture,2024-10-13,99,True,24,3002,1230,True
+1610,T524,Project Management,2024-03-20,77,False,54,3005,823,True
+1423,T771,Team Leadership,2024-08-08,76,True,43,3005,2309,True
+1019,T707,Project Management,2024-05-15,70,True,39,3010,740,True
+1078,T464,Team Leadership,2024-11-05,90,False,32,3007,1384,False
+1091,T312,Team Leadership,2024-10-15,79,False,32,3006,670,False
+1333,T272,Cloud Architecture,2024-07-06,86,True,33,3003,2305,False
+1704,T321,Digital Marketing Fundamentals,2024-11-03,86,False,31,3010,1415,True
+1730,T361,Project Management,2024-08-11,97,False,42,3008,1434,False
+1563,T345,Cloud Architecture,2024-12-10,81,True,27,3010,1516,True
+1700,T496,Digital Marketing Fundamentals,2024-06-16,70,False,38,3002,794,True
+1952,T808,Advanced Sales Techniques,2024-05-06,80,False,22,3003,1131,False
+1472,T615,Cloud Architecture,2024-06-18,70,False,41,3001,719,False
+1202,T245,Team Leadership,2024-03-05,90,True,32,3005,1669,True
+1259,T204,Advanced Sales Techniques,2024-08-02,91,False,28,3007,2442,False
+1206,T940,Team Leadership,2024-01-03,99,False,30,3008,2409,True
+1748,T175,Cloud Architecture,2024-07-09,99,False,36,3006,2427,False
+1208,T496,Team Leadership,2024-03-17,83,False,59,3007,1480,False
+1400,T590,Cloud Architecture,2024-12-10,82,False,32,3001,2327,True
+1708,T338,Cloud Architecture,2024-03-27,77,True,51,3010,2086,True
+1832,T196,Team Leadership,2024-05-25,70,True,46,3008,747,False
+1073,T403,Project Management,2024-01-08,79,True,54,3006,744,False
+1753,T570,Digital Marketing Fundamentals,2024-01-05,83,True,46,3001,2130,True
+1558,T389,Project Management,2024-06-12,100,False,29,3007,559,False
+1528,T288,Cloud Architecture,2024-10-02,86,False,56,3006,1955,False
+1074,T414,Advanced Sales Techniques,2024-04-10,94,True,56,3007,1283,True
+1689,T477,Project Management,2024-11-28,75,True,30,3006,2452,False
+1541,T713,Advanced Sales Techniques,2024-09-25,99,False,22,3007,1664,True
+1196,T156,Cloud Architecture,2024-05-06,79,False,24,3002,876,True
+1141,T580,Cloud Architecture,2024-10-26,70,True,34,3009,1780,False
+1654,T687,Digital Marketing Fundamentals,2024-05-06,92,True,28,3010,1782,True
+1976,T136,Team Leadership,2024-10-06,74,True,32,3001,2116,True
+1249,T480,Project Management,2024-07-22,74,True,34,3010,1607,False
+1070,T208,Advanced Sales Techniques,2024-01-18,100,True,60,3010,1693,False
+1782,T859,Team Leadership,2024-12-12,99,True,54,3008,1732,True
+1450,T664,Team Leadership,2024-04-28,82,False,54,3003,1003,False
+1008,T750,Project Management,2024-10-30,92,False,31,3003,1714,False
+1830,T993,Team Leadership,2024-07-20,80,True,39,3005,1905,False
+1816,T621,Team Leadership,2024-03-07,80,False,37,3004,548,False
+1159,T939,Advanced Sales Techniques,2024-08-26,82,True,39,3009,1802,False
+1829,T679,Project Management,2024-12-12,90,True,57,3009,1939,False
+1145,T151,Cloud Architecture,2024-04-23,96,True,24,3004,520,True
+1531,T378,Cloud Architecture,2024-01-17,99,True,57,3002,1093,True
+1594,T822,Project Management,2024-07-03,73,True,60,3008,1710,False
+1256,T299,Advanced Sales Techniques,2024-11-29,90,False,20,3008,2042,False
+1586,T447,Advanced Sales Techniques,2024-09-20,97,False,38,3004,2234,True
+1452,T199,Project Management,2024-07-29,75,True,29,3009,1075,False
+1781,T214,Team Leadership,2024-03-02,72,False,57,3004,1900,False
+1829,T283,Digital Marketing Fundamentals,2024-07-20,96,True,53,3009,2070,False
+1885,T217,Team Leadership,2024-05-27,77,True,35,3009,712,True
+1502,T114,Digital Marketing Fundamentals,2024-03-13,85,False,24,3001,997,False
+1421,T262,Cloud Architecture,2024-05-21,83,False,58,3005,750,False
+1132,T468,Project Management,2024-10-12,76,False,25,3007,979,False
+1505,T629,Advanced Sales Techniques,2024-05-14,95,True,46,3005,2112,False
+1732,T544,Team Leadership,2024-07-21,96,False,50,3002,2185,True
+1175,T801,Project Management,2024-06-20,71,True,23,3003,2204,True
+1963,T446,Project Management,2024-10-17,94,False,27,3002,1628,False
+1539,T183,Advanced Sales Techniques,2024-03-10,96,True,26,3005,1286,True
+1135,T295,Digital Marketing Fundamentals,2024-08-11,77,False,60,3010,2489,False
+1522,T266,Project Management,2024-03-14,88,True,26,3005,2469,True
+1551,T216,Cloud Architecture,2024-12-02,92,True,41,3007,966,True
+1409,T607,Team Leadership,2024-10-11,82,True,29,3008,694,False
+1575,T697,Cloud Architecture,2024-10-17,84,False,49,3009,2079,False
+1982,T191,Project Management,2024-06-24,72,True,54,3004,1129,False
+1686,T554,Advanced Sales Techniques,2024-01-10,81,True,20,3005,1471,True
+1002,T742,Project Management,2024-10-24,70,True,53,3003,2428,True
+1221,T216,Advanced Sales Techniques,2024-06-15,92,False,52,3003,1137,True
+1851,T857,Digital Marketing Fundamentals,2024-12-06,93,True,21,3005,2056,False
+1317,T490,Project Management,2024-10-19,84,False,29,3006,1652,False
+1227,T407,Project Management,2024-03-02,99,True,21,3002,1709,False
+1430,T638,Project Management,2024-09-01,77,True,37,3006,514,True
+1265,T206,Project Management,2024-09-05,81,True,25,3004,1789,True
+1220,T126,Team Leadership,2024-05-20,94,False,44,3002,1476,True
+1397,T819,Advanced Sales Techniques,2024-12-03,82,False,55,3005,2250,False
+1319,T915,Project Management,2024-07-15,91,True,21,3010,1569,False
+1130,T643,Digital Marketing Fundamentals,2024-06-28,94,True,52,3002,1594,False
+1588,T502,Project Management,2024-10-08,74,True,37,3005,2336,False
+1058,T434,Digital Marketing Fundamentals,2024-03-25,84,True,39,3008,2048,False
+1176,T184,Cloud Architecture,2024-05-27,94,False,32,3007,812,True
+1725,T696,Advanced Sales Techniques,2024-01-08,83,True,37,3010,1886,False
+1975,T212,Team Leadership,2024-07-22,93,True,32,3002,2331,True
+1065,T549,Advanced Sales Techniques,2024-01-24,92,False,47,3009,2387,False
+1249,T937,Team Leadership,2024-05-22,74,True,54,3006,2111,True
+1863,T454,Project Management,2024-05-16,100,False,23,3005,1485,True
+1798,T985,Digital Marketing Fundamentals,2024-07-28,92,False,25,3003,2203,False
+1326,T497,Digital Marketing Fundamentals,2024-02-21,82,False,26,3007,1146,False
+1400,T529,Team Leadership,2024-11-16,73,False,49,3002,2488,True
+1842,T221,Cloud Architecture,2024-09-19,71,False,21,3002,1569,True
+1710,T445,Project Management,2024-02-22,94,True,43,3010,1365,False
+1647,T703,Cloud Architecture,2024-06-11,95,False,31,3006,1977,False
+1141,T453,Team Leadership,2024-02-25,83,True,42,3001,1956,True
+1193,T455,Project Management,2024-10-20,95,False,54,3001,2221,False
+1068,T616,Team Leadership,2024-03-19,91,True,20,3005,918,False
+1977,T248,Cloud Architecture,2024-10-01,88,False,54,3006,944,True
+1847,T988,Advanced Sales Techniques,2024-09-15,92,True,24,3004,948,True
+1010,T678,Advanced Sales Techniques,2024-02-02,78,True,23,3004,1503,False
+1353,T667,Digital Marketing Fundamentals,2024-06-07,96,True,26,3005,586,False
+1444,T440,Advanced Sales Techniques,2024-06-27,74,False,48,3009,1500,True
+1689,T857,Project Management,2024-05-24,71,False,59,3001,792,False
+1754,T716,Project Management,2024-11-25,70,False,45,3004,1308,True
+1797,T709,Project Management,2024-01-08,99,True,53,3004,2073,False
+1903,T373,Project Management,2024-01-25,94,True,44,3003,1336,False
+1082,T522,Cloud Architecture,2024-02-02,82,False,50,3002,1432,False
+1326,T289,Project Management,2024-05-23,83,False,31,3007,1775,True
+1367,T975,Digital Marketing Fundamentals,2024-03-17,92,False,54,3009,1992,True
+1688,T751,Digital Marketing Fundamentals,2024-11-26,73,True,36,3006,2204,True
+1815,T555,Team Leadership,2024-02-22,71,False,22,3009,2147,False
+1346,T446,Advanced Sales Techniques,2024-09-03,80,False,30,3005,1104,True
+1557,T860,Project Management,2024-06-23,87,False,48,3009,2467,False
+1885,T125,Advanced Sales Techniques,2024-10-17,77,True,56,3004,1576,False
+1064,T548,Digital Marketing Fundamentals,2024-01-10,96,True,39,3003,544,True
+1247,T383,Project Management,2024-10-28,96,False,33,3009,2317,True
+1559,T779,Advanced Sales Techniques,2024-03-24,99,False,21,3005,1299,True
+1320,T586,Project Management,2024-11-20,83,True,42,3008,2398,True
+1221,T520,Cloud Architecture,2024-04-26,85,True,34,3001,1527,True
+1248,T413,Digital Marketing Fundamentals,2024-10-24,94,False,39,3007,1842,False
+1823,T354,Cloud Architecture,2024-02-07,96,True,22,3010,1159,False
+1982,T715,Team Leadership,2024-11-18,87,False,26,3008,1443,True
+1059,T900,Team Leadership,2024-12-17,88,True,56,3010,655,False
+1407,T556,Team Leadership,2024-12-05,72,False,21,3010,1676,False
+1121,T194,Advanced Sales Techniques,2024-04-20,76,False,45,3003,1152,False
+1710,T507,Cloud Architecture,2024-06-21,72,True,60,3010,568,True
+1540,T126,Digital Marketing Fundamentals,2024-07-04,84,False,43,3001,549,True
+1784,T362,Digital Marketing Fundamentals,2024-12-25,78,True,42,3007,2243,False
+1697,T343,Advanced Sales Techniques,2024-05-11,100,False,48,3003,1517,False
+1445,T258,Cloud Architecture,2024-10-21,70,True,27,3008,1153,True
+1843,T674,Cloud Architecture,2024-05-27,88,True,40,3004,1441,True
+1121,T862,Cloud Architecture,2024-11-26,90,False,45,3001,2479,False
+1190,T104,Cloud Architecture,2024-09-28,74,False,53,3010,895,True
+1233,T763,Team Leadership,2024-07-30,98,False,43,3007,1506,False
+1627,T377,Team Leadership,2024-07-16,82,False,33,3003,1067,True
+1991,T880,Digital Marketing Fundamentals,2024-09-27,86,False,29,3007,1830,True
+1909,T598,Team Leadership,2024-09-19,81,False,60,3005,1395,False
+1543,T446,Team Leadership,2024-06-12,87,False,45,3005,1250,True
+1795,T812,Project Management,2024-03-23,75,False,28,3008,1662,True
+1272,T495,Project Management,2024-10-12,91,True,59,3009,2451,False
+1094,T508,Digital Marketing Fundamentals,2024-07-08,74,True,53,3008,2497,True
+1335,T210,Advanced Sales Techniques,2024-02-04,87,False,50,3009,1305,True
+1266,T742,Advanced Sales Techniques,2024-04-01,78,False,55,3008,1862,False
+1452,T407,Team Leadership,2024-06-19,100,False,32,3010,1412,True
+1977,T118,Cloud Architecture,2024-08-17,72,False,31,3008,1496,False
+1992,T156,Team Leadership,2024-08-16,91,False,48,3005,1995,True
+1975,T109,Digital Marketing Fundamentals,2024-07-27,91,True,40,3008,1595,False
+1414,T279,Cloud Architecture,2024-07-02,96,True,45,3004,1036,False
+1339,T194,Project Management,2024-01-04,93,False,40,3002,1208,True
+1088,T235,Advanced Sales Techniques,2024-07-22,79,True,34,3009,756,False
+1639,T148,Project Management,2024-01-13,93,False,52,3007,1144,True
+1943,T754,Digital Marketing Fundamentals,2024-11-30,83,False,23,3002,1512,True
+1820,T884,Digital Marketing Fundamentals,2024-11-10,88,True,59,3007,1448,True
+1110,T934,Digital Marketing Fundamentals,2024-09-25,81,True,31,3007,1131,True
+1756,T236,Digital Marketing Fundamentals,2024-11-25,82,False,41,3003,1909,False
+1736,T597,Project Management,2024-05-09,84,True,40,3002,1276,True
+1143,T105,Cloud Architecture,2024-04-06,75,False,27,3002,938,True
+1513,T151,Advanced Sales Techniques,2024-07-15,74,True,37,3010,1562,True
+1033,T837,Project Management,2024-03-12,78,False,40,3006,1237,False
+1701,T597,Cloud Architecture,2024-07-28,79,True,29,3009,869,True
+1905,T720,Advanced Sales Techniques,2024-08-14,76,True,24,3009,2122,True
+1426,T499,Project Management,2024-08-01,95,False,59,3009,1009,False
+1602,T625,Advanced Sales Techniques,2024-10-13,86,False,44,3010,1556,False
+1212,T241,Project Management,2024-01-30,95,False,40,3009,1058,False
+1438,T245,Team Leadership,2024-11-05,73,True,49,3001,1780,True
+1266,T406,Team Leadership,2024-03-09,97,False,42,3010,1609,True
+1617,T162,Team Leadership,2024-09-30,82,True,56,3005,1457,True
+1998,T155,Team Leadership,2024-02-28,74,False,38,3007,1975,False
+1515,T644,Project Management,2024-09-11,88,False,31,3005,1048,False
+1399,T348,Advanced Sales Techniques,2024-10-31,74,False,28,3001,1686,True
+1470,T413,Project Management,2024-10-28,77,True,57,3009,688,True
+1147,T241,Advanced Sales Techniques,2024-03-27,75,True,41,3002,783,False
+1081,T315,Team Leadership,2024-09-12,86,False,22,3006,1095,True
+1733,T497,Digital Marketing Fundamentals,2024-12-03,75,True,51,3001,502,False
+1511,T587,Digital Marketing Fundamentals,2024-08-25,72,True,22,3004,860,True
+1988,T842,Team Leadership,2024-05-31,70,False,35,3005,2056,False
+1522,T864,Digital Marketing Fundamentals,2024-11-07,77,True,47,3008,2456,False
+1902,T644,Digital Marketing Fundamentals,2024-11-17,83,False,60,3004,658,True
+1837,T924,Cloud Architecture,2024-05-08,74,True,34,3009,2408,False
+1831,T363,Cloud Architecture,2024-06-24,84,False,50,3004,612,False
+1562,T451,Project Management,2024-09-24,75,True,59,3007,2313,False
+1781,T449,Project Management,2024-10-17,100,False,54,3003,783,False
+1211,T195,Cloud Architecture,2024-05-21,91,True,29,3006,2451,False
+1965,T613,Project Management,2024-11-24,89,True,59,3003,1911,True
+1022,T588,Project Management,2024-03-16,73,False,27,3003,2390,False
+1479,T121,Team Leadership,2024-10-21,84,True,49,3008,2203,True
+1862,T962,Digital Marketing Fundamentals,2024-09-07,78,False,39,3008,1167,False
+1072,T205,Cloud Architecture,2024-07-08,96,True,43,3007,2139,False
+1216,T219,Advanced Sales Techniques,2024-11-03,74,False,30,3007,2147,False
+1325,T715,Team Leadership,2024-10-22,98,True,56,3005,2479,False
+1542,T393,Digital Marketing Fundamentals,2024-05-31,86,True,26,3001,2139,True
+1197,T977,Digital Marketing Fundamentals,2024-04-14,87,False,52,3008,776,False
+1195,T797,Cloud Architecture,2024-11-09,92,False,42,3001,2217,True
+1503,T749,Advanced Sales Techniques,2024-04-21,89,True,44,3005,877,True
+1764,T106,Cloud Architecture,2024-05-09,77,False,30,3009,2454,True
+1501,T355,Team Leadership,2024-02-14,83,False,56,3008,585,False
+1665,T739,Digital Marketing Fundamentals,2024-03-02,88,True,60,3002,1653,False
+1679,T745,Digital Marketing Fundamentals,2024-08-31,77,True,42,3007,793,True
+1596,T441,Advanced Sales Techniques,2024-05-07,75,True,24,3002,2307,False
+1006,T802,Advanced Sales Techniques,2024-12-25,100,True,22,3009,2285,True
+1184,T230,Advanced Sales Techniques,2024-05-28,81,True,28,3003,587,True
+1590,T835,Digital Marketing Fundamentals,2024-03-01,82,True,53,3010,1582,True
+1299,T534,Team Leadership,2024-03-06,72,False,27,3001,2270,True
+1293,T581,Project Management,2024-02-29,75,False,49,3006,2336,True
+1788,T224,Team Leadership,2024-01-05,76,True,45,3007,1163,True
+1754,T512,Project Management,2024-07-29,86,False,49,3007,2095,True
+1188,T576,Cloud Architecture,2024-12-06,73,False,21,3004,2198,False
+1055,T257,Digital Marketing Fundamentals,2024-09-12,98,False,20,3007,2184,True
+1130,T859,Team Leadership,2024-03-20,95,True,42,3003,2229,False
+1937,T190,Team Leadership,2024-10-31,89,False,60,3006,1383,False
+1391,T649,Team Leadership,2024-04-18,82,False,45,3005,1343,True
+1285,T269,Project Management,2024-10-26,79,True,21,3001,2413,True
+1857,T814,Advanced Sales Techniques,2024-06-07,76,False,36,3004,1416,False
+1501,T849,Advanced Sales Techniques,2024-11-18,70,False,35,3009,2162,True
+1196,T284,Cloud Architecture,2024-04-09,80,True,34,3008,1375,True
+1658,T847,Cloud Architecture,2024-09-19,97,True,35,3005,1174,True
+1119,T450,Digital Marketing Fundamentals,2024-04-14,73,False,51,3007,1255,False
+1552,T531,Team Leadership,2024-11-06,72,True,23,3001,538,False
+1613,T188,Advanced Sales Techniques,2024-02-21,86,False,30,3005,1523,True
+1639,T320,Cloud Architecture,2024-08-16,100,False,52,3010,674,False
+1058,T231,Team Leadership,2024-08-07,88,False,34,3002,2464,False
+1994,T816,Digital Marketing Fundamentals,2024-09-23,90,False,53,3001,1828,True
+1516,T592,Digital Marketing Fundamentals,2024-10-11,85,False,49,3006,701,True
+1113,T621,Cloud Architecture,2024-05-30,93,True,32,3008,611,False
+1282,T362,Team Leadership,2024-02-17,87,False,21,3002,1867,True
+1647,T654,Advanced Sales Techniques,2024-03-22,77,False,39,3002,1624,False
+1182,T730,Cloud Architecture,2024-07-20,75,False,37,3006,1428,True
+1068,T581,Team Leadership,2024-01-23,77,True,51,3001,636,True
+1433,T470,Cloud Architecture,2024-06-22,82,True,42,3005,2117,False
+1085,T288,Team Leadership,2024-01-30,88,True,25,3001,1593,True
+1900,T497,Cloud Architecture,2024-08-05,90,False,49,3006,1356,True
+1445,T811,Advanced Sales Techniques,2024-09-20,79,True,52,3007,1762,False
+1011,T725,Digital Marketing Fundamentals,2024-12-08,82,False,26,3002,2179,True
+1564,T691,Cloud Architecture,2024-05-26,97,True,21,3008,1141,False
+1312,T324,Digital Marketing Fundamentals,2024-01-18,87,True,21,3010,1509,False
+1229,T302,Team Leadership,2024-12-21,76,True,36,3010,2271,True
+1514,T744,Project Management,2024-10-10,83,True,53,3007,745,False
+1328,T762,Team Leadership,2024-06-16,87,False,33,3005,2346,False
+1676,T381,Project Management,2024-08-09,100,False,37,3003,853,True
+1427,T928,Project Management,2024-08-18,98,True,41,3006,1582,True
+1056,T111,Cloud Architecture,2024-11-05,95,False,54,3001,1859,False
+1378,T515,Cloud Architecture,2024-09-10,78,False,59,3002,1972,True
+1520,T630,Digital Marketing Fundamentals,2024-03-19,96,True,38,3009,2373,True
+1944,T187,Project Management,2024-08-23,96,True,48,3003,2416,False
+1866,T929,Team Leadership,2024-08-20,86,True,38,3001,1517,True
+1141,T613,Advanced Sales Techniques,2024-04-12,100,True,44,3008,676,False
+1463,T781,Advanced Sales Techniques,2024-05-11,73,True,34,3005,589,True
+1055,T603,Cloud Architecture,2024-01-29,83,True,51,3005,1154,False
+1776,T367,Advanced Sales Techniques,2024-01-15,85,True,52,3005,1808,True
+1019,T911,Advanced Sales Techniques,2024-05-29,70,True,25,3004,989,True
+1854,T958,Cloud Architecture,2024-09-12,93,True,37,3009,1705,True
+1262,T108,Advanced Sales Techniques,2024-11-25,72,True,56,3003,723,False
+1677,T751,Project Management,2024-07-24,97,True,57,3003,1454,False
+1962,T250,Digital Marketing Fundamentals,2024-03-18,79,True,48,3007,2446,False
+1331,T486,Advanced Sales Techniques,2024-07-20,86,False,47,3009,1674,True
+1383,T804,Project Management,2024-10-06,93,True,33,3007,2433,False
+1636,T878,Team Leadership,2024-02-29,79,False,22,3010,713,False
+1528,T572,Advanced Sales Techniques,2024-08-27,89,True,58,3001,2272,True
+1229,T634,Cloud Architecture,2024-02-24,96,False,42,3007,748,False
+1548,T750,Project Management,2024-01-28,82,True,28,3007,1325,False
+1700,T731,Project Management,2024-05-28,73,False,56,3010,2286,True
+1747,T834,Team Leadership,2024-02-26,97,False,21,3009,2162,False
+1713,T903,Team Leadership,2024-08-14,81,False,38,3009,2001,False
+1381,T960,Project Management,2024-07-19,84,False,40,3010,2360,False
+1503,T544,Team Leadership,2024-10-10,76,True,22,3008,1151,True
+1750,T934,Team Leadership,2024-05-26,86,True,32,3004,2098,False
+1241,T957,Cloud Architecture,2024-01-06,88,True,37,3008,2081,False
+1708,T195,Cloud Architecture,2024-04-28,83,False,55,3009,1328,False
+1460,T153,Team Leadership,2024-09-26,77,False,36,3007,506,False
+1160,T183,Team Leadership,2024-03-13,98,True,28,3002,1009,True
+1004,T753,Digital Marketing Fundamentals,2024-07-07,86,False,55,3010,842,True
+1169,T831,Cloud Architecture,2024-07-15,88,False,41,3008,1315,True
+1057,T624,Project Management,2024-05-24,87,True,51,3001,1398,True
+1853,T811,Project Management,2024-09-29,95,True,46,3003,885,True
+1355,T858,Digital Marketing Fundamentals,2024-07-11,77,False,38,3010,661,False
+1318,T970,Team Leadership,2024-11-04,70,False,54,3007,1499,True
+1115,T820,Team Leadership,2024-11-06,94,True,38,3010,1582,False
+1849,T699,Team Leadership,2024-02-11,77,False,32,3007,1265,True
+1994,T731,Digital Marketing Fundamentals,2024-10-18,73,False,29,3007,2474,False
+1183,T372,Advanced Sales Techniques,2024-01-23,86,False,30,3009,1861,False
+1059,T185,Cloud Architecture,2024-04-05,74,True,43,3007,1368,False
+1064,T164,Project Management,2024-06-12,72,False,27,3008,727,True
+1275,T904,Digital Marketing Fundamentals,2024-09-09,92,True,22,3008,2158,True
+1932,T628,Project Management,2024-03-15,87,True,29,3003,661,True
+1108,T668,Project Management,2024-09-03,90,False,22,3006,571,True
+1941,T419,Team Leadership,2024-01-05,73,True,50,3004,1104,True
+1961,T594,Digital Marketing Fundamentals,2024-05-19,99,True,37,3007,2210,False
+1373,T407,Digital Marketing Fundamentals,2024-05-26,72,True,35,3004,2412,False
+1373,T701,Advanced Sales Techniques,2024-08-20,83,False,59,3002,1214,False
+1416,T298,Advanced Sales Techniques,2024-05-09,92,True,44,3004,976,False
+1733,T415,Project Management,2024-09-09,82,False,21,3001,1414,False
+1269,T313,Digital Marketing Fundamentals,2024-09-09,75,False,20,3002,1660,True
+1424,T474,Cloud Architecture,2024-10-20,82,False,49,3001,2152,False
+1667,T545,Project Management,2024-06-10,83,False,51,3009,1780,True
+1842,T966,Cloud Architecture,2024-12-20,78,True,39,3006,806,False
+1971,T976,Digital Marketing Fundamentals,2024-03-09,87,False,37,3010,632,False
+1222,T454,Advanced Sales Techniques,2024-05-02,88,True,36,3004,2473,False
+1753,T875,Advanced Sales Techniques,2024-08-31,96,False,22,3007,2421,True
+1613,T257,Project Management,2024-01-14,92,False,60,3007,1245,True
+1799,T309,Cloud Architecture,2024-09-23,99,False,25,3001,570,False
+1634,T771,Project Management,2024-08-13,73,True,47,3005,2041,True
+1990,T628,Digital Marketing Fundamentals,2024-05-28,94,False,21,3010,1648,True
+1590,T920,Cloud Architecture,2024-08-26,90,True,43,3001,2404,True
+1393,T979,Cloud Architecture,2024-04-26,77,True,35,3007,760,False
+1597,T325,Cloud Architecture,2024-01-29,97,False,43,3008,2029,True
+1114,T811,Project Management,2024-02-24,75,False,56,3002,786,True
+1003,T127,Team Leadership,2024-03-24,75,True,54,3002,1549,True
+1934,T771,Project Management,2024-05-03,75,False,43,3002,1348,False
+1585,T191,Team Leadership,2024-03-06,84,False,27,3010,1394,True
+1504,T735,Advanced Sales Techniques,2024-07-31,73,False,29,3010,2443,True
+1243,T333,Digital Marketing Fundamentals,2024-07-24,88,True,35,3004,1240,True
+1085,T482,Cloud Architecture,2024-07-31,81,False,30,3009,2257,False
+1737,T240,Digital Marketing Fundamentals,2024-08-26,81,True,37,3001,1676,False
+1107,T372,Team Leadership,2024-08-14,91,False,25,3007,1627,True
+1545,T782,Project Management,2024-09-19,87,True,24,3009,1832,True
+1298,T392,Team Leadership,2024-11-04,87,True,26,3007,898,False
+1134,T712,Team Leadership,2024-11-15,70,True,53,3007,2247,False
+1660,T987,Team Leadership,2024-01-01,98,True,29,3003,945,True
+1981,T241,Digital Marketing Fundamentals,2024-09-20,75,False,32,3008,2283,True
+1403,T624,Advanced Sales Techniques,2024-07-31,75,False,36,3002,1101,False
+1140,T633,Team Leadership,2024-12-11,100,False,50,3006,1751,True
+1285,T364,Team Leadership,2024-07-18,79,True,48,3007,1139,True
+1280,T375,Advanced Sales Techniques,2024-10-22,70,False,49,3010,1113,True
+1396,T807,Digital Marketing Fundamentals,2024-10-23,75,False,33,3003,1685,True
+1648,T231,Digital Marketing Fundamentals,2024-07-20,79,False,54,3004,1068,False
+1122,T690,Project Management,2024-05-28,81,False,20,3009,1835,False
+1495,T425,Digital Marketing Fundamentals,2024-10-23,85,True,54,3002,2023,False
+1685,T561,Advanced Sales Techniques,2024-01-13,99,False,47,3003,1209,True
+1107,T822,Team Leadership,2024-07-23,100,True,31,3001,1115,True
+1676,T952,Team Leadership,2024-01-27,84,True,36,3010,2273,False
+1562,T587,Cloud Architecture,2024-02-05,79,False,57,3003,1379,True
+1357,T276,Project Management,2024-12-09,97,True,20,3006,2039,False
+1563,T236,Advanced Sales Techniques,2024-12-13,97,True,52,3003,543,False
+1657,T614,Advanced Sales Techniques,2024-01-02,89,True,30,3001,1688,True
+1365,T281,Advanced Sales Techniques,2024-06-27,70,False,29,3004,1800,False
+1696,T365,Team Leadership,2024-02-08,88,True,33,3001,1994,True
+1502,T986,Project Management,2024-04-19,74,True,30,3006,677,True
+1016,T914,Cloud Architecture,2024-08-19,75,False,58,3009,2393,True
+1865,T469,Team Leadership,2024-10-16,88,True,41,3010,1915,False
+1951,T316,Cloud Architecture,2024-03-08,83,True,34,3003,2221,True
+1307,T150,Project Management,2024-12-20,70,False,50,3001,525,True
+1493,T890,Project Management,2024-03-20,73,False,26,3006,600,False
+1556,T435,Cloud Architecture,2024-09-30,79,False,20,3009,1544,False
+1842,T689,Cloud Architecture,2024-06-04,100,True,54,3006,739,False
+1087,T899,Cloud Architecture,2024-01-10,74,False,44,3001,544,False
+1990,T806,Digital Marketing Fundamentals,2024-04-04,88,False,27,3002,2095,False
+1113,T482,Project Management,2024-10-29,98,True,35,3007,1105,False
+1255,T582,Cloud Architecture,2024-06-09,92,False,59,3001,2045,True
+1150,T423,Project Management,2024-07-17,88,False,52,3005,1567,True
+1276,T878,Cloud Architecture,2024-01-12,92,True,56,3008,1607,False
+1644,T602,Advanced Sales Techniques,2024-07-16,80,False,31,3010,1912,False
+1690,T735,Project Management,2024-09-09,94,False,51,3002,2113,False
+1450,T787,Team Leadership,2024-05-09,71,True,49,3002,1729,True
+1760,T759,Advanced Sales Techniques,2024-08-04,77,False,32,3004,1322,True
+1925,T457,Project Management,2024-09-14,74,True,60,3008,867,True
+1273,T111,Digital Marketing Fundamentals,2024-07-15,94,True,43,3006,1591,False
+1431,T353,Advanced Sales Techniques,2024-04-21,91,False,34,3009,1454,True
+1385,T212,Advanced Sales Techniques,2024-04-11,80,False,29,3002,730,False
+1627,T362,Project Management,2024-10-30,92,True,59,3003,1985,False
+1334,T787,Project Management,2024-10-25,80,True,50,3004,976,False
+1670,T499,Team Leadership,2024-04-15,79,True,37,3004,680,True
+1808,T561,Digital Marketing Fundamentals,2024-03-22,70,True,25,3010,1619,True
+1912,T219,Advanced Sales Techniques,2024-11-07,70,False,35,3009,837,True
+1281,T957,Digital Marketing Fundamentals,2024-11-19,77,True,44,3006,2083,False
+1989,T682,Digital Marketing Fundamentals,2024-07-08,72,True,57,3008,1525,False
+1880,T433,Advanced Sales Techniques,2024-02-22,84,True,42,3005,2286,True
+1411,T693,Project Management,2024-10-29,98,True,33,3005,1251,False
+1547,T708,Cloud Architecture,2024-02-13,70,False,59,3005,601,True
+1623,T999,Advanced Sales Techniques,2024-11-22,71,True,46,3010,1167,False
+1628,T653,Advanced Sales Techniques,2024-03-18,89,True,32,3004,675,False
+1482,T703,Cloud Architecture,2024-03-08,82,False,38,3001,2061,True
+1725,T149,Team Leadership,2024-06-16,81,True,41,3010,2176,True
+1672,T540,Digital Marketing Fundamentals,2024-11-29,70,True,23,3007,1416,True
+1059,T689,Advanced Sales Techniques,2024-11-02,84,False,43,3002,536,False
+1620,T266,Advanced Sales Techniques,2024-10-04,87,False,41,3004,1983,False
+1297,T693,Digital Marketing Fundamentals,2024-10-03,81,False,54,3004,1716,True
+1088,T637,Digital Marketing Fundamentals,2024-07-10,97,False,44,3006,1024,True
+1262,T573,Project Management,2024-07-11,73,True,46,3009,1622,True
+1008,T580,Project Management,2024-11-27,97,False,60,3004,860,True
+1083,T712,Team Leadership,2024-06-10,71,True,21,3008,1785,True
+1476,T856,Team Leadership,2024-03-23,74,True,31,3006,1186,True
+1087,T762,Project Management,2024-12-01,90,True,30,3008,1448,False
+1101,T471,Advanced Sales Techniques,2024-08-05,87,True,48,3009,2260,False
+1319,T229,Digital Marketing Fundamentals,2024-10-30,82,False,47,3001,625,False
+1891,T774,Cloud Architecture,2024-03-27,95,False,58,3008,2305,False
+1324,T608,Advanced Sales Techniques,2024-10-28,75,False,36,3005,2291,False
+1559,T408,Team Leadership,2024-01-29,88,False,25,3010,1300,True
+1261,T687,Project Management,2024-10-04,70,True,36,3001,1918,True
+1343,T410,Digital Marketing Fundamentals,2024-08-16,79,False,30,3006,796,True
+1432,T457,Cloud Architecture,2024-01-30,87,False,33,3010,2499,True
+1469,T513,Team Leadership,2024-09-22,93,False,51,3006,1936,True
+1868,T362,Digital Marketing Fundamentals,2024-12-24,75,True,35,3002,2215,False
+1493,T703,Project Management,2024-07-14,85,True,45,3006,2104,True
+1105,T234,Digital Marketing Fundamentals,2024-01-22,81,True,50,3008,1627,True
+1447,T329,Digital Marketing Fundamentals,2024-11-07,71,False,52,3001,2290,True
+1583,T242,Cloud Architecture,2024-04-28,84,True,46,3007,850,True
+1878,T721,Cloud Architecture,2024-03-31,81,True,46,3001,673,False
+1645,T558,Cloud Architecture,2024-07-18,97,False,41,3006,1534,True
+1858,T308,Cloud Architecture,2024-12-12,95,False,26,3004,1187,False
+1961,T239,Team Leadership,2024-04-25,99,True,25,3009,762,True
+1208,T761,Cloud Architecture,2024-09-28,90,True,23,3003,1164,True
+1045,T382,Team Leadership,2024-04-03,85,False,21,3008,692,False
+1226,T338,Advanced Sales Techniques,2024-01-19,94,True,41,3007,1104,True
+1332,T970,Team Leadership,2024-10-26,75,False,41,3004,1905,True
+1796,T621,Digital Marketing Fundamentals,2024-08-17,87,True,35,3007,1089,True
+1114,T452,Cloud Architecture,2024-07-01,96,False,36,3006,2448,False
+1770,T164,Team Leadership,2024-08-09,82,True,59,3004,1971,True
+1213,T235,Cloud Architecture,2024-07-08,73,False,55,3009,594,False
+1004,T197,Project Management,2024-05-07,74,True,41,3006,1502,False
+1993,T931,Advanced Sales Techniques,2024-10-26,98,True,43,3002,865,True
+1558,T659,Cloud Architecture,2024-05-25,100,True,38,3001,2250,True
+1481,T688,Advanced Sales Techniques,2024-07-18,88,False,37,3006,1789,False
+1904,T584,Team Leadership,2024-10-05,93,False,57,3007,808,False
+1207,T520,Team Leadership,2024-11-01,96,True,26,3008,751,True
+1045,T333,Digital Marketing Fundamentals,2024-04-11,81,False,37,3002,1794,False
+1349,T489,Digital Marketing Fundamentals,2024-03-09,97,True,33,3001,596,True
+1190,T399,Cloud Architecture,2024-02-15,74,True,48,3002,1324,False
+1319,T333,Cloud Architecture,2024-08-03,91,True,42,3002,2161,False
+1642,T861,Cloud Architecture,2024-02-17,99,True,24,3002,1148,True
+1982,T728,Cloud Architecture,2024-08-03,84,True,59,3010,934,True
+1432,T931,Team Leadership,2024-10-21,83,False,28,3001,1799,True
+1746,T891,Advanced Sales Techniques,2024-01-13,85,True,24,3001,659,True
+1628,T989,Advanced Sales Techniques,2024-01-26,70,False,45,3001,598,False
+1191,T763,Advanced Sales Techniques,2024-11-10,79,False,44,3007,1595,False
+1728,T454,Advanced Sales Techniques,2024-07-23,70,True,55,3010,1233,True
+1484,T802,Cloud Architecture,2024-11-25,74,False,53,3004,2191,True
+1756,T714,Advanced Sales Techniques,2024-10-17,75,False,33,3003,1129,False
+1542,T656,Project Management,2024-07-02,97,True,51,3007,1725,False
+1366,T573,Team Leadership,2024-04-18,95,False,40,3005,936,False
+1986,T710,Cloud Architecture,2024-06-28,87,True,36,3007,983,True
+1171,T994,Digital Marketing Fundamentals,2024-03-05,80,True,36,3008,1035,True
+1972,T178,Team Leadership,2024-08-20,71,False,49,3009,1894,True
+1572,T261,Cloud Architecture,2024-02-05,75,True,37,3005,1799,False
+1286,T564,Digital Marketing Fundamentals,2024-10-04,87,False,53,3006,2108,False
+1797,T734,Digital Marketing Fundamentals,2024-09-25,79,False,25,3005,862,True
+1645,T476,Team Leadership,2024-12-11,74,True,36,3003,1277,True
+1492,T165,Cloud Architecture,2024-03-29,76,True,37,3004,2350,True
+1452,T512,Digital Marketing Fundamentals,2024-02-10,91,False,27,3003,933,False
+1331,T370,Digital Marketing Fundamentals,2024-02-17,93,True,41,3010,2093,True
+1857,T312,Team Leadership,2024-03-02,75,True,46,3008,1403,True
+1062,T735,Team Leadership,2024-05-30,87,True,35,3010,1753,True
+1262,T509,Project Management,2024-05-18,82,True,23,3008,1203,True
+1577,T218,Project Management,2024-08-28,72,True,55,3003,1558,True
+1523,T960,Cloud Architecture,2024-09-25,98,False,20,3008,983,False
+1545,T753,Digital Marketing Fundamentals,2024-06-20,80,True,43,3001,1301,True
+1355,T196,Advanced Sales Techniques,2024-04-30,78,False,28,3008,2484,False
+1405,T888,Team Leadership,2024-05-30,75,True,50,3007,2396,True
+1692,T573,Cloud Architecture,2024-01-03,79,True,52,3002,2462,False
+1276,T992,Digital Marketing Fundamentals,2024-03-25,83,False,25,3005,1713,False
+1352,T308,Advanced Sales Techniques,2024-01-23,72,False,36,3007,2035,True
+1250,T657,Digital Marketing Fundamentals,2024-02-20,80,False,38,3006,2137,True
+1092,T228,Cloud Architecture,2024-09-23,74,True,59,3009,1825,False
+1574,T202,Cloud Architecture,2024-03-23,72,True,23,3006,2294,True
+1058,T666,Project Management,2024-02-11,86,True,21,3010,1936,True
+1670,T289,Cloud Architecture,2024-02-21,92,True,30,3005,2296,True
+1829,T611,Team Leadership,2024-01-29,83,False,22,3007,2283,True
+1714,T660,Cloud Architecture,2024-07-09,87,True,44,3007,1418,False
+1062,T800,Advanced Sales Techniques,2024-07-23,91,True,58,3008,1498,True
+1336,T807,Digital Marketing Fundamentals,2024-02-14,88,False,31,3006,1863,False
+1606,T118,Advanced Sales Techniques,2024-06-22,74,True,33,3006,1180,True
+1054,T221,Cloud Architecture,2024-11-01,80,True,36,3004,1384,False
+1399,T539,Project Management,2024-10-18,77,False,23,3007,1473,False
+1938,T545,Digital Marketing Fundamentals,2024-01-07,79,True,33,3002,1048,True
+1188,T222,Advanced Sales Techniques,2024-04-29,89,False,41,3008,869,True
+1912,T981,Digital Marketing Fundamentals,2024-03-10,81,False,34,3003,706,False
+1830,T853,Project Management,2024-09-30,96,False,42,3006,501,True
+1397,T943,Project Management,2024-04-04,79,False,20,3006,2480,True
+1745,T501,Advanced Sales Techniques,2024-12-03,84,True,29,3009,1529,False
+1801,T692,Project Management,2024-02-24,76,True,54,3009,1996,False
+1898,T497,Project Management,2024-07-10,88,True,26,3001,1319,False
+1964,T887,Cloud Architecture,2024-11-28,86,False,38,3005,2003,True
+1033,T421,Cloud Architecture,2024-05-02,91,True,47,3002,2442,False
+1889,T883,Advanced Sales Techniques,2024-07-23,83,True,48,3001,1443,True
+1509,T366,Cloud Architecture,2024-07-30,98,True,22,3006,608,True
+1666,T735,Digital Marketing Fundamentals,2024-08-02,95,True,48,3010,1756,True
+1617,T553,Team Leadership,2024-02-05,93,True,23,3005,1540,False
+1600,T202,Digital Marketing Fundamentals,2024-12-04,94,True,42,3005,849,False
+1570,T875,Team Leadership,2024-01-31,86,False,60,3001,1131,True
+1787,T414,Team Leadership,2024-07-26,100,True,36,3001,1892,False
+1500,T934,Project Management,2024-05-03,94,False,24,3006,1929,False
+1625,T702,Cloud Architecture,2024-08-25,74,True,32,3008,1794,True
+1644,T164,Team Leadership,2024-11-11,87,False,20,3005,1931,False
+1868,T513,Cloud Architecture,2024-03-05,77,True,59,3010,1134,False
+1794,T756,Project Management,2024-01-10,73,False,26,3006,1840,True
+1786,T613,Digital Marketing Fundamentals,2024-06-09,74,False,44,3008,2182,False
+1285,T204,Team Leadership,2024-03-25,80,True,48,3005,2379,False
+1753,T484,Team Leadership,2024-01-10,87,False,46,3004,1900,False
+1104,T486,Digital Marketing Fundamentals,2024-11-28,77,False,24,3002,693,False
+1825,T630,Digital Marketing Fundamentals,2024-04-11,88,False,28,3005,645,False
+1121,T540,Project Management,2024-02-15,85,False,51,3009,835,False
+1417,T753,Cloud Architecture,2024-05-27,78,True,31,3006,679,True
+1126,T972,Advanced Sales Techniques,2024-05-13,70,True,55,3009,915,True
+1804,T374,Project Management,2024-02-20,91,True,37,3002,609,True
+1092,T859,Cloud Architecture,2024-12-02,71,True,49,3005,1457,False
+1718,T673,Advanced Sales Techniques,2024-06-25,80,False,56,3007,697,False
+1908,T232,Cloud Architecture,2024-03-06,94,True,31,3002,853,False
+1330,T922,Project Management,2024-12-06,74,False,50,3001,1542,True
+1768,T610,Advanced Sales Techniques,2024-06-02,88,True,49,3009,1818,False
+1460,T375,Cloud Architecture,2024-02-04,83,False,30,3006,1062,True
+1694,T417,Team Leadership,2024-08-02,71,True,44,3010,2298,True
+1645,T426,Digital Marketing Fundamentals,2024-12-10,82,False,47,3010,1781,True
+1944,T982,Advanced Sales Techniques,2024-08-07,85,True,56,3008,805,True
+1803,T871,Cloud Architecture,2024-02-09,92,True,53,3008,2499,True
+1521,T520,Cloud Architecture,2024-01-04,76,False,37,3006,972,False
+1969,T468,Advanced Sales Techniques,2024-08-11,87,True,56,3001,1909,True
+1978,T625,Digital Marketing Fundamentals,2024-05-13,82,True,28,3009,1120,False
+1002,T257,Team Leadership,2024-03-28,86,True,46,3003,1849,False
+1566,T834,Digital Marketing Fundamentals,2024-02-07,89,False,26,3005,2154,False
+1614,T156,Digital Marketing Fundamentals,2024-12-28,79,False,40,3002,1209,True
+1918,T602,Project Management,2024-01-17,75,False,60,3001,2213,False
+1022,T652,Cloud Architecture,2024-01-08,77,True,20,3001,528,True
+1609,T583,Project Management,2024-12-15,70,False,60,3008,1996,True
+1641,T374,Team Leadership,2024-11-16,80,False,32,3001,1748,True
+1153,T285,Cloud Architecture,2024-01-27,73,True,52,3009,711,False
+1639,T121,Cloud Architecture,2024-06-27,95,False,54,3004,2084,True
+1735,T253,Cloud Architecture,2024-08-21,75,False,29,3004,1124,False
+1142,T374,Advanced Sales Techniques,2024-09-12,98,False,23,3009,938,True
+1261,T875,Project Management,2024-11-21,88,False,54,3003,1873,True
+1220,T802,Cloud Architecture,2024-03-11,74,True,52,3005,1370,False
+1123,T716,Project Management,2024-10-21,88,False,25,3001,1541,True
+1785,T621,Team Leadership,2024-05-05,76,True,27,3004,1817,True
+1457,T870,Digital Marketing Fundamentals,2024-01-26,92,True,25,3005,1206,False
+1846,T409,Digital Marketing Fundamentals,2024-03-28,84,True,29,3008,557,True
+1895,T370,Project Management,2024-06-03,99,False,36,3005,838,True
+1674,T451,Project Management,2024-12-02,91,False,32,3001,947,False
+1260,T627,Digital Marketing Fundamentals,2024-09-04,90,True,53,3004,2104,False
+1860,T375,Cloud Architecture,2024-03-06,74,True,23,3007,1849,True
+1851,T763,Project Management,2024-03-01,77,True,60,3008,1498,True
+1978,T545,Team Leadership,2024-03-16,85,False,52,3006,1691,False
+1927,T598,Advanced Sales Techniques,2024-07-29,93,False,49,3004,963,True
+1341,T327,Project Management,2024-09-10,76,False,57,3001,877,True
+1547,T840,Project Management,2024-01-07,99,False,23,3006,1394,False
+1696,T951,Team Leadership,2024-01-30,82,True,59,3003,1448,True
+1158,T860,Advanced Sales Techniques,2024-03-24,84,False,29,3005,1607,True
+1901,T688,Project Management,2024-09-14,81,True,30,3005,1845,True
+1773,T565,Digital Marketing Fundamentals,2024-06-23,83,True,48,3004,2339,False
+1155,T155,Advanced Sales Techniques,2024-01-13,85,True,24,3002,1413,False
+1654,T438,Digital Marketing Fundamentals,2024-03-09,92,False,49,3008,2286,False
+1492,T353,Digital Marketing Fundamentals,2024-01-12,73,True,46,3008,1965,False
+1888,T404,Digital Marketing Fundamentals,2024-11-26,92,True,51,3002,1935,False
+1500,T742,Team Leadership,2024-08-07,86,True,35,3001,2159,True
+1294,T869,Project Management,2024-09-10,97,True,34,3001,2383,True
+1574,T319,Cloud Architecture,2024-12-10,79,True,54,3008,2149,True
+1799,T427,Digital Marketing Fundamentals,2024-08-05,95,True,32,3010,1780,True
+1057,T895,Cloud Architecture,2024-12-10,86,True,32,3006,1051,True
+1108,T946,Cloud Architecture,2024-11-25,84,True,26,3003,2408,False
+1816,T811,Advanced Sales Techniques,2024-02-05,95,False,55,3009,1783,True
+1790,T731,Project Management,2024-11-19,85,False,56,3010,1447,True
+1142,T810,Cloud Architecture,2024-08-19,90,True,50,3009,579,True
+1929,T634,Cloud Architecture,2024-05-01,98,False,33,3010,692,True
+1430,T282,Advanced Sales Techniques,2024-01-02,78,False,49,3009,1349,True
+1930,T141,Cloud Architecture,2024-01-30,87,True,44,3010,638,False
+1559,T502,Team Leadership,2024-12-02,71,False,44,3010,2443,False
+1868,T994,Digital Marketing Fundamentals,2024-12-21,78,False,57,3002,745,False
+1084,T143,Advanced Sales Techniques,2024-10-20,80,False,30,3008,2093,True
+1331,T442,Team Leadership,2024-04-17,77,True,26,3009,2029,True
+1539,T606,Cloud Architecture,2024-05-30,80,False,31,3004,533,True
+1166,T756,Team Leadership,2024-08-27,99,True,51,3006,824,True
+1704,T452,Cloud Architecture,2024-05-30,85,True,35,3002,2272,True
+1718,T372,Cloud Architecture,2024-02-01,79,True,44,3007,2462,True
+1556,T262,Team Leadership,2024-12-02,84,False,43,3010,1399,True
+1477,T551,Team Leadership,2024-09-30,73,False,46,3001,1221,True
+1720,T408,Team Leadership,2024-04-01,99,False,60,3008,1086,True
+1629,T490,Project Management,2024-11-12,77,False,54,3007,2100,False
+1097,T537,Digital Marketing Fundamentals,2024-06-05,94,False,30,3010,757,True
+1782,T609,Team Leadership,2024-01-14,94,True,44,3001,1166,True
+1775,T946,Project Management,2024-06-29,70,True,25,3001,547,True
+1494,T970,Team Leadership,2024-07-11,87,True,27,3009,2203,True
+1751,T518,Cloud Architecture,2024-02-25,85,False,24,3010,1605,False
+1696,T862,Advanced Sales Techniques,2024-12-13,76,True,31,3006,615,True
+1640,T303,Cloud Architecture,2024-07-09,89,True,30,3008,2492,False
+1665,T398,Digital Marketing Fundamentals,2024-03-01,78,False,38,3005,2368,False
+1970,T264,Team Leadership,2024-01-15,86,False,58,3003,1094,False
+1817,T548,Team Leadership,2024-09-02,99,True,49,3005,548,False
+1948,T501,Project Management,2024-10-15,82,False,56,3010,2027,False
+1129,T988,Advanced Sales Techniques,2024-04-19,91,False,27,3004,1467,False
+1624,T644,Cloud Architecture,2024-05-21,76,False,44,3002,2183,True
+1325,T837,Project Management,2024-01-19,97,True,21,3009,1508,False
+1578,T129,Project Management,2024-09-27,72,True,52,3002,860,True
+1966,T265,Team Leadership,2024-10-03,76,False,55,3002,1248,False
+1490,T176,Advanced Sales Techniques,2024-08-09,75,False,30,3003,1952,False
+1775,T957,Advanced Sales Techniques,2024-08-02,89,True,32,3006,1358,True
+1817,T891,Project Management,2024-01-03,97,False,38,3004,1497,True
+1817,T654,Cloud Architecture,2024-06-17,98,False,21,3002,2275,True
+1364,T813,Cloud Architecture,2024-10-12,71,True,36,3004,881,True
+1577,T171,Project Management,2024-11-23,75,True,29,3005,1486,False
+1675,T528,Team Leadership,2024-12-13,99,False,52,3004,553,True
+1995,T199,Team Leadership,2024-03-20,75,False,23,3010,1748,True
+1897,T586,Digital Marketing Fundamentals,2024-09-24,72,True,51,3007,2315,False
+1544,T215,Digital Marketing Fundamentals,2024-09-23,93,True,58,3007,1513,True
+1570,T397,Digital Marketing Fundamentals,2024-12-10,72,True,20,3009,1978,False
+1637,T867,Team Leadership,2024-12-09,81,True,52,3006,686,False
+1041,T482,Team Leadership,2024-05-16,87,False,42,3010,2235,True
+1711,T358,Advanced Sales Techniques,2024-03-29,99,True,23,3008,1244,True
+1562,T563,Project Management,2024-04-03,89,False,30,3003,2268,False
+1484,T904,Digital Marketing Fundamentals,2024-03-21,71,True,31,3006,1763,True
+1916,T835,Advanced Sales Techniques,2024-05-20,91,True,31,3008,845,False
+1276,T392,Project Management,2024-01-11,95,False,40,3001,1006,True
+1464,T690,Digital Marketing Fundamentals,2024-02-13,87,True,41,3005,2100,False
+1481,T550,Cloud Architecture,2024-06-05,77,False,48,3008,1565,True
+1578,T111,Team Leadership,2024-10-02,80,True,46,3004,1613,True
+1411,T536,Cloud Architecture,2024-03-13,82,False,59,3005,526,True
+1471,T313,Team Leadership,2024-06-12,93,True,30,3010,2471,True
+1512,T499,Digital Marketing Fundamentals,2024-02-21,87,True,33,3007,641,False
+1650,T783,Digital Marketing Fundamentals,2024-05-06,79,False,21,3003,1718,True
+1935,T726,Digital Marketing Fundamentals,2024-01-27,82,False,21,3006,2030,False
+1574,T407,Advanced Sales Techniques,2024-01-14,90,False,56,3003,2154,True
+1551,T329,Digital Marketing Fundamentals,2024-05-01,92,False,22,3003,776,True
+1999,T465,Advanced Sales Techniques,2024-11-23,72,False,39,3009,1799,False
+1194,T525,Project Management,2024-11-19,77,True,42,3009,1018,False
+1987,T134,Team Leadership,2024-08-11,70,False,34,3006,1873,True
+1499,T483,Project Management,2024-04-15,76,True,48,3003,1364,True
+1902,T134,Project Management,2024-05-26,91,False,40,3007,911,True
+1774,T356,Team Leadership,2024-02-16,91,False,26,3003,1363,False
+1052,T640,Project Management,2024-07-07,92,False,43,3006,1535,False
+1200,T584,Project Management,2024-04-04,89,False,54,3009,2218,True
+1437,T828,Team Leadership,2024-01-14,86,True,59,3007,1175,True
+1108,T688,Project Management,2024-12-07,100,False,38,3005,1944,False
+1199,T910,Cloud Architecture,2024-12-13,72,False,60,3008,1542,False
+1301,T425,Team Leadership,2024-05-21,79,False,49,3001,1312,True
+1534,T888,Digital Marketing Fundamentals,2024-09-15,93,False,55,3009,1871,True
+1320,T653,Digital Marketing Fundamentals,2024-01-29,97,False,38,3004,2402,True
+1875,T577,Digital Marketing Fundamentals,2024-11-10,79,True,24,3006,1372,False
+1154,T584,Team Leadership,2024-10-10,71,True,42,3007,831,False
+1411,T874,Project Management,2024-05-11,88,True,54,3001,2183,False
+1129,T561,Project Management,2024-02-09,74,True,22,3009,1167,False
+1408,T343,Advanced Sales Techniques,2024-03-21,83,False,46,3001,1318,False
+1650,T416,Project Management,2024-03-26,94,True,30,3004,1492,False
+1337,T811,Project Management,2024-09-12,76,True,34,3004,1839,True
+1270,T695,Cloud Architecture,2024-02-18,90,True,42,3005,1546,False
+1954,T691,Cloud Architecture,2024-01-12,86,True,20,3007,1379,False
+1330,T312,Digital Marketing Fundamentals,2024-08-17,85,False,25,3001,1662,True
+1022,T255,Project Management,2024-06-02,99,True,20,3001,540,True
+1918,T271,Team Leadership,2024-06-21,82,False,25,3008,1648,True
+1521,T834,Project Management,2024-03-19,96,False,36,3005,1921,True
+1401,T247,Team Leadership,2024-01-22,92,False,46,3006,507,True
+1885,T849,Project Management,2024-12-01,94,False,30,3006,627,True
+1158,T236,Project Management,2024-12-01,73,False,32,3006,915,False
+1336,T699,Cloud Architecture,2024-12-28,85,True,57,3008,2270,False
+1764,T503,Advanced Sales Techniques,2024-08-15,82,True,38,3003,1741,True
+1218,T643,Advanced Sales Techniques,2024-11-20,73,True,50,3001,736,False
+1473,T872,Digital Marketing Fundamentals,2024-11-17,79,False,21,3009,952,False
+1573,T484,Digital Marketing Fundamentals,2024-11-03,88,True,51,3006,519,False
+1561,T877,Cloud Architecture,2024-02-28,73,True,33,3004,736,False
+1875,T798,Cloud Architecture,2024-04-23,78,False,44,3003,711,False
+1294,T173,Advanced Sales Techniques,2024-01-01,96,True,48,3006,714,False
+1110,T488,Digital Marketing Fundamentals,2024-07-04,87,False,44,3009,1903,True
+1941,T294,Project Management,2024-04-30,92,False,32,3003,1411,False
+1033,T263,Project Management,2024-02-06,79,False,33,3006,1250,False
+1672,T782,Advanced Sales Techniques,2024-09-04,72,True,24,3010,1873,True
+1269,T792,Project Management,2024-11-23,92,False,28,3006,891,False
+1591,T474,Cloud Architecture,2024-03-19,100,True,25,3010,1293,False
+1279,T682,Team Leadership,2024-05-11,71,False,59,3005,2487,False
+1370,T794,Project Management,2024-08-08,88,True,36,3006,802,True
+1005,T240,Advanced Sales Techniques,2024-09-02,90,True,52,3009,1864,False
+1002,T746,Team Leadership,2024-09-21,72,True,60,3007,545,False
+1966,T234,Advanced Sales Techniques,2024-06-11,74,True,20,3001,1086,False
+1555,T596,Project Management,2024-06-10,85,False,29,3002,582,True
+1539,T391,Project Management,2024-05-11,83,False,39,3003,1210,False
+1725,T543,Project Management,2024-04-02,82,True,31,3003,1764,True
+1976,T864,Digital Marketing Fundamentals,2024-04-01,95,False,38,3002,1442,True
+1019,T455,Team Leadership,2024-08-06,85,True,58,3003,1769,True
+1715,T988,Team Leadership,2024-01-20,94,True,49,3001,2206,False
+1258,T795,Project Management,2024-03-27,90,False,29,3004,1184,True
+1970,T675,Project Management,2024-11-04,91,False,25,3008,2295,False
+1651,T242,Advanced Sales Techniques,2024-05-29,79,False,50,3001,581,False
+1534,T300,Advanced Sales Techniques,2024-03-28,91,False,45,3003,1446,True
+1899,T274,Digital Marketing Fundamentals,2024-09-13,80,True,54,3003,1442,False
+1222,T671,Cloud Architecture,2024-07-19,74,False,30,3003,1190,True
+1436,T992,Cloud Architecture,2024-05-20,79,True,49,3004,2346,True
+1917,T337,Advanced Sales Techniques,2024-07-05,72,False,46,3005,1368,False
+1373,T897,Advanced Sales Techniques,2024-04-17,77,True,58,3006,2014,False
+1921,T187,Project Management,2024-03-18,80,True,23,3004,1697,False
+1108,T965,Advanced Sales Techniques,2024-03-26,96,True,21,3005,2047,False
+1222,T323,Advanced Sales Techniques,2024-08-22,81,True,57,3009,609,True
+1840,T360,Advanced Sales Techniques,2024-02-09,91,False,21,3001,1993,False
+1899,T513,Project Management,2024-08-16,79,False,43,3006,1567,False
+1160,T266,Digital Marketing Fundamentals,2024-05-04,75,False,48,3007,1570,False
+1479,T443,Digital Marketing Fundamentals,2024-12-05,92,False,38,3005,2484,True
+1596,T279,Team Leadership,2024-07-14,85,False,21,3002,1734,True
+1150,T923,Digital Marketing Fundamentals,2024-01-08,74,False,48,3005,1748,False
+1141,T978,Cloud Architecture,2024-09-29,94,True,25,3007,1289,True
+1628,T463,Cloud Architecture,2024-01-05,76,True,37,3010,1621,False
+1078,T805,Digital Marketing Fundamentals,2024-01-11,75,True,34,3006,1434,False
+1461,T737,Cloud Architecture,2024-11-04,73,True,36,3001,1093,True
+1530,T492,Cloud Architecture,2024-08-02,82,True,34,3002,2383,False
+1347,T754,Digital Marketing Fundamentals,2024-04-25,76,True,49,3004,1793,False
+1935,T594,Team Leadership,2024-02-09,90,False,33,3001,2288,False
+1328,T649,Digital Marketing Fundamentals,2024-06-01,86,True,49,3007,1229,False
+1946,T930,Team Leadership,2024-02-24,97,True,42,3009,1667,False
+1225,T750,Advanced Sales Techniques,2024-09-21,90,True,51,3009,2398,False
+1541,T205,Digital Marketing Fundamentals,2024-05-26,91,False,60,3003,2434,True
+1419,T644,Team Leadership,2024-07-08,83,True,59,3001,1442,False
+1025,T424,Team Leadership,2024-05-20,72,True,42,3006,1245,True
+1045,T605,Digital Marketing Fundamentals,2024-01-18,95,True,55,3009,1322,False
+1907,T206,Advanced Sales Techniques,2024-02-05,81,True,24,3008,647,False
+1854,T229,Project Management,2024-10-04,84,True,25,3003,2306,False
+1520,T318,Advanced Sales Techniques,2024-04-30,81,False,30,3005,881,True
+1400,T149,Digital Marketing Fundamentals,2024-06-16,90,True,26,3007,1779,False
+1428,T724,Advanced Sales Techniques,2024-07-20,80,False,35,3006,2064,True
+1875,T515,Project Management,2024-04-03,95,True,24,3010,2178,False
+1728,T558,Advanced Sales Techniques,2024-09-08,88,True,28,3004,854,False
+1724,T207,Advanced Sales Techniques,2024-02-17,100,False,35,3003,1196,False
+1375,T738,Cloud Architecture,2024-04-14,73,True,35,3001,2152,True
+1882,T406,Project Management,2024-05-31,89,True,40,3007,1959,False
+1979,T918,Cloud Architecture,2024-05-20,98,True,48,3003,2087,True
+1755,T158,Digital Marketing Fundamentals,2024-01-03,96,False,33,3002,2118,True
+1538,T808,Team Leadership,2024-11-18,94,False,21,3002,1659,False
+1548,T971,Cloud Architecture,2024-10-30,81,True,40,3005,2388,False
+1371,T734,Cloud Architecture,2024-01-07,73,True,34,3002,804,False
+1300,T553,Advanced Sales Techniques,2024-03-28,100,False,32,3005,2185,True
+1242,T466,Advanced Sales Techniques,2024-08-12,99,False,37,3001,1420,False
+1261,T869,Team Leadership,2024-04-09,73,False,28,3010,1052,True
+1419,T661,Advanced Sales Techniques,2024-10-25,76,True,38,3006,2352,True
+1772,T730,Digital Marketing Fundamentals,2024-09-02,87,True,49,3003,2099,True
+1839,T947,Team Leadership,2024-12-17,94,False,42,3009,1067,False
+1549,T408,Advanced Sales Techniques,2024-05-23,75,True,30,3008,1974,False
+1388,T802,Advanced Sales Techniques,2024-12-02,74,True,55,3001,1367,False
+1896,T596,Cloud Architecture,2024-11-23,80,True,48,3010,893,False
+1261,T377,Digital Marketing Fundamentals,2024-05-20,98,True,57,3001,1330,False
+1501,T404,Cloud Architecture,2024-07-17,72,True,55,3004,530,False
+1214,T841,Digital Marketing Fundamentals,2024-10-05,79,True,51,3002,539,False
+1172,T439,Team Leadership,2024-09-19,98,False,37,3003,2161,True
+1472,T344,Digital Marketing Fundamentals,2024-10-09,76,False,56,3008,757,False
+1535,T529,Project Management,2024-10-06,89,True,30,3003,2338,False
+1870,T967,Cloud Architecture,2024-04-22,80,True,31,3003,1416,False
+1268,T766,Team Leadership,2024-05-30,90,True,32,3004,1560,False
+1504,T995,Advanced Sales Techniques,2024-11-30,77,False,20,3006,1581,False
+1901,T803,Team Leadership,2024-10-15,93,False,28,3003,873,True
+1870,T799,Cloud Architecture,2024-04-21,93,True,22,3005,525,True
+1220,T777,Digital Marketing Fundamentals,2024-09-06,74,True,32,3004,1888,False
+1656,T315,Project Management,2024-03-03,79,False,33,3006,2211,True
+1813,T155,Cloud Architecture,2024-01-23,73,False,46,3004,1612,True
+1413,T486,Team Leadership,2024-02-07,88,False,60,3004,1333,False
+1520,T484,Project Management,2024-07-13,99,False,59,3002,1740,False
+1556,T811,Digital Marketing Fundamentals,2024-02-10,97,True,34,3005,1101,False
+1744,T428,Cloud Architecture,2024-10-23,92,True,58,3007,1519,False
+1195,T603,Digital Marketing Fundamentals,2024-09-07,88,False,29,3009,928,True
+1516,T762,Project Management,2024-12-21,86,False,26,3007,2446,False
+1410,T335,Cloud Architecture,2024-08-20,96,False,31,3009,2159,True
+1618,T183,Advanced Sales Techniques,2024-01-09,80,False,27,3007,1545,True
+1303,T720,Team Leadership,2024-02-24,84,True,42,3005,1865,True
+1073,T790,Digital Marketing Fundamentals,2024-03-23,98,True,47,3006,1816,False
+1506,T506,Digital Marketing Fundamentals,2024-03-06,73,True,47,3008,1901,False
+2000,T711,Advanced Sales Techniques,2024-01-01,84,False,34,3006,707,True
+1526,T354,Digital Marketing Fundamentals,2024-02-06,99,False,46,3003,2182,True
+1227,T409,Project Management,2024-05-25,80,False,41,3002,1185,True
+1159,T821,Cloud Architecture,2024-05-15,97,True,58,3005,1497,False
+1038,T450,Project Management,2024-02-10,83,False,46,3006,1872,False
+1086,T271,Digital Marketing Fundamentals,2024-08-21,88,True,34,3005,1028,True
+1320,T491,Team Leadership,2024-07-21,95,False,57,3004,1542,True
+1381,T788,Cloud Architecture,2024-07-31,97,True,38,3010,958,False
+1979,T318,Digital Marketing Fundamentals,2024-12-27,90,True,59,3001,1563,True
+1087,T878,Advanced Sales Techniques,2024-08-22,92,False,52,3007,1416,False
+1908,T945,Digital Marketing Fundamentals,2024-01-03,94,False,53,3007,2207,False
+1205,T234,Advanced Sales Techniques,2024-06-06,84,True,54,3002,2498,True
+1414,T731,Digital Marketing Fundamentals,2024-10-15,78,True,55,3003,1306,False
+1965,T785,Advanced Sales Techniques,2024-01-07,86,False,23,3002,1202,True
+1738,T685,Project Management,2024-11-23,91,False,37,3001,1218,False
+1080,T691,Advanced Sales Techniques,2024-08-18,88,False,58,3009,1796,False
+1673,T907,Advanced Sales Techniques,2024-02-13,97,True,50,3005,845,False
+1082,T418,Cloud Architecture,2024-11-26,74,False,39,3001,1107,False
+1084,T271,Cloud Architecture,2024-07-07,86,False,52,3010,1817,True
+1666,T571,Advanced Sales Techniques,2024-10-24,87,True,23,3004,1207,False
+1700,T382,Cloud Architecture,2024-05-15,99,True,55,3010,738,True
+1031,T418,Project Management,2024-01-13,99,True,36,3007,574,True
+1911,T982,Cloud Architecture,2024-06-26,87,False,36,3010,1677,False
+1923,T282,Team Leadership,2024-05-13,94,True,26,3006,607,True
+1009,T666,Team Leadership,2024-02-16,83,False,23,3005,2401,True
+1756,T692,Digital Marketing Fundamentals,2024-12-22,96,False,58,3001,2491,True
+1330,T385,Advanced Sales Techniques,2024-10-15,96,False,37,3003,2027,True
+1228,T972,Digital Marketing Fundamentals,2024-08-12,88,False,54,3009,2364,False
+1408,T737,Advanced Sales Techniques,2024-12-25,87,False,38,3009,1921,False
+1078,T279,Advanced Sales Techniques,2024-03-03,74,True,38,3010,1277,True
+1359,T716,Cloud Architecture,2024-05-31,94,False,22,3007,799,False
+1147,T331,Digital Marketing Fundamentals,2024-11-12,74,False,37,3004,1281,True
+1114,T351,Project Management,2024-12-16,95,False,23,3006,1461,True
+1917,T964,Team Leadership,2024-06-28,75,False,51,3006,2376,False
+1516,T604,Advanced Sales Techniques,2024-07-02,93,True,56,3007,1022,False
+1121,T373,Team Leadership,2024-09-03,88,False,52,3004,2148,False
+1415,T839,Advanced Sales Techniques,2024-05-17,73,False,47,3009,1193,False
+1466,T903,Team Leadership,2024-11-07,86,False,34,3003,1128,False
+1785,T444,Cloud Architecture,2024-01-09,89,True,22,3004,1813,False
+1955,T177,Project Management,2024-04-18,88,True,28,3007,1998,True
+1254,T903,Project Management,2024-06-04,99,False,27,3006,1977,False
+1901,T757,Digital Marketing Fundamentals,2024-02-06,74,True,45,3009,908,False
+1755,T637,Advanced Sales Techniques,2024-12-09,91,True,48,3002,1457,True
+1564,T543,Digital Marketing Fundamentals,2024-06-01,87,True,49,3005,2457,False
+1802,T219,Cloud Architecture,2024-09-08,71,False,46,3006,1119,False
+1387,T425,Team Leadership,2024-03-02,82,True,44,3004,1300,True
+1999,T822,Project Management,2024-09-14,91,True,33,3010,792,True
+1906,T280,Cloud Architecture,2024-02-26,97,True,38,3003,698,True
+1237,T603,Project Management,2024-09-18,93,True,21,3005,1816,False
+1577,T833,Cloud Architecture,2024-09-04,85,True,25,3003,974,True
+1344,T890,Team Leadership,2024-12-18,96,True,51,3008,1950,False
+1612,T107,Advanced Sales Techniques,2024-07-19,75,True,57,3010,765,True
+1910,T124,Advanced Sales Techniques,2024-08-31,77,True,48,3001,2024,False
+1329,T585,Digital Marketing Fundamentals,2024-04-20,92,True,55,3006,601,False
+1723,T403,Project Management,2024-03-17,90,True,25,3004,1736,True
+1552,T237,Cloud Architecture,2024-10-11,97,False,57,3007,2033,False
+1639,T345,Project Management,2024-08-22,96,True,47,3009,959,True
+1245,T661,Advanced Sales Techniques,2024-09-18,92,True,33,3004,1651,True
+1851,T340,Team Leadership,2024-06-16,93,False,32,3007,643,False
+1737,T163,Digital Marketing Fundamentals,2024-05-14,85,False,24,3010,1090,False
+1911,T530,Advanced Sales Techniques,2024-06-14,98,False,54,3002,1534,True
+1661,T176,Advanced Sales Techniques,2024-07-27,82,False,29,3010,877,True
+1954,T341,Advanced Sales Techniques,2024-12-07,93,False,52,3010,1958,False
+1731,T792,Project Management,2024-10-15,88,True,29,3001,631,True
+1697,T672,Project Management,2024-12-04,95,True,20,3008,824,True
+1152,T844,Cloud Architecture,2024-09-04,90,False,39,3008,1562,True
+1821,T135,Advanced Sales Techniques,2024-08-04,89,False,37,3002,512,True
+1315,T879,Digital Marketing Fundamentals,2024-11-18,78,True,41,3004,1494,False
+1142,T373,Project Management,2024-10-21,94,False,25,3008,1526,False
+1563,T369,Team Leadership,2024-09-05,93,False,22,3003,940,True
+1520,T786,Cloud Architecture,2024-07-12,72,True,58,3002,1266,False
+1935,T170,Project Management,2024-10-31,97,True,20,3005,1813,True
+1757,T706,Team Leadership,2024-03-04,94,True,35,3005,2343,True
+1029,T785,Cloud Architecture,2024-01-04,97,False,29,3006,594,False
+1622,T803,Team Leadership,2024-02-25,76,True,23,3007,2061,True
+1434,T959,Project Management,2024-12-10,79,False,24,3009,1459,False
+1807,T542,Project Management,2024-01-02,89,False,25,3008,2397,False
+1649,T646,Team Leadership,2024-04-09,92,True,56,3007,756,True
+1309,T274,Project Management,2024-11-24,85,False,54,3002,618,True
+1706,T416,Advanced Sales Techniques,2024-08-03,71,True,53,3003,1204,True
+1217,T148,Team Leadership,2024-07-07,81,True,27,3008,1346,True
+1866,T959,Digital Marketing Fundamentals,2024-02-01,98,True,40,3003,2327,True
+1044,T417,Project Management,2024-12-11,99,False,21,3006,1061,False
+1578,T124,Digital Marketing Fundamentals,2024-01-12,96,True,52,3005,1817,False
+1674,T189,Team Leadership,2024-11-17,93,True,36,3003,2153,True
+1778,T389,Team Leadership,2024-03-29,76,True,53,3008,1644,False
+1340,T229,Team Leadership,2024-05-28,77,True,30,3009,2287,False
+1303,T218,Cloud Architecture,2024-10-31,77,True,40,3009,1835,True
+1883,T279,Advanced Sales Techniques,2024-09-18,71,True,50,3008,530,True
+1146,T344,Cloud Architecture,2024-05-11,80,True,32,3006,2147,True
+1448,T278,Team Leadership,2024-03-29,79,True,43,3008,2337,True
+1916,T620,Project Management,2024-04-20,76,True,52,3007,2246,True
+1271,T198,Team Leadership,2024-07-08,73,False,34,3006,2218,False
+1226,T928,Digital Marketing Fundamentals,2024-05-26,88,True,52,3010,809,False
+1845,T454,Digital Marketing Fundamentals,2024-10-19,84,False,46,3005,1981,True
+1201,T336,Advanced Sales Techniques,2024-04-24,78,True,33,3001,1864,False
+1561,T896,Advanced Sales Techniques,2024-02-04,86,True,43,3009,1216,True
+1352,T103,Team Leadership,2024-04-08,74,True,43,3009,1858,True
+1752,T867,Project Management,2024-04-23,95,False,59,3002,2476,False
+1793,T345,Team Leadership,2024-10-31,99,True,35,3004,637,True
+1834,T954,Project Management,2024-02-25,97,True,53,3007,2017,False
+1345,T512,Project Management,2024-10-07,80,True,30,3003,519,True
+1384,T294,Project Management,2024-10-03,92,False,51,3010,2293,True
+1461,T708,Digital Marketing Fundamentals,2024-11-30,72,True,31,3005,1311,False
+1078,T659,Cloud Architecture,2024-10-16,91,False,58,3002,1022,False
+1117,T744,Cloud Architecture,2024-07-01,71,True,36,3001,1992,False
+1604,T618,Cloud Architecture,2024-02-14,78,True,20,3008,2182,False
+1808,T177,Team Leadership,2024-09-23,90,True,26,3001,1650,True
+1795,T212,Team Leadership,2024-12-18,95,True,39,3010,1987,False
+1208,T279,Advanced Sales Techniques,2024-08-14,81,False,34,3004,2240,False
+1885,T428,Cloud Architecture,2024-06-19,73,False,40,3003,2173,False
+1103,T914,Cloud Architecture,2024-04-24,99,True,36,3001,2338,True
+1034,T237,Digital Marketing Fundamentals,2024-05-10,88,True,51,3006,2254,True
+1546,T333,Digital Marketing Fundamentals,2024-03-25,71,True,31,3003,1648,False
+1977,T864,Digital Marketing Fundamentals,2024-01-26,70,False,43,3008,1940,False
+1891,T239,Cloud Architecture,2024-12-01,81,True,60,3009,2419,True
+1725,T954,Cloud Architecture,2024-04-25,95,False,39,3003,726,False
+1600,T242,Project Management,2024-05-21,92,False,24,3007,1978,True
+1963,T826,Digital Marketing Fundamentals,2024-08-13,98,False,51,3008,1831,True
+1497,T758,Project Management,2024-05-22,83,True,59,3003,511,False
+1378,T948,Advanced Sales Techniques,2024-05-17,96,False,49,3001,2118,False
+1833,T463,Cloud Architecture,2024-01-06,93,True,20,3005,948,False
+1639,T378,Project Management,2024-08-05,73,False,56,3009,2379,True
+1708,T498,Project Management,2024-01-20,85,False,38,3004,989,False
