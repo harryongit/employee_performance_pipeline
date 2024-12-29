@@ -181,13 +181,6 @@ employee_performance_pipeline/
     └── api.md
 ```
 
-## 📚 Documentation
-
-Detailed documentation is available in the `docs/` directory:
-- [API Documentation](docs/api.md)
-- [Configuration Guide](docs/configuration.md)
-- [Development Guide](docs/development.md)
-
 ## 🛡️ Security
 
 For security concerns, please create an issue with the security label or contact the maintainers directly.
@@ -203,6 +196,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Maintainer - [@yourusername](https://github.com/harryongit/)
+Project Maintainer - [@harryongit](https://github.com/harryongit/)
 
 Project Link: [https://github.com/harryongit/employee_performance_pipeline](https://github.com/harryongit/employee_performance_pipeline)
